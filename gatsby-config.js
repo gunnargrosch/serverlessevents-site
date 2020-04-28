@@ -7,6 +7,24 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-helmet',
     {
+      resolve: 'gatsby-plugin-next-seo',
+      options: {
+        openGraph: {
+          title: 'Serverless Events - A curated list of awesome serverless events around the world',
+          description: 'A curated list of awesome serverless events around the world by and for the community',
+          images: [
+            { url: 'https://cdn.grosch.se/serverlessevents/serverlessevents-card.png' },
+          ],
+          site_name: 'Serverless Events',
+        },
+        twitter: {
+          handle: '@gunnargrosch',
+          site: '@gunnargrosch',
+          cardType: 'summary_large_image',
+        },
+      },
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'gatsby-starter-default',
