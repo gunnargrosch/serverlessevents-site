@@ -42,6 +42,16 @@
       "language": "English"
     },
     {
+      "event": "ServerlessDays Paris - Remote Session #1",
+      "organizer": "Paris Serverless Architecture Meetup",
+      "starttime": 1588780800,
+      "endtime": 1588786200,
+      "location": "Online",
+      "description": "En partenariat avec notre meetup, cette première session des ServerlessDays Paris en remote se déroulera en anglais car nous avons le plaisir d'accueillir Yan Cui et Rita Kozlov.",
+      "url": "https://www.meetup.com/Paris-Serverless-Architecture-Meetup/events/270316728/",
+      "language": "English"
+    },
+    {
       "event": "Nordic Serverless Chaos Engineering Special",
       "organizer": "Nordic Serverless",
       "starttime": 1589385600,
