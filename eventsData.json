@@ -1,0 +1,75 @@
+{
+  "title": "Serverless Events in JSON",
+  "content": [
+    {
+      "event": "Nordic Serverless Observability Special",
+      "organizer": "Nordic Serverless",
+      "starttime": 1587484800,
+      "endtime": 1587492000,
+      "location": "Online",
+      "description": "We're hosting a meetup where Epsagon, Thundra, Dashbird and Lumigo will give a session each on serverless observability.",
+      "url": "https://www.meetup.com/Stockholm-Serverless/events/269796168/",
+      "language": "English"
+    },
+    {
+      "event": "ServerlessDays Virtual",
+      "organizer": "ServerlessDays Virtual",
+      "starttime": 1588176000,
+      "endtime": 1588194000,
+      "location": "Online",
+      "description": "One Day. One Track. One Community.",
+      "url": "https://virtual.serverlessdays.io/",
+      "language": "English"
+    },
+    {
+      "event": "giovedì 30 aprile alle 18:30, Simone Zennaro @ Serverless Live #29",
+      "organizer": "Serverless Italy Meetup",
+      "starttime": 1588264200,
+      "endtime": 1588271400,
+      "location": "Online",
+      "description": "Ci vediamo giovedì 30 aprile alle 18:30 con Serverless Italy Meetup in streaming #29.",
+      "url": "https://www.meetup.com/Serverless-Italy/events/270293185/",
+      "language": "Italian"
+    },
+    {
+      "event": "Nordic Serverless More than a key-value store: Getting the most out of DynamoDB",
+      "organizer": "Nordic Serverless",
+      "starttime": 1588694400,
+      "endtime": 1588701600,
+      "location": "Online",
+      "description": "Join us for a meetup around DynamoDB with AWS Data Hero Alex DeBrie.",
+      "url": "https://www.meetup.com/Stockholm-Serverless/events/270194848/",
+      "language": "English"
+    },
+    {
+      "event": "Nordic Serverless Chaos Engineering Special",
+      "organizer": "Nordic Serverless",
+      "starttime": 1589385600,
+      "endtime": 1589392800,
+      "location": "Online",
+      "description": "Finally on the same stage we'll have Adrian Hornsby and Gunnar Grosch talking about chaos engineering from a serverless perspective.",
+      "url": "https://www.meetup.com/Stockholm-Serverless/events/269807696/",
+      "language": "English"
+    },
+    {
+      "event": "AWS Serverless-First Function - Serverless for your Organization",
+      "organizer": "Amazon Web Services (AWS)",
+      "starttime": 1590030000,
+      "endtime": 1590048000,
+      "location": "Online",
+      "description": "Learn real-world tactics for transforming your organization to get the most out of the cloud.",
+      "url": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
+      "language": "English"
+    },
+    {
+      "event": "AWS Serverless-First Function - Serverless for your Application",
+      "organizer": "Amazon Web Services (AWS)",
+      "starttime": 1590634800,
+      "endtime": 1590739200,
+      "location": "Online",
+      "description": "Consider this event your complete builder’s guide to serverless applications.",
+      "url": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
+      "language": "English"
+    }
+  ]
+}
