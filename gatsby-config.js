@@ -6,7 +6,6 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-next-seo',
     {
       resolve: 'gatsby-plugin-next-seo',
       options: {

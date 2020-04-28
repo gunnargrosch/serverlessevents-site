@@ -13,7 +13,6 @@ class HomeIndex extends React.Component {
         <GatsbySeo
           title='Serverless Events - A curated list of awesome serverless events around the world'
           description='A curated list of awesome serverless events around the world by and for the community'
-          canonical='https://serverlessevents.io'
         />
         <Helmet
           title="Serverless Events - A curated list of awesome serverless events around the world"
