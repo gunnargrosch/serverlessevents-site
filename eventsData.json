@@ -120,6 +120,16 @@
       "description": "Consider this event your complete builder’s guide to serverless applications.",
       "url": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
       "language": "English"
+    },
+    {
+      "event": "Sydney Serverless - May Edition (Online)",
+      "organizer": "Sydney Serverless Meetup - Peter Hanssens",
+      "starttime": 1588750200,
+      "endtime": 1588755600,
+      "location": "Online",
+      "description": "Your monthly fill of Serverless from Australia's favourite meetup.",
+      "url": "https://www.meetup.com/Sydney-Serverless-Meetup-Group/events/270287342/",
+      "language": "English"
     }
   ]
 }
