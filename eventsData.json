@@ -32,6 +32,26 @@
       "language": "Italian"
     },
     {
+      "event": "Sessions With SAM: Building SQS topics with SAM",
+      "organizer": "Eric Johnson (AWS)",
+      "starttime": 1588266000,
+      "endtime": 1588267800,
+      "location": "Online",
+      "description": "This series is dedicated to building serverless infrastructure with AWS SAM templates.",
+      "url": "https://twitch.tv/aws",
+      "language": "English"
+    },
+    {
+      "event": "Let's Deploy using AWS Cli",
+      "organizer": "Serverless Ahmedabad",
+      "starttime": 1588397400,
+      "endtime": 1588401000,
+      "location": "Online",
+      "description": "Let's learn how to deploy your serverless applications using AWS Cli",
+      "url": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/270328658/",
+      "language": "English"
+    },
+    {
       "event": "Nordic Serverless More than a key-value store: Getting the most out of DynamoDB",
       "organizer": "Nordic Serverless",
       "starttime": 1588694400,
@@ -49,6 +69,26 @@
       "location": "Online",
       "description": "En partenariat avec notre meetup, cette première session des ServerlessDays Paris en remote se déroulera en anglais car nous avons le plaisir d'accueillir Yan Cui et Rita Kozlov.",
       "url": "https://www.meetup.com/Paris-Serverless-Architecture-Meetup/events/270316728/",
+      "language": "English"
+    },
+    {
+      "event": "Sessions With SAM: Safe deployments for Lambda functions",
+      "organizer": "Eric Johnson (AWS)",
+      "starttime": 1588870800,
+      "endtime": 1588872600,
+      "location": "Online",
+      "description": "This series is dedicated to building serverless infrastructure with AWS SAM templates.",
+      "url": "https://twitch.tv/aws",
+      "language": "English"
+    },
+    {
+      "event": "Happy Little APIs (S2E4): Building a Serverless URL Shortener without using a Lambda (Part 3)",
+      "organizer": "Eric Johnson (AWS)",
+      "starttime": 1588870800,
+      "endtime": 1588872600,
+      "location": "Online",
+      "description": "This is the final session on using API Gateway and DynamoDB to create a serverless URL shortener.",
+      "url": "https://twitch.tv/aws",
       "language": "English"
     },
     {
@@ -79,46 +119,6 @@
       "location": "Online",
       "description": "Consider this event your complete builder’s guide to serverless applications.",
       "url": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
-      "language": "English"
-    },
-    {
-      "event": "Let's Deploy using AWS Cli",
-      "organizer": "Serverless Ahmedabad",
-      "starttime": 1588397400,
-      "endtime": 1588401000,
-      "location": "Online",
-      "description": "Let's learn how to deploy your serverless applications using AWS Cli",
-      "url": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/270328658/",
-      "language": "English"
-    },
-    {
-      "event": "Sessions With SAM: Building SQS topics with SAM",
-      "organizer": "Eric Johnson (AWS)",
-      "starttime": 1588266000,
-      "endtime": 1588267800,
-      "location": "Online",
-      "description": "This series is dedicated to building serverless infrastructure with AWS SAM templates.",
-      "url": "https://twitch.tv/aws",
-      "language": "English"
-    },
-    {
-      "event": "Sessions With SAM: Safe deployments for Lambda functions",
-      "organizer": "Eric Johnson (AWS)",
-      "starttime": 1588870800,
-      "endtime": 1588872600,
-      "location": "Online",
-      "description": "This series is dedicated to building serverless infrastructure with AWS SAM templates.",
-      "url": "https://twitch.tv/aws",
-      "language": "English"
-    },
-    {
-      "event": "Happy Little APIs (S2E4): Buikding a Serverles URL Shortener withiut using a Lambda (Part 3)",
-      "organizer": "Eric Johnson (AWS)",
-      "starttime": 1588870800,
-      "endtime": 1588872600,
-      "location": "Online",
-      "description": "This is the final session on using API Gateway and DynamoDB to create a serverless URL shortener.",
-      "url": "https://twitch.tv/aws",
       "language": "English"
     }
   ]
