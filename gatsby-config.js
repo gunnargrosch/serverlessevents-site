@@ -5,6 +5,14 @@ module.exports = {
     description: "A curated list of awesome serverless events around the world by and for the community"
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-164897740-1",
+        head: false,
+        anonymize: true,
+      },
+    },
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-plugin-next-seo',
