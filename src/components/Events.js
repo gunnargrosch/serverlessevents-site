@@ -15,6 +15,7 @@ const Events = props => (
               <thead>
                 <tr>
                   <th>Event</th>
+                  <th>Organizer</th>
                   <th>Date and time UTC</th>
                   <th>Location</th>
                   <th>Description</th>
@@ -35,7 +36,8 @@ const Events = props => (
                     }).format(data.starttime*1000);
                     return (
                   <tr>
-                    <td>{data.event}</td>
+                    <td><a href={data.url} target="_blank">{data.event}</a></td>
+                    <td>{data.organizer}</td>
                     <td style={{ whiteSpace: 'nowrap' }}>{formattedStartTime}</td>
                     <td>{data.location}</td>
                     <td>{data.description}</td>
