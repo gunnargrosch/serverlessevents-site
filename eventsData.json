@@ -132,6 +132,16 @@
       "language": "English"
     },
     {
+      "event": "Sydney Serverless - May Edition (Online)",
+      "organizer": "Sydney Serverless Meetup - Peter Hanssens",
+      "starttime": 1588750200,
+      "endtime": 1588755600,
+      "location": "Online",
+      "description": "Your monthly fill of Serverless from Australia's favourite meetup.",
+      "url": "https://www.meetup.com/Sydney-Serverless-Meetup-Group/events/270287342/",
+      "language": "English"
+    },
+    {
       "event": "ServerlessDays Hamburg",
       "organizer": "Superluminar",
       "starttime": 1601535600,
