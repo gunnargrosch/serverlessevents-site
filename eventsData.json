@@ -62,6 +62,16 @@
       "language": "English"
     },
     {
+      "event": "Sydney Serverless - May Edition (Online)",
+      "organizer": "Sydney Serverless Meetup",
+      "starttime": 1588750200,
+      "endtime": 1588755600,
+      "location": "Online",
+      "description": "Your monthly fill of Serverless from Australia's favourite meetup.",
+      "url": "https://www.meetup.com/Sydney-Serverless-Meetup-Group/events/270287342/",
+      "language": "English"
+    },
+    {
       "event": "ServerlessDays Paris - Remote Session #1",
       "organizer": "Paris Serverless Architecture Meetup",
       "starttime": 1588780800,
@@ -132,21 +142,12 @@
       "language": "English"
     },
     {
-      "event": "Sydney Serverless - May Edition (Online)",
-      "organizer": "Sydney Serverless Meetup - Peter Hanssens",
-      "starttime": 1588750200,
-      "endtime": 1588755600,
-      "location": "Online",
-      "description": "Your monthly fill of Serverless from Australia's favourite meetup.",
-      "url": "https://www.meetup.com/Sydney-Serverless-Meetup-Group/events/270287342/",
-      "language": "English"
-    },
-    {
       "event": "ServerlessDays Hamburg",
       "organizer": "Superluminar",
       "starttime": 1601535600,
       "endtime": 1601652600,
-      "location": "Schmidts TIVOLI Theater, Spielbudenplatz 27-28, 20359 Hamburg, Germany",
+      "location": "Hamburg, Germany",
+      "address": "Schmidts TIVOLI Theater, Spielbudenplatz 27-28, 20359 Hamburg, Germany",
       "description": "ServerlessDays Hamburg is a 2-day conference about Serverless technologies with one day of workshops and one day with talks.",
       "url": "https://hamburg.serverlessdays.io",
       "language": "English"
