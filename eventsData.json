@@ -102,6 +102,16 @@
       "language": "English"
     },
     {
+      "event": "ServerlessDays Amsterdam - virtual conference",
+      "organizer": "ServerlessDays Amsterdam",
+      "starttime": 1588921200,
+      "endtime": 1588951800,
+      "location": "Online",
+      "description": "ServerlessDays Amsterdam is a developer-oriented conference about serverless technologies.",
+      "url": "https://serverlessdays.nl/",
+      "language": "English"
+    },
+    {
       "event": "Nordic Serverless Chaos Engineering Special",
       "organizer": "Nordic Serverless",
       "starttime": 1589385600,
