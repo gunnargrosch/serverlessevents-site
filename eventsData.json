@@ -80,6 +80,16 @@
       "description": "Consider this event your complete builder’s guide to serverless applications.",
       "url": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
       "language": "English"
+    },
+    {
+      "event": "Let's Deploy using AWS Cli",
+      "organizer": "Serverless Ahmedabad",
+      "starttime": 1588397400,
+      "endtime": 1588401000,
+      "location": "Online",
+      "description": "Let's learn how to deploy your serverless applications using AWS Cli",
+      "url": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/270328658/",
+      "language": "English"
     }
   ]
 }
