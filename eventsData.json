@@ -102,6 +102,16 @@
       "language": "English"
     },
     {
+      "event": "Patterns and Practices for Building Resilient AWS Serverless Applications",
+      "organizer": "AWS User Group Delhi",
+      "starttime": 1589635800,
+      "endtime": 1589643000,
+      "location": "Online",
+      "description": "In this talk, we will look at a number of practices and architectural patterns that can help you build more resilient serverless applications.",
+      "url": "https://www.meetup.com/AmazonAWS-Delhi/events/270236307/",
+      "language": "English"
+    },
+    {
       "event": "AWS Serverless-First Function - Serverless for your Organization",
       "organizer": "Amazon Web Services (AWS)",
       "starttime": 1590030000,
