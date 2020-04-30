@@ -132,6 +132,16 @@
       "language": "English"
     },
     {
+      "event": "ServerlessDays Belgium - virtual Meetup",
+      "organizer": "ServerlessDays Belgium",
+      "starttime": 1589994000,
+      "endtime": 1589994000,
+      "location": "Online",
+      "description": "ServerlessDays Belgium is a technology conference and meetup about Serverless technologies.",
+      "url": "https://www.meetup.com/nl-NL/ServerlessDays-Belgium/events/270145738/",
+      "language": "English"
+    },
+    {
       "event": "AWS Serverless-First Function - Serverless for your Organization",
       "organizer": "Amazon Web Services (AWS)",
       "starttime": 1590030000,
