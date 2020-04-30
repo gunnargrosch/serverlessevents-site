@@ -17,7 +17,7 @@ const Events = props => (
                 <tr>
                   <th>Event</th>
                   <th>Organizer</th>
-                  <th>Date and time UTC {new Date().getTimezoneOffset() / 60}</th>
+                  <th>Date and time {moment.tz(moment.tz.guess()).zoneAbbr()}</th>
                   <th>Location</th>
                   <th>Description</th>
                   <th>Language</th>
