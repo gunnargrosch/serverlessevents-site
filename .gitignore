@@ -9,5 +9,5 @@ yarn.lock
 /public
 .DS_Store
 
-/src/components/EventsTable.js
-/src/components/makeData.js
+.env.development
+.env.production
