@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-const GATEWAY_URL = process.env.GATEWAY_URL
+const GATSBY_API_URL = process.env.GATSBY_API_URL
 
 class AddEventForm extends Component {
   constructor(props) {
@@ -11,7 +11,7 @@ class AddEventForm extends Component {
   handleForm = async e => {
     e.preventDefault();
     try {
-      await fetch(GATEWAY_URL, {
+      await fetch(GATSBY_API_URL, {
         method: "POST",
         mode: "cors",
         cache: "no-cache",
