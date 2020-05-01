@@ -18,7 +18,7 @@ const AddEvent = (props) => (
       ]}
     ></Helmet>
 
-      <AddEventForm />
+    <AddEventForm />
 
     </Layout>
 )

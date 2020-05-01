@@ -9,6 +9,7 @@ class AddEventForm extends Component {
   }
 
   handleForm = async e => {
+    e.preventDefault();
     try {
       await fetch(GATEWAY_URL, {
         method: "POST",
@@ -25,7 +26,6 @@ class AddEventForm extends Component {
       let successMessage = document.querySelector('.success-message');
       successMessage.innerHTML = JSON.stringify(error);
     }
-    e.preventDefault();
     this.setState({event: '', organizer: '', starttime: '', endtime: '', eventlocation: '', eventlanguage: '', address: '', link: '', description: '', email: ''}) // <= here
   };
   handleFields = e => this.setState({ [e.target.name]: e.target.value }); 
@@ -41,7 +41,7 @@ class AddEventForm extends Component {
               <p>So you have a serverless event? Great! This is the place to submit your event. If your submitted event is approved 
                 it will be listed alongside the others in the awesome list of serverless events.
               </p>
-              <form id="addevent" method="post" action="" onSubmit={this.handleForm}>
+              <form id="addevent" onSubmit={this.handleForm}>
                 <div className="field half first">
                     <label htmlFor="event">Event Title</label>
                     <input type="text" name="event" id="event" required onChange={this.handleFields} value={this.state.event} />
