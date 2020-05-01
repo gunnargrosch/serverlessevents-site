@@ -10,3 +10,4 @@ yarn.lock
 .DS_Store
 
 .env.development
+.env.production
