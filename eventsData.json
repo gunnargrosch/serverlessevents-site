@@ -142,6 +142,16 @@
           "eventlanguage": "English"
       },
       {
+          "event": "How Vonage Reduces Troubleshooting Time and Deploys Features 2x Faster with Epsagon",
+          "eventlocation": "Online",
+          "starttime": 1589907600,
+          "endtime": 1589911200,
+          "link": "https://pages.awscloud.com/GLOBAL-event-OE-Epsagon-May-Webinar-2020-reg-event.html",
+          "description": "As microservices-based applications become more and more complex, the lack of end-to-end visibility can make it difficult to discover and solve issues quickly.",
+          "organizer": "Amazon Web Services (AWS) and Epsagon",
+          "eventlanguage": "English"
+      },
+      {
           "event": "ServerlessDays Belgium - virtual Meetup",
           "eventlocation": "Online",
           "starttime": 1589994000,
