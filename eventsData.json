@@ -6,171 +6,171 @@
       "organizer": "Nordic Serverless",
       "starttime": 1587484800,
       "endtime": 1587492000,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "We're hosting a meetup where Epsagon, Thundra, Dashbird and Lumigo will give a session each on serverless observability.",
-      "url": "https://www.meetup.com/Stockholm-Serverless/events/269796168/",
-      "language": "English"
+      "link": "https://www.meetup.com/Stockholm-Serverless/events/269796168/",
+      "eventlanguage": "English"
     },
     {
       "event": "ServerlessDays Virtual",
       "organizer": "ServerlessDays Virtual",
       "starttime": 1588176000,
       "endtime": 1588194000,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "One Day. One Track. One Community.",
-      "url": "https://virtual.serverlessdays.io/",
-      "language": "English"
+      "link": "https://virtual.serverlessdays.io/",
+      "eventlanguage": "English"
     },
     {
       "event": "giovedì 30 aprile alle 18:30, Simone Zennaro @ Serverless Live #29",
       "organizer": "Serverless Italy Meetup",
       "starttime": 1588264200,
       "endtime": 1588271400,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "Ci vediamo giovedì 30 aprile alle 18:30 con Serverless Italy Meetup in streaming #29.",
-      "url": "https://www.meetup.com/Serverless-Italy/events/270293185/",
-      "language": "Italian"
+      "link": "https://www.meetup.com/Serverless-Italy/events/270293185/",
+      "eventlanguage": "Italian"
     },
     {
       "event": "Sessions With SAM: Building SQS topics with SAM",
       "organizer": "Eric Johnson (AWS)",
       "starttime": 1588266000,
       "endtime": 1588267800,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "This series is dedicated to building serverless infrastructure with AWS SAM templates.",
-      "url": "https://twitch.tv/aws",
-      "language": "English"
+      "link": "https://twitch.tv/aws",
+      "eventlanguage": "English"
     },
     {
       "event": "Let's Deploy using AWS Cli",
       "organizer": "Serverless Ahmedabad",
       "starttime": 1588397400,
       "endtime": 1588401000,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "Let's learn how to deploy your serverless applications using AWS Cli",
-      "url": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/270328658/",
-      "language": "English"
+      "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/270328658/",
+      "eventlanguage": "English"
     },
     {
       "event": "Nordic Serverless More than a key-value store: Getting the most out of DynamoDB",
       "organizer": "Nordic Serverless",
       "starttime": 1588694400,
       "endtime": 1588701600,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "Join us for a meetup around DynamoDB with AWS Data Hero Alex DeBrie.",
-      "url": "https://www.meetup.com/Stockholm-Serverless/events/270194848/",
-      "language": "English"
+      "link": "https://www.meetup.com/Stockholm-Serverless/events/270194848/",
+      "eventlanguage": "English"
     },
     {
       "event": "Sydney Serverless - May Edition (Online)",
       "organizer": "Sydney Serverless Meetup",
       "starttime": 1588750200,
       "endtime": 1588755600,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "Your monthly fill of Serverless from Australia's favourite meetup.",
-      "url": "https://www.meetup.com/Sydney-Serverless-Meetup-Group/events/270287342/",
-      "language": "English"
+      "link": "https://www.meetup.com/Sydney-Serverless-Meetup-Group/events/270287342/",
+      "eventlanguage": "English"
     },
     {
       "event": "ServerlessDays Paris - Remote Session #1",
       "organizer": "Paris Serverless Architecture Meetup",
       "starttime": 1588780800,
       "endtime": 1588786200,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "En partenariat avec notre meetup, cette première session des ServerlessDays Paris en remote se déroulera en anglais car nous avons le plaisir d'accueillir Yan Cui et Rita Kozlov.",
-      "url": "https://www.meetup.com/Paris-Serverless-Architecture-Meetup/events/270316728/",
-      "language": "English"
+      "link": "https://www.meetup.com/Paris-Serverless-Architecture-Meetup/events/270316728/",
+      "eventlanguage": "English"
     },
     {
       "event": "Sessions With SAM: Safe deployments for Lambda functions",
       "organizer": "Eric Johnson (AWS)",
       "starttime": 1588870800,
       "endtime": 1588872600,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "This series is dedicated to building serverless infrastructure with AWS SAM templates.",
-      "url": "https://twitch.tv/aws",
-      "language": "English"
+      "link": "https://twitch.tv/aws",
+      "eventlanguage": "English"
     },
     {
       "event": "Happy Little APIs (S2E4): Building a Serverless URL Shortener without using a Lambda (Part 3)",
       "organizer": "Eric Johnson (AWS)",
       "starttime": 1588870800,
       "endtime": 1588872600,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "This is the final session on using API Gateway and DynamoDB to create a serverless URL shortener.",
-      "url": "https://twitch.tv/aws",
-      "language": "English"
+      "link": "https://twitch.tv/aws",
+      "eventlanguage": "English"
     },
     {
       "event": "ServerlessDays Amsterdam - virtual conference",
       "organizer": "ServerlessDays Amsterdam",
       "starttime": 1588921200,
       "endtime": 1588951800,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "ServerlessDays Amsterdam is a developer-oriented conference about serverless technologies.",
-      "url": "https://serverlessdays.nl/",
-      "language": "English"
+      "link": "https://serverlessdays.nl/",
+      "eventlanguage": "English"
     },
     {
       "event": "Nordic Serverless Chaos Engineering Special",
       "organizer": "Nordic Serverless",
       "starttime": 1589385600,
       "endtime": 1589392800,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "Finally on the same stage we'll have Adrian Hornsby and Gunnar Grosch talking about chaos engineering from a serverless perspective.",
-      "url": "https://www.meetup.com/Stockholm-Serverless/events/269807696/",
-      "language": "English"
+      "link": "https://www.meetup.com/Stockholm-Serverless/events/269807696/",
+      "eventlanguage": "English"
     },
     {
       "event": "Patterns and Practices for Building Resilient AWS Serverless Applications",
       "organizer": "AWS User Group Delhi",
       "starttime": 1589635800,
       "endtime": 1589643000,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "In this talk, we will look at a number of practices and architectural patterns that can help you build more resilient serverless applications.",
-      "url": "https://www.meetup.com/AmazonAWS-Delhi/events/270236307/",
-      "language": "English"
+      "link": "https://www.meetup.com/AmazonAWS-Delhi/events/270236307/",
+      "eventlanguage": "English"
     },
     {
       "event": "ServerlessDays Belgium - virtual Meetup",
       "organizer": "ServerlessDays Belgium",
       "starttime": 1589994000,
       "endtime": 1589999400,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "Join to hear Yan Cui speak about building a social media site with Lambda, DynamoDB and AppSync and receive pro-tips for implementing DynamoDB in serverless applications from Alex Debrie.",
-      "url": "https://www.meetup.com/nl-NL/ServerlessDays-Belgium/events/270145738/",
-      "language": "English"
+      "link": "https://www.meetup.com/nl-NL/ServerlessDays-Belgium/events/270145738/",
+      "eventlanguage": "English"
     },
     {
       "event": "AWS Serverless-First Function - Serverless for your Organization",
       "organizer": "Amazon Web Services (AWS)",
       "starttime": 1590030000,
       "endtime": 1590048000,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "Learn real-world tactics for transforming your organization to get the most out of the cloud.",
-      "url": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
-      "language": "English"
+      "link": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
+      "eventlanguage": "English"
     },
     {
       "event": "AWS Serverless-First Function - Serverless for your Application",
       "organizer": "Amazon Web Services (AWS)",
       "starttime": 1590634800,
       "endtime": 1590739200,
-      "location": "Online",
+      "eventlocation": "Online",
       "description": "Consider this event your complete builder’s guide to serverless applications.",
-      "url": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
-      "language": "English"
+      "link": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
+      "eventlanguage": "English"
     },
     {
       "event": "ServerlessDays Hamburg",
       "organizer": "Superluminar",
       "starttime": 1601535600,
       "endtime": 1601652600,
-      "location": "Hamburg, Germany",
+      "eventlocation": "Hamburg, Germany",
       "address": "Schmidts TIVOLI Theater, Spielbudenplatz 27-28, 20359 Hamburg, Germany",
       "description": "ServerlessDays Hamburg is a 2-day conference about Serverless technologies with one day of workshops and one day with talks.",
-      "url": "https://hamburg.serverlessdays.io",
-      "language": "English"
+      "link": "https://hamburg.serverlessdays.io",
+      "eventlanguage": "English"
     }
   ]
 }
