@@ -2,6 +2,56 @@
   "title": "Serverless Events in JSON",
   "content": [
       {
+          "event": "Nordic Serverless Observability Special",
+          "eventlocation": "Online",
+          "starttime": 1587484800,
+          "endtime": 1587492000,
+          "link": "https://www.meetup.com/Stockholm-Serverless/events/269796168/",
+          "description": "We're hosting a meetup where Epsagon, Thundra, Dashbird and Lumigo will give a session each on serverless observability.",
+          "organizer": "Nordic Serverless",
+          "eventlanguage": "English"
+      },
+      {
+          "event": "ServerlessDays Virtual",
+          "eventlocation": "Online",
+          "starttime": 1588176000,
+          "endtime": 1588194000,
+          "link": "https://virtual.serverlessdays.io/",
+          "description": "One Day. One Track. One Community.",
+          "organizer": "ServerlessDays Virtual",
+          "eventlanguage": "English"
+      },
+      {
+          "event": "giovedì 30 aprile alle 18:30, Simone Zennaro @ Serverless Live #29",
+          "eventlocation": "Online",
+          "starttime": 1588264200,
+          "endtime": 1588271400,
+          "link": "https://www.meetup.com/Serverless-Italy/events/270293185/",
+          "description": "Ci vediamo giovedì 30 aprile alle 18:30 con Serverless Italy Meetup in streaming #29.",
+          "organizer": "Serverless Italy Meetup",
+          "eventlanguage": "Italian"
+      },
+      {
+          "event": "Sessions With SAM: Building SQS topics with SAM",
+          "eventlocation": "Online",
+          "starttime": 1588266000,
+          "endtime": 1588267800,
+          "link": "https://twitch.tv/aws",
+          "description": "This series is dedicated to building serverless infrastructure with AWS SAM templates.",
+          "organizer": "Eric Johnson (AWS)",
+          "eventlanguage": "English"
+      },
+      {
+          "event": "Let's Deploy using AWS Cli",
+          "eventlocation": "Online",
+          "starttime": 1588397400,
+          "endtime": 1588401000,
+          "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/270328658/",
+          "description": "Let's learn how to deploy your serverless applications using AWS Cli",
+          "organizer": "Serverless Ahmedabad",
+          "eventlanguage": "English"
+      },
+      {
           "event": "What's New in AWS Serverless - EMEA",
           "eventlocation": "Online",
           "starttime": 1588547600,
