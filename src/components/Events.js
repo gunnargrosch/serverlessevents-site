@@ -28,7 +28,7 @@ const Events = props => (
                 {eventsData.content.map((data, index) => {
                   var usertz = moment.tz.guess();
 
-                  if (Date.now()/1000 < data.starttime) {
+                  if (Date.now()/1000 < data.endtime) {
                     var utmData = '?utm_source=serverlessevents&utm_medium=site&utm_campaign=serverlessevents&utm_content=serverlessevents'
                     var formattedStartTime = Intl.DateTimeFormat('en-US',{
                       timeZone: usertz,
