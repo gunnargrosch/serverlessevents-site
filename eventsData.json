@@ -72,6 +72,16 @@
          "eventlanguage": "English"
      },
      {
+         "event": "Serverless Framework Full-stack App",
+         "eventlocation": "Online",
+         "starttime": 1588712400,
+         "endtime": 1588716000,
+         "link": "https://twitch.tv/aws",
+         "description": "Austen Collins is building a serverless full-stack app LIVE! He'll demo many fast new Serverless Framework features in the process to streamline your workflow.",
+         "organizer": "Amazon Web Services (AWS) and Serverless Framework",
+         "eventlanguage": "English"
+     },
+     {
          "event": "Sydney Serverless - May Edition (Online)",
          "eventlocation": "Online",
          "starttime": 1588750200,
@@ -149,6 +159,16 @@
          "link": "https://www.meetup.com/Stockholm-Serverless/events/269807696/",
          "description": "Finally on the same stage we'll have Adrian Hornsby and Gunnar Grosch talking about chaos engineering from a serverless perspective.",
          "organizer": "Nordic Serverless",
+         "eventlanguage": "English"
+     },
+     {
+         "event": "Building Event-driven Architectures with Amazon EventBridge",
+         "eventlocation": "Online",
+         "starttime": 1589502600,
+         "endtime": 1589508000,
+         "link": "https://www.meetup.com/Mountain-View-Cloud-Native-Meetup-Group/events/270379934/",
+         "description": "In this session, James Beswick will discuss how to think about which strategy is right for your application and how to build a fully event-driven application.",
+         "organizer": "Mountain View Cloud Native Computing Meetup Group",
          "eventlanguage": "English"
      },
      {
