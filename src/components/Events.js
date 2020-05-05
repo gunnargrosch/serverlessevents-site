@@ -30,6 +30,7 @@ const Events = props => (
 
                   if (Date.now()/1000 < data.endtime) {
                     var utmData = '?utm_source=serverlessevents&utm_medium=site&utm_campaign=serverlessevents&utm_content=serverlessevents'
+                    var linkWithUtm = data.link + utmData
                     var formattedStartTime = Intl.DateTimeFormat('en-US',{
                       timeZone: usertz,
                       year: "numeric",
@@ -40,13 +41,13 @@ const Events = props => (
                     }).format(data.starttime*1000);
                     return (
                   <tr>
-                    <td><a href={data.link + utmData} target="_blank">{data.event}</a></td>
+                    <td><a href={linkWithUtm} target="_blank">{data.event}</a></td>
                     <td>{data.organizer}</td>
                     <td style={{ whiteSpace: 'nowrap' }}>{formattedStartTime}</td>
                     <td>{data.eventlocation}</td>
                     <td>{data.description}</td>
                     <td>{data.eventlanguage}</td>
-                    <td><a href={data.link + utmData} target="_blank">Link</a></td>
+                    <td><a href={linkWithUtm} target="_blank">Link</a></td>
                   </tr>
                     )
                   }
