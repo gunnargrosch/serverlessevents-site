@@ -244,8 +244,8 @@
      {
          "event": "AWS User Group UK Meetup #42",
          "eventlocation": "Online",
-         "starttime": 1590566400,
-         "endtime": 1590571800,
+         "starttime": 1590602400,
+         "endtime": 1590607800,
          "link": "https://www.meetup.com/AWSUGUK/events/267802522/",
          "description": "Serverless Deployments with Canary (Nicole Yip from Lego) Servers are dead! How architecture in the 2020s is being revolutionised by serverless (Matthew Clark)",
          "organizer": "AWS User Group UK",
