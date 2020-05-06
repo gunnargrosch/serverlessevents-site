@@ -134,8 +134,8 @@
      {
          "event": "Happy Little APIs (S2E4): Building a Serverless URL Shortener without using a Lambda (Part 3)",
          "eventlocation": "Online",
-         "starttime": 1589259600,
-         "endtime": 1589261400,
+         "starttime": 1589302800,
+         "endtime": 1589304600,
          "link": "https://twitch.tv/aws",
          "description": "This is the final session on using API Gateway and DynamoDB to create a serverless URL shortener.",
          "organizer": "Eric Johnson (AWS)",
