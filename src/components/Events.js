@@ -27,8 +27,8 @@ const Events = props => (
               <tbody>
                 {eventsData.content.map((data, index) => {
                   var usertz = moment.tz.guess();
-
-                  if (Date.now()/1000 < data.endtime) {
+                  timestampNow = Date.now()/1000
+                  if (timestampNow < data.endtime) {
                     var utmData = '?utm_source=serverlessevents&utm_medium=site&utm_campaign=serverlessevents&utm_content=serverlessevents'
                     var linkWithUtm = data.link + utmData
                     var formattedStartTime = Intl.DateTimeFormat('en-US',{
@@ -39,7 +39,7 @@ const Events = props => (
                       hour: "numeric",
                       minute: "2-digit"
                     }).format(data.starttime*1000);
-                    if (Date.now()/1000 >= data.starttime && x <= data.endtime) {
+                    if (timestampNow >= data.starttime && timestampNow <= data.endtime) {
                       var eventHeader = data.event + ' <sub>LIVE</sub>'
                     } else {
                       var eventHeader = data.event
