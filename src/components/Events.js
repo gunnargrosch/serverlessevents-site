@@ -27,7 +27,7 @@ const Events = props => (
               <tbody>
                 {eventsData.content.map((data, index) => {
                   var usertz = moment.tz.guess();
-                  timestampNow = Date.now()/1000
+                  var timestampNow = Date.now()/1000
                   if (timestampNow < data.endtime) {
                     var utmData = '?utm_source=serverlessevents&utm_medium=site&utm_campaign=serverlessevents&utm_content=serverlessevents'
                     var linkWithUtm = data.link + utmData
