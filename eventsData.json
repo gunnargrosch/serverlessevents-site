@@ -142,6 +142,16 @@
          "eventlanguage": "English"
      },
      {
+         "event": "Accelerate your Serverless journeys with AWS messaging and event-driven architectures",
+         "eventlocation": "Online",
+         "starttime": 1589356800,
+         "endtime": 1589360400,
+         "link": "https://accelerate-your-serverless-journey.splashthat.com/",
+         "description": "Join our Applications Integration team and learn about the benefits of event-driven architectures, customer use cases and challenges.",
+         "organizer": "Amazon Web Services (AWS)",
+         "eventlanguage": "English"
+     },
+     {
          "event": "Full Stack Development with AWS Amplify",
          "eventlocation": "Online",
          "starttime": 1589360400,
@@ -209,6 +219,16 @@
          "link": "https://pages.awscloud.com/GLOBAL-event-OE-Epsagon-May-Webinar-2020-reg-event.html",
          "description": "As microservices-based applications become more and more complex, the lack of end-to-end visibility can make it difficult to discover and solve issues quickly.",
          "organizer": "Amazon Web Services (AWS) and Epsagon",
+         "eventlanguage": "English"
+     },
+     {
+         "event": "Designing for DynamoDB Success",
+         "eventlocation": "Online",
+         "starttime": 1589990400,
+         "endtime": 1589994000,
+         "link": "https://register.gotowebinar.com/register/8833212941224882443",
+         "description": "In this talk, AWS Data Hero and author of the DynamoDB Book, Alex DeBrie, breaks down what makes DynamoDB's abstractions uniquely powerful for your cloud-native applications.",
+         "organizer": "A Cloud Guru",
          "eventlanguage": "English"
      },
      {
