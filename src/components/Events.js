@@ -39,9 +39,14 @@ const Events = props => (
                       hour: "numeric",
                       minute: "2-digit"
                     }).format(data.starttime*1000);
+                    if (Date.now()/1000 >= data.starttime && x <= data.endtime) {
+                      var eventHeader = data.event + ' <sub>LIVE</sub>'
+                    } else {
+                      var eventHeader = data.event
+                    }
                     return (
                   <tr>
-                    <td><a href={linkWithUtm} target="_blank">{data.event}</a></td>
+                    <td><a href={linkWithUtm} target="_blank">{eventHeader}</a></td>
                     <td>{data.organizer}</td>
                     <td style={{ whiteSpace: 'nowrap' }}>{formattedStartTime}</td>
                     <td>{data.eventlocation}</td>
