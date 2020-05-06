@@ -102,16 +102,6 @@
          "eventlanguage": "English"
      },
      {
-         "event": "Happy Little APIs (S2E4): Building a Serverless URL Shortener without using a Lambda (Part 3)",
-         "eventlocation": "Online",
-         "starttime": 1588870800,
-         "endtime": 1588872600,
-         "link": "https://twitch.tv/aws",
-         "description": "This is the final session on using API Gateway and DynamoDB to create a serverless URL shortener.",
-         "organizer": "Eric Johnson (AWS)",
-         "eventlanguage": "English"
-     },
-     {
          "event": "Sessions With SAM: Safe deployments for Lambda functions",
          "eventlocation": "Online",
          "starttime": 1588870800,
@@ -139,6 +129,16 @@
          "link": "https://pages.awscloud.com/serverless-dynamoDB-Nordics.html",
          "description": "Rick Houlihan leads the NoSQL Blackbelt Team at AWS and has leveraged just about every Serverless technology at AWS to migrate thousands of workloads to the cloud. ",
          "organizer": "Amazon Web Services (AWS)",
+         "eventlanguage": "English"
+     },
+     {
+         "event": "Happy Little APIs (S2E4): Building a Serverless URL Shortener without using a Lambda (Part 3)",
+         "eventlocation": "Online",
+         "starttime": 1589259600,
+         "endtime": 1589261400,
+         "link": "https://twitch.tv/aws",
+         "description": "This is the final session on using API Gateway and DynamoDB to create a serverless URL shortener.",
+         "organizer": "Eric Johnson (AWS)",
          "eventlanguage": "English"
      },
      {
