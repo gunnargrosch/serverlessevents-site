@@ -40,8 +40,8 @@ const Events = props => (
                       minute: "2-digit"
                     }).format(data.starttime*1000);
                     var liveNow = ''
-                    if (timestampNow <= data.starttime && timestampNow >= data.endtime) {
-                      var liveNow = ' Live now!'
+                    if (timestampNow >= data.starttime && timestampNow <= data.endtime) {
+                      liveNow = ' Live now!'
                     }
                     return (
                   <tr>
