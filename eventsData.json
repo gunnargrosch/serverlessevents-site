@@ -162,6 +162,16 @@
          "eventlanguage": "English"
      },
      {
+         "event": "UK GCS Connect: Serverless",
+         "eventlocation": "Online",
+         "starttime": 1589454000,
+         "endtime": 1589459400,
+         "link": "https://us02web.zoom.us/webinar/register/3415887661408/WN_LFilqlKWSPaUI5qWi15PJw",
+         "description": "Marc Fielding will be covering reasons why you should go serverless, mistakes in migration, cloud managed services, and more. Edgar Rivera will introduce Cloud Run & Knative using demos.",
+         "organizer": "GCS Connect",
+         "eventlanguage": "English"
+     },
+     {
          "event": "Building Event-driven Architectures with Amazon EventBridge",
          "eventlocation": "Online",
          "starttime": 1589502600,
@@ -219,6 +229,26 @@
          "link": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
          "description": "Learn real-world tactics for transforming your organization to get the most out of the cloud.",
          "organizer": "Amazon Web Services (AWS)",
+         "eventlanguage": "English"
+     },
+     {
+         "event": "Webinar: How to Architect Cost-Efficient Serverless Infrastructures",
+         "eventlocation": "Online",
+         "starttime": 1590080400,
+         "endtime": 1590082200,
+         "link": "https://us02web.zoom.us/webinar/register/WN_eqDpgutkTbqwoM91sJmUxQ",
+         "description": "Spring has sprung, and what better time to spring clean your AWS cloud bill of the unnecessary spend. Let's start from architecting more cost-efficient infrastructures. ",
+         "organizer": "Dashbird",
+         "eventlanguage": "English"
+     },
+     {
+         "event": "AWS User Group UK Meetup #42",
+         "eventlocation": "Online",
+         "starttime": 1590566400,
+         "endtime": 1590571800,
+         "link": "https://www.meetup.com/AWSUGUK/events/267802522/",
+         "description": "Serverless Deployments with Canary (Nicole Yip from Lego) Servers are dead! How architecture in the 2020s is being revolutionised by serverless (Matthew Clark)",
+         "organizer": "AWS User Group UK",
          "eventlanguage": "English"
      },
      {
