@@ -132,6 +132,16 @@
          "eventlanguage": "English"
      },
      {
+         "event": "Good Morning Serverless - Jonatas Baldin",
+         "eventlocation": "online",
+         "starttime": 1589286600,
+         "endtime": 1589288400,
+         "link": "https://www.periscope.tv/ServerlessOpsIO/",
+         "description": "Interview with Jonatas Baldin from the OpenFAAS community",
+         "organizer": "Tom McLaughlin (ServerlessOps)",
+         "eventlanguage": "English"
+     },
+     {
          "event": "Happy Little APIs (S2E4): Building a Serverless URL Shortener without using a Lambda (Part 3)",
          "eventlocation": "Online",
          "starttime": 1589302800,
@@ -172,6 +182,16 @@
          "eventlanguage": "English"
      },
      {
+         "event": "Serverless After Dark",
+         "eventlocation": "online",
+         "starttime": 1589416200,
+         "endtime": 1589423400,
+         "link": "https://www.periscope.tv/ServerlessOpsIO/",
+         "description": "Serverless After Dark is a weekly hack night at 8:30pm ET on Wednesday nights. It's an opportunity for members of the AWS serverless community to get together, work on their projects...",
+         "organizer": "Tom McLaughlin (ServerlessOps)",
+         "eventlanguage": "English"
+     },
+     {
          "event": "UK GCS Connect: Serverless",
          "eventlocation": "Online",
          "starttime": 1589454000,
@@ -179,6 +199,16 @@
          "link": "https://us02web.zoom.us/webinar/register/3415887661408/WN_LFilqlKWSPaUI5qWi15PJw",
          "description": "Marc Fielding will be covering reasons why you should go serverless, mistakes in migration, cloud managed services, and more. Edgar Rivera will introduce Cloud Run & Knative using demos.",
          "organizer": "GCS Connect",
+         "eventlanguage": "English"
+     },
+     {
+         "event": "Good Morning Serverless - Ben Kehoe",
+         "eventlocation": "online",
+         "starttime": 1589459400,
+         "endtime": 1589461200,
+         "link": "https://www.periscope.tv/ServerlessOpsIO/",
+         "description": "Interview with famous vacuum cleaner salesman",
+         "organizer": "Tom McLaughlin (ServerlessOps)",
          "eventlanguage": "English"
      },
      {
@@ -209,6 +239,26 @@
          "link": "https://www.meetup.com/AmazonAWS-Delhi/events/270236307/",
          "description": "In this talk, we will look at a number of practices and architectural patterns that can help you build more resilient serverless applications.",
          "organizer": "AWS User Group Delhi",
+         "eventlanguage": "English"
+     },
+     {
+         "event": "What's New in Serverless - Nordics",
+         "eventlocation": "Online",
+         "starttime": 1589889600,
+         "endtime": 1589893200,
+         "link": "https://pages.awscloud.com/new-in-serverless-20200519.html",
+         "description": "Join AWS for an update on AWS Serverless releases in the last six months and learn how they can empower customers to build cloud native modern applications that drive business agility.",
+         "organizer": "Amazon Web Services (AWS)",
+         "eventlanguage": "English"
+     },
+     {
+         "event": "Good Morning Serverless - Ben Bridts",
+         "eventlocation": "online",
+         "starttime": 1589891400,
+         "endtime": 1589893200,
+         "link": "https://www.periscope.tv/ServerlessOpsIO/",
+         "description": "Interview with Ben Bridts",
+         "organizer": "Tom McLaughlin (ServerlessOps)",
          "eventlanguage": "English"
      },
      {
@@ -252,6 +302,16 @@
          "eventlanguage": "English"
      },
      {
+         "event": "Good Morning Serverless - Ant Stanley",
+         "eventlocation": "online",
+         "starttime": 1590064200,
+         "endtime": 1590066000,
+         "link": "https://www.periscope.tv/ServerlessOpsIO/",
+         "description": "Interview with AWS Serverless Hero Any Stanley",
+         "organizer": "Tom McLaughlin (ServerlessOps)",
+         "eventlanguage": "English"
+     },
+     {
          "event": "Webinar: How to Architect Cost-Efficient Serverless Infrastructures",
          "eventlocation": "Online",
          "starttime": 1590080400,
@@ -259,6 +319,16 @@
          "link": "https://us02web.zoom.us/webinar/register/WN_eqDpgutkTbqwoM91sJmUxQ",
          "description": "Spring has sprung, and what better time to spring clean your AWS cloud bill of the unnecessary spend. Let's start from architecting more cost-efficient infrastructures. ",
          "organizer": "Dashbird",
+         "eventlanguage": "English"
+     },
+     {
+         "event": "Good Morning Serverless - Luca Bianchi",
+         "eventlocation": "online",
+         "starttime": 1590496200,
+         "endtime": 1590498000,
+         "link": "https://www.periscope.tv/ServerlessOpsIO/",
+         "description": "Interview with Neosperience CTO Luca Bianchi",
+         "organizer": "Tom McLaughlin (ServerlessOps)",
          "eventlanguage": "English"
      },
      {
@@ -279,6 +349,36 @@
          "link": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
          "description": "Consider this event your complete builder’s guide to serverless applications.",
          "organizer": "Amazon Web Services (AWS)",
+         "eventlanguage": "English"
+     },
+     {
+         "event": "Good Morning Serverless - Paul Chin Jr.",
+         "eventlocation": "online",
+         "starttime": 1590669000,
+         "endtime": 1590670800,
+         "link": "https://www.periscope.tv/ServerlessOpsIO/",
+         "description": "Interview with DevRel at http://begin.com Paul Chin Jr.",
+         "organizer": "Tom McLaughlin (ServerlessOps)",
+         "eventlanguage": "English"
+     },
+     {
+         "event": "Good Morning Serverless - Rob Sutter",
+         "eventlocation": "online",
+         "starttime": 1591101000,
+         "endtime": 1591102800,
+         "link": "https://www.periscope.tv/ServerlessOpsIO/",
+         "description": "Interview with AWS Developer Advocate Rob Sutter",
+         "organizer": "Tom McLaughlin (ServerlessOps)",
+         "eventlanguage": "English"
+     },
+     {
+         "event": "Good Morning Serverless - Danielle Heberling",
+         "eventlocation": "online",
+         "starttime": 1591273800,
+         "endtime": 1591275600,
+         "link": "https://www.periscope.tv/ServerlessOpsIO/",
+         "description": "Interview with Stackery developer Danielle Heberling",
+         "organizer": "Tom McLaughlin (ServerlessOps)",
          "eventlanguage": "English"
      },
      {
