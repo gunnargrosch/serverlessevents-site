@@ -212,6 +212,16 @@
          "eventlanguage": "English"
      },
      {
+         "event": "Serverless in Place: Best Serverless Fails",
+         "eventlocation": "Online",
+         "starttime": 1589493600,
+         "endtime": 1589496300,
+         "link": "https://newrelic.com/webinar/serverless-in-place",
+         "description": "Explore serverless fails at this virtual meetup:\nSheen Brisals – \"From Oops to Ops: Sloppy Little Serverless Stories\"\nJeremy Daly – \"How to Fail on Serverless\"\nErica Windisch – \"Gmail was Cheaper\"",
+         "organizer": "New Relic",
+         "eventlanguage": "English"
+     },
+     {
          "event": "Building Event-driven Architectures with Amazon EventBridge",
          "eventlocation": "Online",
          "starttime": 1589502600,
