@@ -1,11 +1,15 @@
 import React, { Component } from 'react';
+import DatePicker from "react-datepicker";
+import moment from 'moment-timezone';
+import "react-datepicker/dist/react-datepicker.css";
 
 const GATSBY_API_URL = process.env.GATSBY_API_URL
+const startDate = ''
 
 class AddEventForm extends Component {
   constructor(props) {
     super(props);
-    this.state = {event: '', organizer: '', starttime: '', endtime: '', eventlocation: '', eventlanguage: '', address: '', link: '', description: '', email: ''};
+    this.state = {starttimeLong: '', endtimeLong: '', event: '', organizer: '', starttime: '', endtime: '', eventlocation: '', eventlanguage: '', address: '', link: '', description: '', email: ''};
   }
 
   handleForm = async e => {
@@ -26,9 +30,28 @@ class AddEventForm extends Component {
       let successMessage = document.querySelector('.success-message');
       successMessage.innerHTML = JSON.stringify(error);
     }
-    this.setState({event: '', organizer: '', starttime: '', endtime: '', eventlocation: '', eventlanguage: '', address: '', link: '', description: '', email: ''}) // <= here
+    this.setState({starttimeLong: '', endtimeLong: '', event: '', organizer: '', starttime: '', endtime: '', eventlocation: '', eventlanguage: '', address: '', link: '', description: '', email: ''}) // <= here
   };
-  handleFields = e => this.setState({ [e.target.name]: e.target.value }); 
+
+  handleFields = e => {
+    this.setState({
+      [e.target.name]: e.target.value
+    });
+  };
+  handleStartTime = date => {
+    this.setState({
+      starttime: moment(date).unix(),
+      starttimeLong: date
+    });
+    document.getElementById('endtimeLong').minDate = date
+    document.getElementById('endtimeLong').value = date
+  };
+  handleEndTime = date => {
+    this.setState({
+      endtime: moment(date).unix(),
+      endtimeLong: date
+    });
+  };
 
   render() {
     return (
@@ -51,12 +74,43 @@ class AddEventForm extends Component {
                     <input type="text" name="organizer" id="organizer" required onChange={this.handleFields} value={this.state.organizer} />
                 </div>
                 <div className="field half first">
-                    <label htmlFor="starttime">Start time (epoch timestamp)</label>
-                    <input type="text" pattern="[0-9]*" name="starttime" id="starttime" required onChange={this.handleFields} value={this.state.starttime} />
+                    <label htmlFor="starttimeLong">End time ({moment.tz(moment.tz.guess()).zoneAbbr()})</label>
+                    <DatePicker
+                      name="starttimeLong"
+                      id="starttimeLong"
+                      className="starttimeLong"
+                      selected={this.state.starttimeLong}
+                      value={this.state.starttimeLong}
+                      required
+                      todayButton="Today"
+                      onChange={this.handleStartTime}
+                      showTimeSelect
+                      timeFormat="HH:mm"
+                      timeIntervals={30}
+                      timeCaption="time"
+                      dateFormat="MMMM d, yyyy h:mm aa"
+                    />
+                    <input type="hidden" pattern="[0-9]*" name="starttime" id="starttime" required onChange={this.handleFields} value={this.state.starttime} />
                 </div>
                 <div className="field half">
-                    <label htmlFor="endtime">End time (epoch timestamp)</label>
-                    <input type="text" pattern="[0-9]*" name="endtime" id="endtime" required onChange={this.handleFields} value={this.state.endtime} />
+                    <label htmlFor="endtimeLong">Start time ({moment.tz(moment.tz.guess()).zoneAbbr()})</label>
+                    <DatePicker
+                      name="endtimeLong"
+                      id="endtimeLong"
+                      className="endtimeLong"
+                      selected={this.state.endtimeLong}
+                      value={this.state.endtimeLong}
+                      required
+                      minDate={this.state.starttimeLong}
+                      todayButton="Today"
+                      onChange={this.handleEndTime}
+                      showTimeSelect
+                      timeFormat="HH:mm"
+                      timeIntervals={30}
+                      timeCaption="time"
+                      dateFormat="MMMM d, yyyy h:mm aa"
+                    />
+                    <input type="hidden" pattern="[0-9]*" name="endtime" id="endtime" required onChange={this.handleFields} value={this.state.endtime} />
                 </div>
                 <div className="field half first">
                     <label htmlFor="eventlocation">Location (Online or city and country)</label>
@@ -72,7 +126,7 @@ class AddEventForm extends Component {
                 </div>
                 <div className="field full">
                     <label htmlFor="link">Event link</label>
-                    <input type="text" name="link" id="link" required onChange={this.handleFields} value={this.state.link} />
+                    <input type="url" name="link" id="link" required onChange={this.handleFields} value={this.state.link} />
                 </div>
                 <div className="field">
                     <label htmlFor="description">Description</label>
@@ -80,7 +134,7 @@ class AddEventForm extends Component {
                 </div>
                 <div className="field full first">
                     <label htmlFor="email">Submitters email</label>
-                    <input type="text" name="email" id="email" required onChange={this.handleFields} value={this.state.email} />
+                    <input type="email" name="email" id="email" required onChange={this.handleFields} value={this.state.email} />
                 </div>
                 <div>
                 <ul className="actions">
