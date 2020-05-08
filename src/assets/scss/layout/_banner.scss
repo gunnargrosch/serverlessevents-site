@@ -33,11 +33,18 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.85;
+			opacity: 0.65;
 			position: absolute;
 			top: 0;
 			width: 100%;
 			z-index: 1;
+		}
+
+		.banner-img {
+			width: 100%;
+			max-width: 500px;
+			height: auto;
+			padding: 0 0 1em 0;
 		}
 
 		h1 {
@@ -135,6 +142,11 @@
 			min-height: 0;
 			top: -2.75em;
 
+			.banner-img {
+				max-width: 400px;
+				padding: 0 0 0.75em 0;
+			}
+
 			h1 {
 				font-size: 2em;
 			}
@@ -159,6 +171,11 @@
 
 		@include breakpoint(xsmall) {
 			@include padding(4em, 0, (2em, 0, 0, 0));
+
+			.banner-img {
+				max-width: 300px;
+				padding: 0 0 0.5em 0;
+			}
 
 			> .inner {
 				.content {
