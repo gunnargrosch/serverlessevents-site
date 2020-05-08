@@ -42,8 +42,8 @@ class AddEventForm extends Component {
     this.setState({
       starttime: moment(date).unix(),
       starttimeLong: date,
-      endtime: moment(date).unix(),
-      endtimeLong: date,
+      endtime: moment(date).add(30, 'm').unix(),
+      endtimeLong: moment(date).add(30, 'm').toDate(),
     });
     document.getElementById('endtimeLong').minDate = date
   };
