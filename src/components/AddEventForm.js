@@ -4,7 +4,6 @@ import moment from 'moment-timezone';
 import "react-datepicker/dist/react-datepicker.css";
 
 const GATSBY_API_URL = process.env.GATSBY_API_URL
-const startDate = ''
 
 class AddEventForm extends Component {
   constructor(props) {
@@ -14,6 +13,8 @@ class AddEventForm extends Component {
 
   handleForm = async e => {
     e.preventDefault();
+    let formMessage = document.querySelector('.form-message');
+    formMessage.innerHTML = ' ';
     try {
       await fetch(GATSBY_API_URL, {
         method: "POST",
@@ -24,11 +25,9 @@ class AddEventForm extends Component {
           "Content-type": "application/json; charset=UTF-8"
         }
       });
-      let successMessage = document.querySelector('.success-message');
-      successMessage.innerHTML = 'Event submitted';
+      formMessage.innerHTML = '<h3>Event submitted</h3>';
     } catch (error) {
-      let successMessage = document.querySelector('.success-message');
-      successMessage.innerHTML = JSON.stringify(error);
+      formMessage.innerHTML = '<h3>' + JSON.stringify(error) + '</h3>';
     }
     this.setState({starttimeLong: '', endtimeLong: '', event: '', organizer: '', starttime: '', endtime: '', eventlocation: '', eventlanguage: '', address: '', link: '', description: '', email: ''}) // <= here
   };
@@ -145,8 +144,8 @@ class AddEventForm extends Component {
                     <li><input type="reset" value="Clear" /></li>
                 </ul>
                 </div>
-                <div className="success-message">
-                  <label></label>
+                <div className="form-message">
+                  <h3> </h3>
                 </div>
               </form>
             </div>
