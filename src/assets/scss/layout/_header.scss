@@ -172,6 +172,9 @@
 		}
 
 		@include breakpoint(large) {
+			.logo-img {
+				max-width: 175px;
+			}
 			nav {
 				a {
 					&.menu-link {
@@ -188,6 +191,10 @@
 		@include breakpoint(small) {
 			height: 2.75em;
 			line-height: 2.75em;
+
+			.logo-img {
+				max-width: 150px;
+			}
 
 			.logo {
 				padding: 0 1em;
@@ -221,6 +228,9 @@
 		}
 
 		@include breakpoint(xsmall) {
+			.logo-img {
+				max-width: 125px;
+			}
 			.logo {
 				span {
 					display: none;
