@@ -1,12 +1,13 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
+import Logo from "../assets/images/serverless-events-logo-small.png"
 
 const Header = (props) => (
     <header id="header" className="alt">
-        <Link to="/" className="logo"><strong>Serverless</strong><span>Events</span></Link>
+        <Link to="/" className="logo"><img src={Logo} alt="Serverless Events" className="logo-img" /></Link>
         <nav>
-            <a className="menu-link" onClick={props.onToggleMenu} href="javascript:;">Menu</a>
+            <a className="menu-link" onClick={props.onToggleMenu} href="#">Menu</a>
         </nav>
     </header>
 )
