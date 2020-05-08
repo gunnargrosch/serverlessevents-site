@@ -14,25 +14,11 @@ Unsure if your event should be in the list? If your event is beneficial for the 
 
 ## How to add event
 
-In this first rough version of Serverless Events updates are done in the GitHub repository at https://github.com/gunnargrosch/serverlessevents-site.
+Go to the [Add Event page](https://serverlessevents.io/addevent) and submit your event. If your submitted event is approved it will be listed alongside the others in the awesome list of serverless events.
 
-1. Fork the repository https://github.com/gunnargrosch/serverlessevents-site
-2. Add your event in JSON format in eventsData.json
-```json
-{
-    "event": "ServerlessDays Virtual",
-    "organizer": "ServerlessDays Virtual",
-    "starttime": 1588176000,
-    "endtime": 1588194000,
-    "location": "Online",
-    "description": "One Day. One Track. One Community.",
-    "url": "https://virtual.serverlessdays.io/",
-    "language": "English"
-}
-```
-3. Submit a PR
+If you have any ideas on how to improve Serverless Events or find a bug, feel free to open an issue or submit a PR to the repository at [https://github.com/gunnargrosch/serverlessevents-site](https://github.com/gunnargrosch/serverlessevents-site).
 
-Reach out to [Gunnar Grosch](https://twitter.com/gunnargrosch) if all of this seems like a lot of work.
+Reach out to [Gunnar Grosch](https://twitter.com/gunnargrosch) if you have any questions.
 
 ## Author
 
