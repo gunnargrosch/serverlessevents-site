@@ -14,10 +14,10 @@ const HowTo = props => (
             Go to the <Link to="/addevent">Add Event page</Link> and submit your event. If your submitted event is approved it will be listed alongside the others in the awesome list of serverless events.
           </p>
           <p>
-            If you have any ideas on how to improve Serverless Events or find a bug, feel free to open an issue or submit a PR to the repository at <a href="https://github.com/gunnargrosch/serverlessevents-site" target="_blank">https://github.com/gunnargrosch/serverlessevents-site</a>.
+            If you have any ideas on how to improve Serverless Events or find a bug, feel free to open an issue or submit a PR to the repository at <a href="https://github.com/gunnargrosch/serverlessevents-site" target="_blank" rel="noopener noreferrer">https://github.com/gunnargrosch/serverlessevents-site</a>.
           </p>
           <p>
-            Reach out to <a href="https://twitter.com/gunnargrosch" target="_blank">Gunnar Grosch</a> if you have any questions.
+            Reach out to <a href="https://twitter.com/gunnargrosch" target="_blank" rel="noopener noreferrer">Gunnar Grosch</a> if you have any questions.
           </p>
         </div>
       </section>

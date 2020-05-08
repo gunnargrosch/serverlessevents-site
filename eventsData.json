@@ -152,6 +152,16 @@
          "eventlanguage": "English"
      },
      {
+         "event": "47º AWS UG SP - Arquiteturas orientadas a eventos com Amazon EventBridge",
+         "eventlocation": "Online",
+         "starttime": 1589304600,
+         "endtime": 1589310000,
+         "link": "https://www.meetup.com/awsusergroupsp/events/270469500",
+         "description": "Em mais um encontro 100% online, vamos receber duas pessoas da AWS para falar sobre um tema importantíssimo: como construtir aplicações orientadas a eventos utilizando o Amazon EventBridge.",
+         "organizer": "AWS User Group São Paulo",
+         "eventlanguage": "English"
+     },
+     {
          "event": "Accelerate your Serverless journeys with AWS messaging and event-driven architectures",
          "eventlocation": "Online",
          "starttime": 1589356800,
@@ -299,6 +309,16 @@
          "link": "https://www.meetup.com/nl-NL/ServerlessDays-Belgium/events/270145738/",
          "description": "Join to hear Yan Cui speak about building a social media site with Lambda, DynamoDB and AppSync and receive pro-tips for implementing DynamoDB in serverless applications from Alex Debrie.",
          "organizer": "ServerlessDays Belgium",
+         "eventlanguage": "English"
+     },
+     {
+         "event": "AWS Step Functions: Workflows for serverless apps and more",
+         "eventlocation": "Online",
+         "starttime": 1589994000,
+         "endtime": 1589997600,
+         "link": "https://www.meetup.com/AWS-PTA/events/270483233/",
+         "description": "In this session, an AWS Solutions Architect will walk you through designing workflows for serverless and instance-based apps, and will show you how to use Step Functions.",
+         "organizer": "Pretoria AWS Meetup",
          "eventlanguage": "English"
      },
      {

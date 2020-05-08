@@ -1,10 +1,11 @@
 import React from 'react'
+import Logo from "../assets/images/serverless-events-logo.png"
 
 const Banner = (props) => (
     <section id="banner" className="major">
         <div className="inner">
             <header className="major">
-                <h1>Serverless Events</h1>
+                <div><img src={Logo} alt="Serverless Events" className="banner-img" /></div>
             </header>
             <div className="content">
                 <p>A curated list of awesome serverless events<br />

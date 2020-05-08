@@ -45,13 +45,13 @@ const Events = props => (
                     }
                     return (
                   <tr>
-                    <td><a href={linkWithUtm} target="_blank">{data.event}</a><p style={{ color: 'yellow', marginBottom: 0 }}>{liveNow}</p></td>
+                    <td><a href={linkWithUtm} target="_blank" rel="noopener noreferrer">{data.event}</a><p style={{ color: 'yellow', marginBottom: 0 }}>{liveNow}</p></td>
                     <td>{data.organizer}</td>
                     <td style={{ whiteSpace: 'nowrap' }}>{formattedStartTime}</td>
                     <td>{data.eventlocation}</td>
                     <td>{data.description}</td>
                     <td>{data.eventlanguage}</td>
-                    <td><a href={linkWithUtm} target="_blank">Link</a></td>
+                    <td><a href={linkWithUtm} target="_blank" rel="noopener noreferrer">Link</a></td>
                   </tr>
                     )
                   }
