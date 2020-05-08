@@ -45,7 +45,7 @@ const Events = props => (
                     }
                     return (
                   <tr>
-                    <td><a href={linkWithUtm} target="_blank">{data.event}</a><br />{liveNow}</td>
+                    <td><a href={linkWithUtm} target="_blank">{data.event}</a><p style={{ color: 'yellow' }}>{liveNow}</p></td>
                     <td>{data.organizer}</td>
                     <td style={{ whiteSpace: 'nowrap' }}>{formattedStartTime}</td>
                     <td>{data.eventlocation}</td>
