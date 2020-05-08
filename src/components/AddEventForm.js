@@ -75,7 +75,7 @@ class AddEventForm extends Component {
                     <input type="text" name="organizer" id="organizer" required onChange={this.handleFields} value={this.state.organizer} />
                 </div>
                 <div className="field half first">
-                    <label htmlFor="starttimeLong">End time ({moment.tz(moment.tz.guess()).zoneAbbr()})</label>
+                    <label htmlFor="starttimeLong">Start time ({moment.tz(moment.tz.guess()).zoneAbbr()})</label>
                     <DatePicker
                       name="starttimeLong"
                       id="starttimeLong"
@@ -94,7 +94,7 @@ class AddEventForm extends Component {
                     <input type="text" pattern="[0-9]*" name="starttime" id="starttime" required onChange={this.handleFields} value={this.state.starttime} />
                 </div>
                 <div className="field half">
-                    <label htmlFor="endtimeLong">Start time ({moment.tz(moment.tz.guess()).zoneAbbr()})</label>
+                    <label htmlFor="endtimeLong">End time ({moment.tz(moment.tz.guess()).zoneAbbr()})</label>
                     <DatePicker
                       name="endtimeLong"
                       id="endtimeLong"
