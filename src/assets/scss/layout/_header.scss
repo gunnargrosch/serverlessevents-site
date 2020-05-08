@@ -28,13 +28,19 @@
 		width: 100%;
 		z-index: _misc(z-index-base);
 
+		.logo-img {
+			width: 100%;
+			max-width: 200px;
+			height: auto;
+			padding: 1em 1em;
+		}
+
 		.logo {
 			border: 0;
 			display: inline-block;
 			font-size: 0.8em;
 			height: inherit;
 			line-height: inherit;
-			padding: 0 1.5em;
 
 			strong {
 				@include vendor('transition', (
