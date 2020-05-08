@@ -41,10 +41,11 @@ class AddEventForm extends Component {
   handleStartTime = date => {
     this.setState({
       starttime: moment(date).unix(),
-      starttimeLong: date
+      starttimeLong: date,
+      endtime: moment(date).unix(),
+      endtimeLong: date,
     });
     document.getElementById('endtimeLong').minDate = date
-    document.getElementById('endtimeLong').value = date
   };
   handleEndTime = date => {
     this.setState({
@@ -90,7 +91,7 @@ class AddEventForm extends Component {
                       timeCaption="time"
                       dateFormat="MMMM d, yyyy h:mm aa"
                     />
-                    <input type="hidden" pattern="[0-9]*" name="starttime" id="starttime" required onChange={this.handleFields} value={this.state.starttime} />
+                    <input type="text" pattern="[0-9]*" name="starttime" id="starttime" required onChange={this.handleFields} value={this.state.starttime} />
                 </div>
                 <div className="field half">
                     <label htmlFor="endtimeLong">Start time ({moment.tz(moment.tz.guess()).zoneAbbr()})</label>
@@ -110,7 +111,7 @@ class AddEventForm extends Component {
                       timeCaption="time"
                       dateFormat="MMMM d, yyyy h:mm aa"
                     />
-                    <input type="hidden" pattern="[0-9]*" name="endtime" id="endtime" required onChange={this.handleFields} value={this.state.endtime} />
+                    <input type="text" pattern="[0-9]*" name="endtime" id="endtime" required onChange={this.handleFields} value={this.state.endtime} />
                 </div>
                 <div className="field half first">
                     <label htmlFor="eventlocation">Location (Online or city and country)</label>
