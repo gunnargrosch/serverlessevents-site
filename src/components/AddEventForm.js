@@ -83,6 +83,7 @@ class AddEventForm extends Component {
                       selected={this.state.starttimeLong}
                       value={this.state.starttimeLong}
                       required
+                      autoComplete="off"
                       todayButton="Today"
                       onChange={this.handleStartTime}
                       showTimeSelect
@@ -102,6 +103,7 @@ class AddEventForm extends Component {
                       selected={this.state.endtimeLong}
                       value={this.state.endtimeLong}
                       required
+                      autoComplete="off"
                       minDate={this.state.starttimeLong}
                       todayButton="Today"
                       onChange={this.handleEndTime}
