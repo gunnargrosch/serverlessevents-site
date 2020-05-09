@@ -273,13 +273,23 @@
         },
         {
             "event": "Good Morning Serverless - Ben Bridts",
-            "eventlocation": "online",
+            "eventlocation": "Online",
             "starttime": 1589891400,
             "endtime": 1589893200,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
             "description": "Interview with Ben Bridts",
             "organizer": "Tom McLaughlin (ServerlessOps)",
             "eventlanguage": "English"
+        },
+        {
+            "event": "Introduction to Serverless: do you need a PhD to build a cloud app?",
+            "eventlocation": "Online",
+            "starttime": 1589904000,
+            "endtime": 1589905800,
+            "link": "https://bit.ly/nimbella-intro-to-serverless",
+            "description": "Learn the best ways to get started with your serverless development journey and why serverless computing is changing the cloud landscape.",
+            "organizer": "Nimbella",
+            "eventlanguage": "English "
         },
         {
             "event": "How Vonage Reduces Troubleshooting Time and Deploys Features 2x Faster with Epsagon",
@@ -323,7 +333,7 @@
         },
         {
             "event": "Good Morning Serverless - Ant Stanley",
-            "eventlocation": "online",
+            "eventlocation": "Online",
             "starttime": 1590064200,
             "endtime": 1590066000,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
@@ -353,7 +363,7 @@
         },
         {
             "event": "Good Morning Serverless - Luca Bianchi",
-            "eventlocation": "online",
+            "eventlocation": "Online",
             "starttime": 1590496200,
             "endtime": 1590498000,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
@@ -373,7 +383,7 @@
         },
         {
             "event": "Good Morning Serverless - Paul Chin Jr.",
-            "eventlocation": "online",
+            "eventlocation": "Online",
             "starttime": 1590669000,
             "endtime": 1590670800,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
@@ -393,7 +403,7 @@
         },
         {
             "event": "Good Morning Serverless - Rob Sutter",
-            "eventlocation": "online",
+            "eventlocation": "Online",
             "starttime": 1591101000,
             "endtime": 1591102800,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
@@ -403,7 +413,7 @@
         },
         {
             "event": "Good Morning Serverless - Danielle Heberling",
-            "eventlocation": "online",
+            "eventlocation": "Online",
             "starttime": 1591273800,
             "endtime": 1591275600,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
