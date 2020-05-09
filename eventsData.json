@@ -282,6 +282,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Introduction to Serverless: do you need a PhD to build a cloud app?",
+            "eventlocation": "Online",
+            "starttime": 1589904000,
+            "endtime": 1589905800,
+            "link": "https://bit.ly/nimbella-intro-to-serverless",
+            "description": "Learn the best ways to get started with your serverless development journey and why serverless computing is changing the cloud landscape.",
+            "organizer": "Jamie Dawson (Nimbella)",
+            "eventlanguage": "English "
+        },
+        {
             "event": "How Vonage Reduces Troubleshooting Time and Deploys Features 2x Faster with Epsagon",
             "eventlocation": "Online",
             "starttime": 1589907600,
