@@ -1,425 +1,315 @@
 {
- "title": "Serverless Events in JSON",
- "content": [
-     {
-         "event": "Nordic Serverless Observability Special",
-         "eventlocation": "Online",
-         "starttime": 1587484800,
-         "endtime": 1587492000,
-         "link": "https://www.meetup.com/Stockholm-Serverless/events/269796168/",
-         "description": "We're hosting a meetup where Epsagon, Thundra, Dashbird and Lumigo will give a session each on serverless observability.",
-         "organizer": "Nordic Serverless",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "ServerlessDays Virtual",
-         "eventlocation": "Online",
-         "starttime": 1588176000,
-         "endtime": 1588194000,
-         "link": "https://virtual.serverlessdays.io/",
-         "description": "One Day. One Track. One Community.",
-         "organizer": "ServerlessDays Virtual",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "giovedì 30 aprile alle 18:30, Simone Zennaro @ Serverless Live #29",
-         "eventlocation": "Online",
-         "starttime": 1588264200,
-         "endtime": 1588271400,
-         "link": "https://www.meetup.com/Serverless-Italy/events/270293185/",
-         "description": "Ci vediamo giovedì 30 aprile alle 18:30 con Serverless Italy Meetup in streaming #29.",
-         "organizer": "Serverless Italy Meetup",
-         "eventlanguage": "Italian"
-     },
-     {
-         "event": "Sessions With SAM: Building SQS topics with SAM",
-         "eventlocation": "Online",
-         "starttime": 1588266000,
-         "endtime": 1588267800,
-         "link": "https://twitch.tv/aws",
-         "description": "This series is dedicated to building serverless infrastructure with AWS SAM templates.",
-         "organizer": "Eric Johnson (AWS)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Let's Deploy using AWS Cli",
-         "eventlocation": "Online",
-         "starttime": 1588397400,
-         "endtime": 1588401000,
-         "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/270328658/",
-         "description": "Let's learn how to deploy your serverless applications using AWS Cli",
-         "organizer": "Serverless Ahmedabad",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "What's New in AWS Serverless - EMEA",
-         "eventlocation": "Online",
-         "starttime": 1588665600,
-         "endtime": 1588669200,
-         "link": "https://events-na9.adobeconnect.com/content/connect/c1/1584538536/en/events/event/shared/1589157018/event_landing.html?connect-session=na9breezybu3exsfhzieeva7&sco-id=1590380632&_charset_=utf-8",
-         "description": "Join AWS to hear an update on all the latest AWS Serverless releases from 2019 and early 2020.",
-         "organizer": "Amazon Web Services (AWS)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Nordic Serverless More than a key-value store: Getting the most out of DynamoDB",
-         "eventlocation": "Online",
-         "starttime": 1588694400,
-         "endtime": 1588701600,
-         "link": "https://www.meetup.com/Stockholm-Serverless/events/270194848/",
-         "description": "Join us for a meetup around DynamoDB with AWS Data Hero Alex DeBrie.",
-         "organizer": "Nordic Serverless",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Serverless Framework Full-stack App",
-         "eventlocation": "Online",
-         "starttime": 1588712400,
-         "endtime": 1588716000,
-         "link": "https://twitch.tv/aws",
-         "description": "Austen Collins is building a serverless full-stack app LIVE! He'll demo many fast new Serverless Framework features in the process to streamline your workflow.",
-         "organizer": "Amazon Web Services (AWS) and Serverless Framework",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Sydney Serverless - May Edition (Online)",
-         "eventlocation": "Online",
-         "starttime": 1588750200,
-         "endtime": 1588755600,
-         "link": "https://www.meetup.com/Sydney-Serverless-Meetup-Group/events/270287342/",
-         "description": "Your monthly fill of Serverless from Australia's favourite meetup.",
-         "organizer": "Sydney Serverless Meetup",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "ServerlessDays Paris - Remote Session #1",
-         "eventlocation": "Online",
-         "starttime": 1588780800,
-         "endtime": 1588786200,
-         "link": "https://www.meetup.com/Paris-Serverless-Architecture-Meetup/events/270316728/",
-         "description": "En partenariat avec notre meetup, cette première session des ServerlessDays Paris en remote se déroulera en anglais car nous avons le plaisir d'accueillir Yan Cui et Rita Kozlov.",
-         "organizer": "Paris Serverless Architecture Meetup",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Sessions With SAM: Safe deployments for Lambda functions",
-         "eventlocation": "Online",
-         "starttime": 1588870800,
-         "endtime": 1588872600,
-         "link": "https://twitch.tv/aws",
-         "description": "This series is dedicated to building serverless infrastructure with AWS SAM templates.",
-         "organizer": "Eric Johnson (AWS)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "ServerlessDays Amsterdam - virtual conference",
-         "eventlocation": "Online",
-         "starttime": 1588921200,
-         "endtime": 1588951800,
-         "link": "https://serverlessdays.nl/",
-         "description": "ServerlessDays Amsterdam is a developer-oriented conference about serverless technologies.",
-         "organizer": "ServerlessDays Amsterdam",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Serverless Development with DynamoDB",
-         "eventlocation": "Online",
-         "starttime": 1589202000,
-         "endtime": 1589207400,
-         "link": "https://pages.awscloud.com/serverless-dynamoDB-Nordics.html",
-         "description": "Rick Houlihan leads the NoSQL Blackbelt Team at AWS and has leveraged just about every Serverless technology at AWS to migrate thousands of workloads to the cloud. ",
-         "organizer": "Amazon Web Services (AWS)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Good Morning Serverless - Jonatas Baldin",
-         "eventlocation": "online",
-         "starttime": 1589286600,
-         "endtime": 1589288400,
-         "link": "https://www.periscope.tv/ServerlessOpsIO/",
-         "description": "Interview with Jonatas Baldin from the OpenFAAS community",
-         "organizer": "Tom McLaughlin (ServerlessOps)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Happy Little APIs (S2E4): Building a Serverless URL Shortener without using a Lambda (Part 3)",
-         "eventlocation": "Online",
-         "starttime": 1589302800,
-         "endtime": 1589304600,
-         "link": "https://twitch.tv/aws",
-         "description": "This is the final session on using API Gateway and DynamoDB to create a serverless URL shortener.",
-         "organizer": "Eric Johnson (AWS)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "47º AWS UG SP - Arquiteturas orientadas a eventos com Amazon EventBridge",
-         "eventlocation": "Online",
-         "starttime": 1589304600,
-         "endtime": 1589310000,
-         "link": "https://www.meetup.com/awsusergroupsp/events/270469500",
-         "description": "Em mais um encontro 100% online, vamos receber duas pessoas da AWS para falar sobre um tema importantíssimo: como construtir aplicações orientadas a eventos utilizando o Amazon EventBridge.",
-         "organizer": "AWS User Group São Paulo",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Accelerate your Serverless journeys with AWS messaging and event-driven architectures",
-         "eventlocation": "Online",
-         "starttime": 1589356800,
-         "endtime": 1589360400,
-         "link": "https://accelerate-your-serverless-journey.splashthat.com/",
-         "description": "Join our Applications Integration team and learn about the benefits of event-driven architectures, customer use cases and challenges.",
-         "organizer": "Amazon Web Services (AWS)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Full Stack Development with AWS Amplify",
-         "eventlocation": "Online",
-         "starttime": 1589360400,
-         "endtime": 1589364000,
-         "link": "https://kommunity.com/cloud-and-serverless-turkey/events/full-stack-development-with-aws-amplify-03976368",
-         "description": "Marcia will run over a real life application that's built on AWS Amplify. ",
-         "organizer": "Cloud and Serverless Turkey",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Nordic Serverless Chaos Engineering Special",
-         "eventlocation": "Online",
-         "starttime": 1589385600,
-         "endtime": 1589392800,
-         "link": "https://www.meetup.com/Stockholm-Serverless/events/269807696/",
-         "description": "Finally on the same stage we'll have Adrian Hornsby and Gunnar Grosch talking about chaos engineering from a serverless perspective.",
-         "organizer": "Nordic Serverless",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Serverless After Dark",
-         "eventlocation": "online",
-         "starttime": 1589416200,
-         "endtime": 1589423400,
-         "link": "https://www.periscope.tv/ServerlessOpsIO/",
-         "description": "Serverless After Dark is a weekly hack night at 8:30pm ET on Wednesday nights. It's an opportunity for members of the AWS serverless community to get together, work on their projects...",
-         "organizer": "Tom McLaughlin (ServerlessOps)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "UK GCS Connect: Serverless",
-         "eventlocation": "Online",
-         "starttime": 1589454000,
-         "endtime": 1589459400,
-         "link": "https://us02web.zoom.us/webinar/register/3415887661408/WN_LFilqlKWSPaUI5qWi15PJw",
-         "description": "Marc Fielding will be covering reasons why you should go serverless, mistakes in migration, cloud managed services, and more. Edgar Rivera will introduce Cloud Run & Knative using demos.",
-         "organizer": "GCS Connect",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Good Morning Serverless - Ben Kehoe",
-         "eventlocation": "online",
-         "starttime": 1589459400,
-         "endtime": 1589461200,
-         "link": "https://www.periscope.tv/ServerlessOpsIO/",
-         "description": "Interview with famous vacuum cleaner salesman",
-         "organizer": "Tom McLaughlin (ServerlessOps)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Serverless in Place: Best Serverless Fails",
-         "eventlocation": "Online",
-         "starttime": 1589493600,
-         "endtime": 1589496300,
-         "link": "https://newrelic.com/webinar/serverless-in-place",
-         "description": "Explore serverless fails at this virtual meetup:\nSheen Brisals – \"From Oops to Ops: Sloppy Little Serverless Stories\"\nJeremy Daly – \"How to Fail on Serverless\"\nErica Windisch – \"Gmail was Cheaper\"",
-         "organizer": "New Relic",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Building Event-driven Architectures with Amazon EventBridge",
-         "eventlocation": "Online",
-         "starttime": 1589502600,
-         "endtime": 1589508000,
-         "link": "https://www.meetup.com/Mountain-View-Cloud-Native-Meetup-Group/events/270379934/",
-         "description": "In this session, James Beswick will discuss how to think about which strategy is right for your application and how to build a fully event-driven application.",
-         "organizer": "Mountain View Cloud Native Computing Meetup Group",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "FaaS - Serverless (AWS Lambda) Problemleri ve Çözümleri",
-         "eventlocation": "Online",
-         "starttime": 1589572800,
-         "endtime": 1589623200,
-         "link": "https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-7-faas-serverless-aws-lambda-problemleri-ve-cozumleri-5888dd48",
-         "description": "In this talk, we will talk about specific problems around FaaS and possible solutions to those. The talk will be in Turkish. ",
-         "organizer": "Cloud and Serverless Turkey",
-         "eventlanguage": "Turkish"
-     },
-     {
-         "event": "Patterns and Practices for Building Resilient AWS Serverless Applications",
-         "eventlocation": "Online",
-         "starttime": 1589635800,
-         "endtime": 1589643000,
-         "link": "https://www.meetup.com/AmazonAWS-Delhi/events/270236307/",
-         "description": "In this talk, we will look at a number of practices and architectural patterns that can help you build more resilient serverless applications.",
-         "organizer": "AWS User Group Delhi",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "What's New in Serverless - Nordics",
-         "eventlocation": "Online",
-         "starttime": 1589889600,
-         "endtime": 1589893200,
-         "link": "https://pages.awscloud.com/new-in-serverless-20200519.html",
-         "description": "Join AWS for an update on AWS Serverless releases in the last six months and learn how they can empower customers to build cloud native modern applications that drive business agility.",
-         "organizer": "Amazon Web Services (AWS)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Good Morning Serverless - Ben Bridts",
-         "eventlocation": "online",
-         "starttime": 1589891400,
-         "endtime": 1589893200,
-         "link": "https://www.periscope.tv/ServerlessOpsIO/",
-         "description": "Interview with Ben Bridts",
-         "organizer": "Tom McLaughlin (ServerlessOps)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "How Vonage Reduces Troubleshooting Time and Deploys Features 2x Faster with Epsagon",
-         "eventlocation": "Online",
-         "starttime": 1589907600,
-         "endtime": 1589911200,
-         "link": "https://pages.awscloud.com/GLOBAL-event-OE-Epsagon-May-Webinar-2020-reg-event.html",
-         "description": "As microservices-based applications become more and more complex, the lack of end-to-end visibility can make it difficult to discover and solve issues quickly.",
-         "organizer": "Amazon Web Services (AWS) and Epsagon",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Designing for DynamoDB Success",
-         "eventlocation": "Online",
-         "starttime": 1589990400,
-         "endtime": 1589994000,
-         "link": "https://register.gotowebinar.com/register/8833212941224882443",
-         "description": "In this talk, AWS Data Hero and author of the DynamoDB Book, Alex DeBrie, breaks down what makes DynamoDB's abstractions uniquely powerful for your cloud-native applications.",
-         "organizer": "A Cloud Guru",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "ServerlessDays Belgium - virtual Meetup",
-         "eventlocation": "Online",
-         "starttime": 1589994000,
-         "endtime": 1589999400,
-         "link": "https://www.meetup.com/nl-NL/ServerlessDays-Belgium/events/270145738/",
-         "description": "Join to hear Yan Cui speak about building a social media site with Lambda, DynamoDB and AppSync and receive pro-tips for implementing DynamoDB in serverless applications from Alex Debrie.",
-         "organizer": "ServerlessDays Belgium",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "AWS Step Functions: Workflows for serverless apps and more",
-         "eventlocation": "Online",
-         "starttime": 1589994000,
-         "endtime": 1589997600,
-         "link": "https://www.meetup.com/AWS-PTA/events/270483233/",
-         "description": "In this session, an AWS Solutions Architect will walk you through designing workflows for serverless and instance-based apps, and will show you how to use Step Functions.",
-         "organizer": "Pretoria AWS Meetup",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "AWS Serverless-First Function - Serverless for your Organization",
-         "eventlocation": "Online",
-         "starttime": 1590030000,
-         "endtime": 1590048000,
-         "link": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
-         "description": "Learn real-world tactics for transforming your organization to get the most out of the cloud.",
-         "organizer": "Amazon Web Services (AWS)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Good Morning Serverless - Ant Stanley",
-         "eventlocation": "online",
-         "starttime": 1590064200,
-         "endtime": 1590066000,
-         "link": "https://www.periscope.tv/ServerlessOpsIO/",
-         "description": "Interview with AWS Serverless Hero Any Stanley",
-         "organizer": "Tom McLaughlin (ServerlessOps)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Webinar: How to Architect Cost-Efficient Serverless Infrastructures",
-         "eventlocation": "Online",
-         "starttime": 1590080400,
-         "endtime": 1590082200,
-         "link": "https://us02web.zoom.us/webinar/register/WN_eqDpgutkTbqwoM91sJmUxQ",
-         "description": "Spring has sprung, and what better time to spring clean your AWS cloud bill of the unnecessary spend. Let's start from architecting more cost-efficient infrastructures. ",
-         "organizer": "Dashbird",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Good Morning Serverless - Luca Bianchi",
-         "eventlocation": "online",
-         "starttime": 1590496200,
-         "endtime": 1590498000,
-         "link": "https://www.periscope.tv/ServerlessOpsIO/",
-         "description": "Interview with Neosperience CTO Luca Bianchi",
-         "organizer": "Tom McLaughlin (ServerlessOps)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "AWS User Group UK Meetup #42",
-         "eventlocation": "Online",
-         "starttime": 1590602400,
-         "endtime": 1590607800,
-         "link": "https://www.meetup.com/AWSUGUK/events/267802522/",
-         "description": "Serverless Deployments with Canary (Nicole Yip from Lego) Servers are dead! How architecture in the 2020s is being revolutionised by serverless (Matthew Clark)",
-         "organizer": "AWS User Group UK",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "AWS Serverless-First Function - Serverless for your Application",
-         "eventlocation": "Online",
-         "starttime": 1590634800,
-         "endtime": 1590739200,
-         "link": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
-         "description": "Consider this event your complete builder’s guide to serverless applications.",
-         "organizer": "Amazon Web Services (AWS)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Good Morning Serverless - Paul Chin Jr.",
-         "eventlocation": "online",
-         "starttime": 1590669000,
-         "endtime": 1590670800,
-         "link": "https://www.periscope.tv/ServerlessOpsIO/",
-         "description": "Interview with DevRel at http://begin.com Paul Chin Jr.",
-         "organizer": "Tom McLaughlin (ServerlessOps)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Good Morning Serverless - Rob Sutter",
-         "eventlocation": "online",
-         "starttime": 1591101000,
-         "endtime": 1591102800,
-         "link": "https://www.periscope.tv/ServerlessOpsIO/",
-         "description": "Interview with AWS Developer Advocate Rob Sutter",
-         "organizer": "Tom McLaughlin (ServerlessOps)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "Good Morning Serverless - Danielle Heberling",
-         "eventlocation": "online",
-         "starttime": 1591273800,
-         "endtime": 1591275600,
-         "link": "https://www.periscope.tv/ServerlessOpsIO/",
-         "description": "Interview with Stackery developer Danielle Heberling",
-         "organizer": "Tom McLaughlin (ServerlessOps)",
-         "eventlanguage": "English"
-     },
-     {
-         "event": "ServerlessDays Hamburg",
-         "eventlocation": "Hamburg, Germany",
-         "starttime": 1601535600,
-         "endtime": 1601652600,
-         "link": "https://hamburg.serverlessdays.io",
-         "description": "ServerlessDays Hamburg is a 2-day conference about Serverless technologies with one day of workshops and one day with talks.",
-         "organizer": "Superluminar",
-         "eventlanguage": "English"
-     }
- ]
+    "title": "Serverless Events in JSON",
+    "content": [
+        {
+            "event": "Serverless Development with DynamoDB",
+            "eventlocation": "Online",
+            "starttime": 1589202000,
+            "endtime": 1589207400,
+            "link": "https://pages.awscloud.com/serverless-dynamoDB-Nordics.html",
+            "description": "Rick Houlihan leads the NoSQL Blackbelt Team at AWS and has leveraged just about every Serverless technology at AWS to migrate thousands of workloads to the cloud. ",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Good Morning Serverless - Jonatas Baldin",
+            "eventlocation": "Online",
+            "starttime": 1589286600,
+            "endtime": 1589288400,
+            "link": "https://www.periscope.tv/ServerlessOpsIO/",
+            "description": "Interview with Jonatas Baldin from the OpenFAAS community",
+            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Happy Little APIs (S2E4): Building a Serverless URL Shortener without using a Lambda (Part 3)",
+            "eventlocation": "Online",
+            "starttime": 1589302800,
+            "endtime": 1589304600,
+            "link": "https://twitch.tv/aws",
+            "description": "This is the final session on using API Gateway and DynamoDB to create a serverless URL shortener.",
+            "organizer": "Eric Johnson (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "47º AWS UG SP - Arquiteturas orientadas a eventos com Amazon EventBridge",
+            "eventlocation": "Online",
+            "starttime": 1589304600,
+            "endtime": 1589310000,
+            "link": "https://www.meetup.com/awsusergroupsp/events/270469500",
+            "description": "Em mais um encontro 100% online, vamos receber duas pessoas da AWS para falar sobre um tema importantíssimo: como construtir aplicações orientadas a eventos utilizando o Amazon EventBridge.",
+            "organizer": "AWS User Group São Paulo",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Accelerate your Serverless journeys with AWS messaging and event-driven architectures",
+            "eventlocation": "Online",
+            "starttime": 1589356800,
+            "endtime": 1589360400,
+            "link": "https://accelerate-your-serverless-journey.splashthat.com/",
+            "description": "Join our Applications Integration team and learn about the benefits of event-driven architectures, customer use cases and challenges.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Full Stack Development with AWS Amplify",
+            "eventlocation": "Online",
+            "starttime": 1589360400,
+            "endtime": 1589364000,
+            "link": "https://kommunity.com/cloud-and-serverless-turkey/events/full-stack-development-with-aws-amplify-03976368",
+            "description": "Marcia will run over a real life application that's built on AWS Amplify. ",
+            "organizer": "Cloud and Serverless Turkey",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Nordic Serverless Chaos Engineering Special",
+            "eventlocation": "Online",
+            "starttime": 1589385600,
+            "endtime": 1589392800,
+            "link": "https://www.meetup.com/Stockholm-Serverless/events/269807696/",
+            "description": "Finally on the same stage we'll have Adrian Hornsby and Gunnar Grosch talking about chaos engineering from a serverless perspective.",
+            "organizer": "Nordic Serverless",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless After Dark",
+            "eventlocation": "Online",
+            "starttime": 1589416200,
+            "endtime": 1589423400,
+            "link": "https://www.periscope.tv/ServerlessOpsIO/",
+            "description": "Serverless After Dark is a weekly hack night at 8:30pm ET on Wednesday nights. It's an opportunity for members of the AWS serverless community to get together, work on their projects...",
+            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "UK GCS Connect: Serverless",
+            "eventlocation": "Online",
+            "starttime": 1589454000,
+            "endtime": 1589459400,
+            "link": "https://us02web.zoom.us/webinar/register/3415887661408/WN_LFilqlKWSPaUI5qWi15PJw",
+            "description": "Marc Fielding will be covering reasons why you should go serverless, mistakes in migration, cloud managed services, and more. Edgar Rivera will introduce Cloud Run & Knative using demos.",
+            "organizer": "GCS Connect",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Good Morning Serverless - Ben Kehoe",
+            "eventlocation": "Online",
+            "starttime": 1589459400,
+            "endtime": 1589461200,
+            "link": "https://www.periscope.tv/ServerlessOpsIO/",
+            "description": "Interview with famous vacuum cleaner salesman",
+            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless in Place: Best Serverless Fails",
+            "eventlocation": "Online",
+            "starttime": 1589493600,
+            "endtime": 1589496300,
+            "link": "https://newrelic.com/webinar/serverless-in-place",
+            "description": "Explore serverless fails at this virtual meetup:\nSheen Brisals – \"From Oops to Ops: Sloppy Little Serverless Stories\"\nJeremy Daly – \"How to Fail on Serverless\"\nErica Windisch – \"Gmail was Cheaper\"",
+            "organizer": "New Relic",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Building Event-driven Architectures with Amazon EventBridge",
+            "eventlocation": "Online",
+            "starttime": 1589502600,
+            "endtime": 1589508000,
+            "link": "https://www.meetup.com/Mountain-View-Cloud-Native-Meetup-Group/events/270379934/",
+            "description": "In this session, James Beswick will discuss how to think about which strategy is right for your application and how to build a fully event-driven application.",
+            "organizer": "Mountain View Cloud Native Computing Meetup Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "FaaS - Serverless (AWS Lambda) Problemleri ve Çözümleri",
+            "eventlocation": "Online",
+            "starttime": 1589572800,
+            "endtime": 1589623200,
+            "link": "https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-7-faas-serverless-aws-lambda-problemleri-ve-cozumleri-5888dd48",
+            "description": "In this talk, we will talk about specific problems around FaaS and possible solutions to those. The talk will be in Turkish. ",
+            "organizer": "Cloud and Serverless Turkey",
+            "eventlanguage": "Turkish"
+        },
+        {
+            "event": "Patterns and Practices for Building Resilient AWS Serverless Applications",
+            "eventlocation": "Online",
+            "starttime": 1589635800,
+            "endtime": 1589643000,
+            "link": "https://www.meetup.com/AmazonAWS-Delhi/events/270236307/",
+            "description": "In this talk, we will look at a number of practices and architectural patterns that can help you build more resilient serverless applications.",
+            "organizer": "AWS User Group Delhi",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "What's New in Serverless - Nordics",
+            "eventlocation": "Online",
+            "starttime": 1589889600,
+            "endtime": 1589893200,
+            "link": "https://pages.awscloud.com/new-in-serverless-20200519.html",
+            "description": "Join AWS for an update on AWS Serverless releases in the last six months and learn how they can empower customers to build cloud native modern applications that drive business agility.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Good Morning Serverless - Ben Bridts",
+            "eventlocation": "Online",
+            "starttime": 1589891400,
+            "endtime": 1589893200,
+            "link": "https://www.periscope.tv/ServerlessOpsIO/",
+            "description": "Interview with Ben Bridts",
+            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Introduction to Serverless: do you need a PhD to build a cloud app?",
+            "eventlocation": "Online",
+            "starttime": 1589904000,
+            "endtime": 1589905800,
+            "link": "https://bit.ly/nimbella-intro-to-serverless",
+            "description": "Learn the best ways to get started with your serverless development journey and why serverless computing is changing the cloud landscape.",
+            "organizer": "Nimbella",
+            "eventlanguage": "English "
+        },
+        {
+            "event": "How Vonage Reduces Troubleshooting Time and Deploys Features 2x Faster with Epsagon",
+            "eventlocation": "Online",
+            "starttime": 1589907600,
+            "endtime": 1589911200,
+            "link": "https://pages.awscloud.com/GLOBAL-event-OE-Epsagon-May-Webinar-2020-reg-event.html",
+            "description": "As microservices-based applications become more and more complex, the lack of end-to-end visibility can make it difficult to discover and solve issues quickly.",
+            "organizer": "Amazon Web Services (AWS) and Epsagon",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Designing for DynamoDB Success",
+            "eventlocation": "Online",
+            "starttime": 1589990400,
+            "endtime": 1589994000,
+            "link": "https://register.gotowebinar.com/register/8833212941224882443",
+            "description": "In this talk, AWS Data Hero and author of the DynamoDB Book, Alex DeBrie, breaks down what makes DynamoDB's abstractions uniquely powerful for your cloud-native applications.",
+            "organizer": "A Cloud Guru",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "ServerlessDays Belgium - virtual Meetup",
+            "eventlocation": "Online",
+            "starttime": 1589994000,
+            "endtime": 1589999400,
+            "link": "https://www.meetup.com/nl-NL/ServerlessDays-Belgium/events/270145738/",
+            "description": "Join to hear Yan Cui speak about building a social media site with Lambda, DynamoDB and AppSync and receive pro-tips for implementing DynamoDB in serverless applications from Alex Debrie.",
+            "organizer": "ServerlessDays Belgium",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "AWS Step Functions: Workflows for serverless apps and more",
+            "eventlocation": "Online",
+            "starttime": 1589994000,
+            "endtime": 1589997600,
+            "link": "https://www.meetup.com/AWS-PTA/events/270483233/",
+            "description": "In this session, an AWS Solutions Architect will walk you through designing workflows for serverless and instance-based apps, and will show you how to use Step Functions.",
+            "organizer": "Pretoria AWS Meetup",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Good Morning Serverless - Ant Stanley",
+            "eventlocation": "Online",
+            "starttime": 1590064200,
+            "endtime": 1590066000,
+            "link": "https://www.periscope.tv/ServerlessOpsIO/",
+            "description": "Interview with AWS Serverless Hero Any Stanley",
+            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "AWS Serverless-First Function - Serverless for your Organization",
+            "eventlocation": "Online",
+            "starttime": 1590073200,
+            "endtime": 1590091200,
+            "link": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
+            "description": "Learn real-world tactics for transforming your organization to get the most out of the cloud.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Webinar: How to Architect Cost-Efficient Serverless Infrastructures",
+            "eventlocation": "Online",
+            "starttime": 1590080400,
+            "endtime": 1590082200,
+            "link": "https://us02web.zoom.us/webinar/register/WN_eqDpgutkTbqwoM91sJmUxQ",
+            "description": "Spring has sprung, and what better time to spring clean your AWS cloud bill of the unnecessary spend. Let's start from architecting more cost-efficient infrastructures. ",
+            "organizer": "Dashbird",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Good Morning Serverless - Luca Bianchi",
+            "eventlocation": "Online",
+            "starttime": 1590496200,
+            "endtime": 1590498000,
+            "link": "https://www.periscope.tv/ServerlessOpsIO/",
+            "description": "Interview with Neosperience CTO Luca Bianchi",
+            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "AWS User Group UK Meetup #42",
+            "eventlocation": "Online",
+            "starttime": 1590602400,
+            "endtime": 1590607800,
+            "link": "https://www.meetup.com/AWSUGUK/events/267802522/",
+            "description": "Serverless Deployments with Canary (Nicole Yip from Lego) Servers are dead! How architecture in the 2020s is being revolutionised by serverless (Matthew Clark)",
+            "organizer": "AWS User Group UK",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Good Morning Serverless - Paul Chin Jr.",
+            "eventlocation": "Online",
+            "starttime": 1590669000,
+            "endtime": 1590670800,
+            "link": "https://www.periscope.tv/ServerlessOpsIO/",
+            "description": "Interview with DevRel at http://begin.com Paul Chin Jr.",
+            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "AWS Serverless-First Function - Serverless for your Application",
+            "eventlocation": "Online",
+            "starttime": 1590678000,
+            "endtime": 1590696000,
+            "link": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
+            "description": "Consider this event your complete builder’s guide to serverless applications.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Good Morning Serverless - Rob Sutter",
+            "eventlocation": "Online",
+            "starttime": 1591101000,
+            "endtime": 1591102800,
+            "link": "https://www.periscope.tv/ServerlessOpsIO/",
+            "description": "Interview with AWS Developer Advocate Rob Sutter",
+            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Good Morning Serverless - Danielle Heberling",
+            "eventlocation": "Online",
+            "starttime": 1591273800,
+            "endtime": 1591275600,
+            "link": "https://www.periscope.tv/ServerlessOpsIO/",
+            "description": "Interview with Stackery developer Danielle Heberling",
+            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "ServerlessDays Hamburg",
+            "eventlocation": "Hamburg, Germany",
+            "starttime": 1601535600,
+            "endtime": 1601652600,
+            "link": "https://hamburg.serverlessdays.io",
+            "description": "ServerlessDays Hamburg is a 2-day conference about Serverless technologies with one day of workshops and one day with talks.",
+            "organizer": "Superluminar",
+            "eventlanguage": "English"
+        }
+    ]
 }
