@@ -2,16 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Serverless Development with DynamoDB",
-            "eventlocation": "Online",
-            "starttime": 1589202000,
-            "endtime": 1589207400,
-            "link": "https://pages.awscloud.com/serverless-dynamoDB-Nordics.html",
-            "description": "Rick Houlihan leads the NoSQL Blackbelt Team at AWS and has leveraged just about every Serverless technology at AWS to migrate thousands of workloads to the cloud. ",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Good Morning Serverless - Jonatas Baldin",
             "eventlocation": "Online",
             "starttime": 1589286600,
