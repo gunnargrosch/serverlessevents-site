@@ -2,36 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Good Morning Serverless - Jonatas Baldin",
-            "eventlocation": "Online",
-            "starttime": 1589286600,
-            "endtime": 1589288400,
-            "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Interview with Jonatas Baldin from the OpenFAAS community",
-            "organizer": "Tom McLaughlin (ServerlessOps)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Happy Little APIs (S2E4): Building a Serverless URL Shortener without using a Lambda (Part 3)",
-            "eventlocation": "Online",
-            "starttime": 1589302800,
-            "endtime": 1589304600,
-            "link": "https://twitch.tv/aws",
-            "description": "This is the final session on using API Gateway and DynamoDB to create a serverless URL shortener.",
-            "organizer": "Eric Johnson (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "47º AWS UG SP - Arquiteturas orientadas a eventos com Amazon EventBridge",
-            "eventlocation": "Online",
-            "starttime": 1589304600,
-            "endtime": 1589310000,
-            "link": "https://www.meetup.com/awsusergroupsp/events/270469500",
-            "description": "Em mais um encontro 100% online, vamos receber duas pessoas da AWS para falar sobre um tema importantíssimo: como construtir aplicações orientadas a eventos utilizando o Amazon EventBridge.",
-            "organizer": "AWS User Group São Paulo",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Accelerate your Serverless journeys with AWS messaging and event-driven architectures",
             "eventlocation": "Online",
             "starttime": 1589356800,
@@ -68,7 +38,7 @@
             "endtime": 1589423400,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
             "description": "Serverless After Dark is a weekly hack night at 8:30pm ET on Wednesday nights. It's an opportunity for members of the AWS serverless community to get together, work on their projects...",
-            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "organizer": "ServerlessOps",
             "eventlanguage": "English"
         },
         {
@@ -87,8 +57,8 @@
             "starttime": 1589459400,
             "endtime": 1589461200,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Interview with famous vacuum cleaner salesman",
-            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "description": "Tom McLaughlin interviews famous vacuum cleaner salesman",
+            "organizer": "ServerlessOps",
             "eventlanguage": "English"
         },
         {
@@ -97,7 +67,7 @@
             "starttime": 1589493600,
             "endtime": 1589496300,
             "link": "https://newrelic.com/webinar/serverless-in-place",
-            "description": "Explore serverless fails at this virtual meetup:\nSheen Brisals – \"From Oops to Ops: Sloppy Little Serverless Stories\"\nJeremy Daly – \"How to Fail on Serverless\"\nErica Windisch – \"Gmail was Cheaper\"",
+            "description": "Explore serverless fails at this virtual meetup: Sheen Brisals - From Oops to Ops: Sloppy Little Serverless Stories, Jeremy Daly - How to Fail on Serverless, Erica Windisch - Gmail was Cheaper",
             "organizer": "New Relic",
             "eventlanguage": "English"
         },
@@ -112,7 +82,7 @@
             "eventlanguage": "English"
         },
         {
-            "event": "FaaS - Serverless (AWS Lambda) Problemleri ve Çözümleri",
+            "event": "FaaS - Serverless (AWS Lambda) Problemleri ve \u00c7\u00f6z\u00fcmleri",
             "eventlocation": "Online",
             "starttime": 1589572800,
             "endtime": 1589623200,
@@ -147,8 +117,8 @@
             "starttime": 1589891400,
             "endtime": 1589893200,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Interview with Ben Bridts",
-            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "description": "Tom McLaughlin interviews Ben Bridts",
+            "organizer": "ServerlessOps",
             "eventlanguage": "English"
         },
         {
@@ -207,8 +177,8 @@
             "starttime": 1590064200,
             "endtime": 1590066000,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Interview with AWS Serverless Hero Any Stanley",
-            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "description": "Tom McLaughlin interviews AWS Serverless Hero Any Stanley",
+            "organizer": "ServerlessOps",
             "eventlanguage": "English"
         },
         {
@@ -237,8 +207,8 @@
             "starttime": 1590496200,
             "endtime": 1590498000,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Interview with Neosperience CTO Luca Bianchi",
-            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "description": "Tom McLaughlin interviews Neosperience CTO Luca Bianchi",
+            "organizer": "ServerlessOps",
             "eventlanguage": "English"
         },
         {
@@ -257,8 +227,8 @@
             "starttime": 1590669000,
             "endtime": 1590670800,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Interview with DevRel at http://begin.com Paul Chin Jr.",
-            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "description": "Tom McLaughlin interviews DevRel at http://begin.com Paul Chin Jr.",
+            "organizer": "ServerlessOps",
             "eventlanguage": "English"
         },
         {
@@ -267,7 +237,7 @@
             "starttime": 1590678000,
             "endtime": 1590696000,
             "link": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
-            "description": "Consider this event your complete builder’s guide to serverless applications.",
+            "description": "Consider this event your complete builder\u2019s guide to serverless applications.",
             "organizer": "Amazon Web Services (AWS)",
             "eventlanguage": "English"
         },
@@ -277,8 +247,8 @@
             "starttime": 1591101000,
             "endtime": 1591102800,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Interview with AWS Developer Advocate Rob Sutter",
-            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "description": "Tom McLaughlin interviews AWS Developer Advocate Rob Sutter",
+            "organizer": "ServerlessOps",
             "eventlanguage": "English"
         },
         {
@@ -287,8 +257,8 @@
             "starttime": 1591273800,
             "endtime": 1591275600,
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Interview with Stackery developer Danielle Heberling",
-            "organizer": "Tom McLaughlin (ServerlessOps)",
+            "description": "Tom McLaughlin interviews Stackery developer Danielle Heberling",
+            "organizer": "ServerlessOps",
             "eventlanguage": "English"
         },
         {
