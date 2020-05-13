@@ -2,36 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Accelerate your Serverless journeys with AWS messaging and event-driven architectures",
-            "eventlocation": "Online",
-            "starttime": 1589356800,
-            "endtime": 1589360400,
-            "link": "https://accelerate-your-serverless-journey.splashthat.com/",
-            "description": "Join our Applications Integration team and learn about the benefits of event-driven architectures, customer use cases and challenges.",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Full Stack Development with AWS Amplify",
-            "eventlocation": "Online",
-            "starttime": 1589360400,
-            "endtime": 1589364000,
-            "link": "https://kommunity.com/cloud-and-serverless-turkey/events/full-stack-development-with-aws-amplify-03976368",
-            "description": "Marcia will run over a real life application that's built on AWS Amplify. ",
-            "organizer": "Cloud and Serverless Turkey",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Nordic Serverless Chaos Engineering Special",
-            "eventlocation": "Online",
-            "starttime": 1589385600,
-            "endtime": 1589392800,
-            "link": "https://www.meetup.com/Stockholm-Serverless/events/269807696/",
-            "description": "Finally on the same stage we'll have Adrian Hornsby and Gunnar Grosch talking about chaos engineering from a serverless perspective.",
-            "organizer": "Nordic Serverless",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Serverless After Dark",
             "eventlocation": "Online",
             "starttime": 1589416200,
@@ -82,7 +52,7 @@
             "eventlanguage": "English"
         },
         {
-            "event": "FaaS - Serverless (AWS Lambda) Problemleri ve \u00c7\u00f6z\u00fcmleri",
+            "event": "FaaS - Serverless (AWS Lambda) Problemleri ve Çözümleri",
             "eventlocation": "Online",
             "starttime": 1589572800,
             "endtime": 1589623200,
@@ -237,7 +207,7 @@
             "starttime": 1590678000,
             "endtime": 1590696000,
             "link": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
-            "description": "Consider this event your complete builder\u2019s guide to serverless applications.",
+            "description": "Consider this event your complete builder’s guide to serverless applications.",
             "organizer": "Amazon Web Services (AWS)",
             "eventlanguage": "English"
         },
