@@ -29,13 +29,31 @@ class AddEventForm extends Component {
     } catch (error) {
       formMessage.innerHTML = '<h3>' + JSON.stringify(error) + '</h3>';
     }
-    this.setState({starttimeLong: '', endtimeLong: '', event: '', organizer: '', starttime: '', endtime: '', eventlocation: '', eventlanguage: '', address: '', link: '', description: '', email: ''}) // <= here
+    this.setState({starttimeLong: '', endtimeLong: '', event: '', organizer: '', starttime: '', endtime: '', eventlocation: '', eventlanguage: '', address: '', link: '', description: '', email: ''})
+    document.getElementById('onlineevent').checked = false
   };
 
   handleFields = e => {
     this.setState({
       [e.target.name]: e.target.value
     });
+  };
+  handleOnline = e => {
+    if (document.getElementById('onlineevent').checked == true) {
+      this.setState({
+        eventlocation: 'Online',
+        address: ''
+      });
+      document.getElementById('eventlocation').readOnly = true
+      document.getElementById('address').readOnly = true
+    } else {
+      this.setState({
+        eventlocation: ''
+      });
+      document.getElementById('eventlocation').readOnly = false
+      document.getElementById('address').readOnly = false
+    }
+    
   };
   handleStartTime = date => {
     this.setState({
@@ -115,12 +133,13 @@ class AddEventForm extends Component {
                     <input type="hidden" pattern="[0-9]*" name="endtime" id="endtime" required onChange={this.handleFields} value={this.state.endtime} />
                 </div>
                 <div className="field half first">
-                    <label htmlFor="eventlocation">Location (Online or city and country)</label>
-                    <input type="text" name="eventlocation" id="eventlocation" required onChange={this.handleFields} value={this.state.eventlocation} />
+                    <label htmlFor="onlineevent">Online event</label>
+                    <input type="checkbox" id="onlineevent" name="onlineevent" onChange={this.handleOnline} />
+                    <label htmlFor="onlineevent">This is an online event</label>
                 </div>
                 <div className="field half">
-                    <label htmlFor="eventlanguage">Language</label>
-                    <input type="text" name="eventlanguage" id="eventlanguage" required onChange={this.handleFields} value={this.state.eventlanguage} />
+                    <label htmlFor="eventlocation">Location (Online or city, country)</label>
+                    <input type="text" name="eventlocation" id="eventlocation" required onChange={this.handleFields} value={this.state.eventlocation} />
                 </div>
                 <div className="field full">
                     <label htmlFor="address">Venue and address (if not online)</label>
@@ -134,7 +153,11 @@ class AddEventForm extends Component {
                     <label htmlFor="description">Description</label>
                     <textarea name="description" id="description" rows="2" maxlength="200" required onChange={this.handleFields} value={this.state.description} ></textarea>
                 </div>
-                <div className="field full first">
+                <div className="field half first">
+                    <label htmlFor="eventlanguage">Language</label>
+                    <input type="text" name="eventlanguage" id="eventlanguage" required onChange={this.handleFields} value={this.state.eventlanguage} />
+                </div>
+                <div className="field half">
                     <label htmlFor="email">Submitters email</label>
                     <input type="email" name="email" id="email" required onChange={this.handleFields} value={this.state.email} />
                 </div>
