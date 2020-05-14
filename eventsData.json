@@ -2,26 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "UK GCS Connect: Serverless",
-            "eventlocation": "Online",
-            "starttime": 1589454000,
-            "endtime": 1589459400,
-            "link": "https://us02web.zoom.us/webinar/register/3415887661408/WN_LFilqlKWSPaUI5qWi15PJw",
-            "description": "Marc Fielding will be covering reasons why you should go serverless, mistakes in migration, cloud managed services, and more. Edgar Rivera will introduce Cloud Run & Knative using demos.",
-            "organizer": "GCS Connect",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Good Morning Serverless - Ben Kehoe",
-            "eventlocation": "Online",
-            "starttime": 1589459400,
-            "endtime": 1589461200,
-            "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Tom McLaughlin interviews famous vacuum cleaner salesman",
-            "organizer": "ServerlessOps",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Serverless in Place: Best Serverless Fails",
             "eventlocation": "Online",
             "starttime": 1589493600,
@@ -169,6 +149,16 @@
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
             "description": "Tom McLaughlin interviews Neosperience CTO Luca Bianchi",
             "organizer": "ServerlessOps",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Nordic Serverless - Alexa, who's ringing my doorbell?",
+            "eventlocation": "Online",
+            "starttime": 1590595200,
+            "endtime": 1590602400,
+            "link": "https://www.meetup.com/Stockholm-Serverless/events/270644108/",
+            "description": "Join us for a meetup where Goran Vuksic and Gunnar Grosch will build a serverless Alexa skill with facial recognition using an IoT device and AWS services.",
+            "organizer": "Nordic Serverless",
             "eventlanguage": "English"
         },
         {
