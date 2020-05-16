@@ -2,26 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "FaaS - Serverless (AWS Lambda) Problemleri ve Çözümleri",
-            "eventlocation": "Online",
-            "starttime": 1589572800,
-            "endtime": 1589623200,
-            "link": "https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-7-faas-serverless-aws-lambda-problemleri-ve-cozumleri-5888dd48",
-            "description": "In this talk, we will talk about specific problems around FaaS and possible solutions to those. The talk will be in Turkish. ",
-            "organizer": "Cloud and Serverless Turkey",
-            "eventlanguage": "Turkish"
-        },
-        {
-            "event": "Patterns and Practices for Building Resilient AWS Serverless Applications",
-            "eventlocation": "Online",
-            "starttime": 1589635800,
-            "endtime": 1589643000,
-            "link": "https://www.meetup.com/AmazonAWS-Delhi/events/270236307/",
-            "description": "In this talk, we will look at a number of practices and architectural patterns that can help you build more resilient serverless applications.",
-            "organizer": "AWS User Group Delhi",
-            "eventlanguage": "English"
-        },
-        {
             "event": "What's New in Serverless - Nordics",
             "eventlocation": "Online",
             "starttime": 1589889600,
