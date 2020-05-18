@@ -117,7 +117,7 @@
             "starttime": 1590508800,
             "endtime": 1590510600,
             "link": "https://www.youtube.com/watch?v=Z8VaQI_6UJQ",
-            "description": "Marek Kuczynski and Uri Segev will introduce event-driven architecture before doing a deep dive on serverless security. Backup link: https://app.chime.aws/meetings/1004998757",
+            "description": "Marek Kuczynski and Uri Segev will introduce event-driven architecture before doing a deep dive on serverless security.",
             "organizer": "AWS User Group Novi Sad",
             "eventlanguage": "English"
         },
