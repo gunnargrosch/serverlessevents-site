@@ -2,46 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "What's New in Serverless - Nordics",
-            "eventlocation": "Online",
-            "starttime": 1589889600,
-            "endtime": 1589893200,
-            "link": "https://pages.awscloud.com/new-in-serverless-20200519.html",
-            "description": "Join AWS for an update on AWS Serverless releases in the last six months and learn how they can empower customers to build cloud native modern applications that drive business agility.",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Good Morning Serverless - Ben Bridts",
-            "eventlocation": "Online",
-            "starttime": 1589891400,
-            "endtime": 1589893200,
-            "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Tom McLaughlin interviews Ben Bridts",
-            "organizer": "ServerlessOps",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Introduction to Serverless: do you need a PhD to build a cloud app?",
-            "eventlocation": "Online",
-            "starttime": 1589904000,
-            "endtime": 1589905800,
-            "link": "https://bit.ly/nimbella-intro-to-serverless",
-            "description": "Learn the best ways to get started with your serverless development journey and why serverless computing is changing the cloud landscape.",
-            "organizer": "Nimbella",
-            "eventlanguage": "English "
-        },
-        {
-            "event": "How Vonage Reduces Troubleshooting Time and Deploys Features 2x Faster with Epsagon",
-            "eventlocation": "Online",
-            "starttime": 1589907600,
-            "endtime": 1589911200,
-            "link": "https://pages.awscloud.com/GLOBAL-event-OE-Epsagon-May-Webinar-2020-reg-event.html",
-            "description": "As microservices-based applications become more and more complex, the lack of end-to-end visibility can make it difficult to discover and solve issues quickly.",
-            "organizer": "Amazon Web Services (AWS) and Epsagon",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Designing for DynamoDB Success",
             "eventlocation": "Online",
             "starttime": 1589990400,
@@ -69,6 +29,16 @@
             "link": "https://www.meetup.com/AWS-PTA/events/270483233/",
             "description": "In this session, an AWS Solutions Architect will walk you through designing workflows for serverless and instance-based apps, and will show you how to use Step Functions.",
             "organizer": "Pretoria AWS Meetup",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Virtual Serverless Hackathon #46",
+            "eventlocation": "Online",
+            "starttime": 1590023700,
+            "endtime": 1590037200,
+            "link": "https://www.meetup.com/lambdasharp/events/270175140",
+            "description": "The λ# Hackathon is part workshop, part challenge, part competition, and always a rush! This is a hands-on event suitable for advanced developers, passionate beginners, and curious minds!",
+            "organizer": "All Things Serverless and AWS Lambda",
             "eventlanguage": "English"
         },
         {
@@ -189,6 +159,16 @@
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
             "description": "Tom McLaughlin interviews Stackery developer Danielle Heberling",
             "organizer": "ServerlessOps",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "State of Serverless in 2020",
+            "eventlocation": "Online",
+            "starttime": 1591722000,
+            "endtime": 1591725600,
+            "link": "https://www.thundra.io/webinars/the-state-of-serverless-in-2020",
+            "description": "It has been more than five years since serverless became part of our application development life cycle, following the announcement of AWS Lambda.  Let's talk about how it looks like now. ",
+            "organizer": "Thundra",
             "eventlanguage": "English"
         },
         {
