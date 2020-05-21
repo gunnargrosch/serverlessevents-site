@@ -2,76 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Designing for DynamoDB Success",
-            "eventlocation": "Online",
-            "starttime": 1589990400,
-            "endtime": 1589994000,
-            "link": "https://register.gotowebinar.com/register/8833212941224882443",
-            "description": "In this talk, AWS Data Hero and author of the DynamoDB Book, Alex DeBrie, breaks down what makes DynamoDB's abstractions uniquely powerful for your cloud-native applications.",
-            "organizer": "A Cloud Guru",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "ServerlessDays Belgium - virtual Meetup",
-            "eventlocation": "Online",
-            "starttime": 1589994000,
-            "endtime": 1589999400,
-            "link": "https://www.meetup.com/nl-NL/ServerlessDays-Belgium/events/270145738/",
-            "description": "Join to hear Yan Cui speak about building a social media site with Lambda, DynamoDB and AppSync and receive pro-tips for implementing DynamoDB in serverless applications from Alex Debrie.",
-            "organizer": "ServerlessDays Belgium",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS Step Functions: Workflows for serverless apps and more",
-            "eventlocation": "Online",
-            "starttime": 1589994000,
-            "endtime": 1589997600,
-            "link": "https://www.meetup.com/AWS-PTA/events/270483233/",
-            "description": "In this session, an AWS Solutions Architect will walk you through designing workflows for serverless and instance-based apps, and will show you how to use Step Functions.",
-            "organizer": "Pretoria AWS Meetup",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Virtual Serverless Hackathon #46",
-            "eventlocation": "Online",
-            "starttime": 1590023700,
-            "endtime": 1590037200,
-            "link": "https://www.meetup.com/lambdasharp/events/270175140",
-            "description": "The λ# Hackathon is part workshop, part challenge, part competition, and always a rush! This is a hands-on event suitable for advanced developers, passionate beginners, and curious minds!",
-            "organizer": "All Things Serverless and AWS Lambda",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Good Morning Serverless - Ant Stanley",
-            "eventlocation": "Online",
-            "starttime": 1590064200,
-            "endtime": 1590066000,
-            "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Tom McLaughlin interviews AWS Serverless Hero Ant Stanley",
-            "organizer": "ServerlessOps",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS Serverless-First Function - Serverless for your Organization",
-            "eventlocation": "Online",
-            "starttime": 1590073200,
-            "endtime": 1590091200,
-            "link": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
-            "description": "Learn real-world tactics for transforming your organization to get the most out of the cloud.",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Webinar: How to Architect Cost-Efficient Serverless Infrastructures",
-            "eventlocation": "Online",
-            "starttime": 1590080400,
-            "endtime": 1590082200,
-            "link": "https://us02web.zoom.us/webinar/register/WN_eqDpgutkTbqwoM91sJmUxQ",
-            "description": "Spring has sprung, and what better time to spring clean your AWS cloud bill of the unnecessary spend. Let's start from architecting more cost-efficient infrastructures. ",
-            "organizer": "Dashbird",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Good Morning Serverless - Luca Bianchi",
             "eventlocation": "Online",
             "starttime": 1590496200,
@@ -162,6 +92,26 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Build a Serverless Web App for a Theme Park - Launching the Serverless Web Application",
+            "eventlocation": "Online",
+            "starttime": 1591632000,
+            "endtime": 1591635600,
+            "link": "https://pages.awscloud.com/AWS-Virtual-Workshop_2020_VW_s05-SRV.html",
+            "description": "Learn how to build a complete serverless web application for a popular theme park called Innovator Island. In this series, you'll get hands-on experience building a scalable serverless application.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Build a Serverless Web App for a Theme Park - Real-Time Messaging with Serverless Web Applications",
+            "eventlocation": "Online",
+            "starttime": 1591718400,
+            "endtime": 1591722000,
+            "link": "https://pages.awscloud.com/AWS-Virtual-Workshop_2020_VW_s05-SRV.html",
+            "description": "Learn how to build a complete serverless web application for a popular theme park called Innovator Island. In this series, you'll get hands-on experience building a scalable serverless application.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
             "event": "State of Serverless in 2020",
             "eventlocation": "Online",
             "starttime": 1591722000,
@@ -169,6 +119,36 @@
             "link": "https://www.thundra.io/webinars/the-state-of-serverless-in-2020",
             "description": "It has been more than five years since serverless became part of our application development life cycle, following the announcement of AWS Lambda.  Let's talk about how it looks like now. ",
             "organizer": "Thundra",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Build a Serverless Web App for a Theme Park - On-Ride Serverless Photo Processing",
+            "eventlocation": "Online",
+            "starttime": 1591804800,
+            "endtime": 1591808400,
+            "link": "https://pages.awscloud.com/AWS-Virtual-Workshop_2020_VW_s05-SRV.html",
+            "description": "Learn how to build a complete serverless web application for a popular theme park called Innovator Island. In this series, you'll get hands-on experience building a scalable serverless application.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Build a Serverless Web App for a Theme Park - Park Statistics and Business Insights",
+            "eventlocation": "Online",
+            "starttime": 1591891200,
+            "endtime": 1591894800,
+            "link": "https://pages.awscloud.com/AWS-Virtual-Workshop_2020_VW_s05-SRV.html",
+            "description": "Learn how to build a complete serverless web application for a popular theme park called Innovator Island. In this series, you'll get hands-on experience building a scalable serverless application.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Build a Serverless Web App for a Theme Park - Developing an Event-Driven Architecture",
+            "eventlocation": "Online",
+            "starttime": 1591977600,
+            "endtime": 1591981200,
+            "link": "https://pages.awscloud.com/AWS-Virtual-Workshop_2020_VW_s05-SRV.html",
+            "description": "Learn how to build a complete serverless web application for a popular theme park called Innovator Island. In this series, you'll get hands-on experience building a scalable serverless application.",
+            "organizer": "Amazon Web Services (AWS)",
             "eventlanguage": "English"
         },
         {
