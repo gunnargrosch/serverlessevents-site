@@ -152,6 +152,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Serverless Office Hours on Twitch",
+            "eventlocation": "Online",
+            "starttime": 1591272000,
+            "endtime": 1591275600,
+            "link": "https://aws-benelux-tech-office-hours.splashthat.com/",
+            "description": "AWS is hosting a Tech Office hours about serverless. In this edition, Sohan Maheshwar and Marek Kuczynski from AWS will answer your questions about serverless.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Good Morning Serverless - Danielle Heberling",
             "eventlocation": "Online",
             "starttime": 1591273800,
