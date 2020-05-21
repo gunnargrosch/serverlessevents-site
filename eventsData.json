@@ -82,6 +82,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "ServerlessDays Italy",
+            "eventlocation": "Online",
+            "starttime": 1591256700,
+            "endtime": 1591282800,
+            "link": "https://italy.serverlessdays.io/",
+            "description": "ServerlessDays Italy è una conferenza sulle tecnologie serverless dedicata agli sviluppatori.",
+            "organizer": "ServerlessDays Italy",
+            "eventlanguage": "Italian"
+        },
+        {
             "event": "Good Morning Serverless - Danielle Heberling",
             "eventlocation": "Online",
             "starttime": 1591273800,
