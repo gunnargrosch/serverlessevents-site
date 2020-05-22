@@ -62,6 +62,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Modernizing applications with serverless: Scale higher, ship faster, and reduce TCO up to 90%",
+            "eventlocation": "Online",
+            "starttime": 1590681600,
+            "endtime": 1590685200,
+            "link": "https://register.gotowebinar.com/register/994713183352026638",
+            "description": "Join us for an AWS webinar, with partner Stackery, to learn why companies are choosing to modernize their Windows-based applications.",
+            "organizer": "Amazon Web Services (AWS) and Stackery",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Dublin GCS Connect: Serverless",
             "eventlocation": "Online",
             "starttime": 1590699600,
@@ -132,6 +142,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "AWS Virtual Amplify Days",
+            "eventlocation": "Online",
+            "starttime": 1591804800,
+            "endtime": 1591828200,
+            "link": "https://awsamplifydays.splashthat.com/",
+            "description": "Register for our two-day exploration of full stack cloud development. On Day 1, we'll hear stories from Amplify users who will cover key features and how they integrated them into their applications.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Build a Serverless Web App for a Theme Park - On-Ride Serverless Photo Processing",
             "eventlocation": "Online",
             "starttime": 1591804800,
@@ -148,6 +168,16 @@
             "endtime": 1591894800,
             "link": "https://pages.awscloud.com/AWS-Virtual-Workshop_2020_VW_s05-SRV.html",
             "description": "Learn how to build a complete serverless web application for a popular theme park called Innovator Island. In this series, you'll get hands-on experience building a scalable serverless application.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "AWS Virtual Amplify Days",
+            "eventlocation": "Online",
+            "starttime": 1591891200,
+            "endtime": 1591914600,
+            "link": "https://awsamplifydays.splashthat.com/",
+            "description": "Register for our two-day exploration of full stack cloud development. On Day 2, we'll continue with our keynote customer story from Orange Theory Fitness which is focused on video.",
             "organizer": "Amazon Web Services (AWS)",
             "eventlanguage": "English"
         },
