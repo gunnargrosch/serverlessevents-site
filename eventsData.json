@@ -92,6 +92,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Sessions with SAM",
+            "eventlocation": "Online",
+            "starttime": 1591290000,
+            "endtime": 1591293600,
+            "link": "https://twitch.tv/aws",
+            "description": "Eric Johnson talk about SAM support for StepFunctions. Rob Sutter will be joining!",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Build a Serverless Web App for a Theme Park - Launching the Serverless Web Application",
             "eventlocation": "Online",
             "starttime": 1591632000,
