@@ -172,6 +172,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "AWS Serverless Community Day Australia & New Zealand",
+            "eventlocation": "Online",
+            "starttime": 1593129600,
+            "endtime": 1593151200,
+            "link": "https://aws-serverless-community-day.splashthat.com/",
+            "description": "AWS Serverless Community Day Australia & New Zealand is a community led event focused on sharing experiences, building applications and using serverless architectures. ",
+            "organizer": "AWS Community Australia & New Zealand",
+            "eventlanguage": "English"
+        },
+        {
             "event": "ServerlessDays Hamburg",
             "eventlocation": "Hamburg, Germany",
             "starttime": 1601535600,
