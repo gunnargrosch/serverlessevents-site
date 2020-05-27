@@ -2,146 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Azure Serverless Saturday",
-            "eventlocation": "Online",
-            "starttime": 1590208200,
-            "endtime": 1590215400,
-            "link": "https://www.meetup.com/TechMeet360-A-BizTalk360-Community-Initiative/events/270439914",
-            "description": "This event will introduce you to the Azure Serverless components such as Azure Functions, Azure Storage, Azure Cosmos DB, Event Grid, Service Bus, Logic Apps, API Management, and more concepts.",
-            "organizer": "TechMeet360 - A BizTalk360 Community Initiative",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Patterns and Practices for Building Resilient AWS Serverless Applications",
-            "eventlocation": "Online",
-            "starttime": 1590240600,
-            "endtime": 1590247800,
-            "link": "https://www.meetup.com/AmazonAWS-Delhi/events/270778744",
-            "description": "Yan Cui will look at a number of practices and architectural patterns that can help you build more resilient serverless applications. Such as multi-region, active-active, employing DLQs.",
-            "organizer": "AWS User Group Delhi",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "From Development to Production: Many Uses of Serverless Observability",
-            "eventlocation": "Online",
-            "starttime": 1590240600,
-            "endtime": 1590247800,
-            "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/270642467",
-            "description": "Let's discuss about how to bring observability in the serverless applications! I am glad to be inviting Emrah Samdan from Thundra.io who'll be giving insights on Serverless monitoring.",
-            "organizer": "Serverless Ahmedabad",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Meet The Expert Online Series: Cloud",
-            "eventlocation": "Online",
-            "starttime": 1590267600,
-            "endtime": 1590271200,
-            "link": "https://www.meetup.com/GDG-Settat/events/270719309",
-            "description": "In this talk Guillaume Blaquiere will be comparing infrastructure and managed / serverless solutions from the practice side and about some wrong idea that new developers have about the serverless.",
-            "organizer": "GDG Settat",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless azure API functions using container services",
-            "eventlocation": "Online",
-            "starttime": 1590332400,
-            "endtime": 1590337800,
-            "link": "https://www.meetup.com/Serverless-Microsoft-Azure/events/270768308",
-            "description": "Building a serverless azure function with .net core.",
-            "organizer": "Serverless Microsoft Azure",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS Serverless: Casi d'uso reali",
-            "eventlocation": "Online",
-            "starttime": 1590424200,
-            "endtime": 1590431400,
-            "link": "https://www.meetup.com/AWS-User-Group-Bari/events/270730293/",
-            "description": "Il 25 Maggio 2020, dalle ore 18:30 alle ore 20:30, AWS User Group Bari e Antonio Giordano - AWS Certified Solutions Architect, vi invitano all'evento \"AWS Serverless: Casi d'uso reali\".",
-            "organizer": "AWS User Group Bari",
-            "eventlanguage": "Italian"
-        },
-        {
-            "event": "Networking for Azure Functions – it’s for Serverless devs too!",
-            "eventlocation": "Online",
-            "starttime": 1590451200,
-            "endtime": 1590454800,
-            "link": "https://www.meetup.com/Auckland-Connected-Systems-User-Group/events/270579946",
-            "description": "Thiago Almeida, founder of ACSUG, ex-MVP and Microsoft Architect and Michael Collier, Principal Software Development Engineer, will discuss approaches for private site access.",
-            "organizer": "Auckland Connected Systems User Group",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Good Morning Serverless - Luca Bianchi",
-            "eventlocation": "Online",
-            "starttime": 1590496200,
-            "endtime": 1590498000,
-            "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Tom McLaughlin interviews Neosperience CTO Luca Bianchi",
-            "organizer": "ServerlessOps",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Do more with less code in a serverless world",
-            "eventlocation": "Online",
-            "starttime": 1590508800,
-            "endtime": 1590512400,
-            "link": "https://www.meetup.com/Geneva-Serverless-Meetup/events/270579906/",
-            "description": "There are many software engineering practices that can and should be applied to Lambda functions: Single Responsibility Principle, You Ain't Gonna Need It, Keep It Simply Stupid.",
-            "organizer": "Geneva Serverless Meetup",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Why Serverless still needs protection",
-            "eventlocation": "Online",
-            "starttime": 1590508800,
-            "endtime": 1590514200,
-            "link": "https://www.meetup.com/Dortmund-AWS-User-Group/events/270402817/",
-            "description": "In this presentation, Ron Harnik will discuss the most critical challenges related to securing serverless applications - from development to deployment.",
-            "organizer": "AWS User Group Dortmund",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Event Driven Architectures and Security",
-            "eventlocation": "Online",
-            "starttime": 1590508800,
-            "endtime": 1590510600,
-            "link": "https://www.youtube.com/watch?v=Z8VaQI_6UJQ",
-            "description": "Marek Kuczynski and Uri Segev will introduce event-driven architecture before doing a deep dive on serverless security.",
-            "organizer": "AWS User Group Novi Sad",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS Summer Camp - Serverless - End to End Observability",
-            "eventlocation": "Online",
-            "starttime": 1590512400,
-            "endtime": 1590517800,
-            "link": "https://www.meetup.com/AWS-Ireland-Usergroup/events/270760562/",
-            "description": "The AWS Summer Camp continues online on May 26th @ 6pm GMT with a great Serverless talk by Danilo Poccia, AWS Chief Evangelist (EMEA).",
-            "organizer": "AWS User Group Dublin",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Nordic Serverless - Alexa, who's ringing my doorbell?",
-            "eventlocation": "Online",
-            "starttime": 1590595200,
-            "endtime": 1590602400,
-            "link": "https://www.meetup.com/Stockholm-Serverless/events/270644108/",
-            "description": "Join us for a meetup where Goran Vuksic and Gunnar Grosch will build a serverless Alexa skill with facial recognition using an IoT device and AWS services.",
-            "organizer": "Nordic Serverless",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS User Group UK Meetup #42",
-            "eventlocation": "Online",
-            "starttime": 1590602400,
-            "endtime": 1590607800,
-            "link": "https://www.meetup.com/AWSUGUK/events/267802522/",
-            "description": "Serverless Deployments with Canary (Nicole Yip from Lego) Servers are dead! How architecture in the 2020s is being revolutionised by serverless (Matthew Clark)",
-            "organizer": "AWS User Group UK",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Good Morning Serverless - Paul Chin Jr.",
             "eventlocation": "Online",
             "starttime": 1590669000,
@@ -192,6 +52,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Building serverless analytics pipelines",
+            "eventlocation": "Online",
+            "starttime": 1591254000,
+            "endtime": 1591257600,
+            "link": "https://pages.awscloud.com/EMEA-event-OE-serverless-analytics-nordics-2020-reg-event.html",
+            "description": "Join Marcia Villalba in this webinar, when she shows how to build a serverless analytics pipeline from scratch, without any need to know about complex data science tools.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
             "event": "ServerlessDays Italy",
             "eventlocation": "Online",
             "starttime": 1591256700,
@@ -200,6 +70,16 @@
             "description": "ServerlessDays Italy è una conferenza sulle tecnologie serverless dedicata agli sviluppatori.",
             "organizer": "ServerlessDays Italy",
             "eventlanguage": "Italian"
+        },
+        {
+            "event": "Serverless Office Hours on Twitch",
+            "eventlocation": "Online",
+            "starttime": 1591272000,
+            "endtime": 1591275600,
+            "link": "https://aws-benelux-tech-office-hours.splashthat.com/",
+            "description": "AWS is hosting a Tech Office hours about serverless. In this edition, Sohan Maheshwar and Marek Kuczynski from AWS will answer your questions about serverless.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
         },
         {
             "event": "Good Morning Serverless - Danielle Heberling",
