@@ -2,46 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Good Morning Serverless - Paul Chin Jr.",
-            "eventlocation": "Online",
-            "starttime": 1590669000,
-            "endtime": 1590670800,
-            "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Tom McLaughlin interviews DevRel at http://begin.com Paul Chin Jr.",
-            "organizer": "ServerlessOps",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS Serverless-First Function - Serverless for your Application",
-            "eventlocation": "Online",
-            "starttime": 1590678000,
-            "endtime": 1590696000,
-            "link": "https://pages.awscloud.com/GLOBAL-event-OE-serverless-first-function-2020-reg-event.html",
-            "description": "Consider this event your complete builder’s guide to serverless applications.",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Modernizing applications with serverless: Scale higher, ship faster, and reduce TCO up to 90%",
-            "eventlocation": "Online",
-            "starttime": 1590681600,
-            "endtime": 1590685200,
-            "link": "https://register.gotowebinar.com/register/994713183352026638",
-            "description": "Join us for an AWS webinar, with partner Stackery, to learn why companies are choosing to modernize their Windows-based applications.",
-            "organizer": "Amazon Web Services (AWS) and Stackery",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Dublin GCS Connect: Serverless",
-            "eventlocation": "Online",
-            "starttime": 1590699600,
-            "endtime": 1590701400,
-            "link": "https://us02web.zoom.us/webinar/register/9715895385920/WN__gBLTiqLQPiDRUkzdWWXZg",
-            "description": "An overview of how serverless fits into the current enterprise technology landscape  & the cloud migration of a legacy eCommerce application. Speakers from IBM & The LEGO Group.",
-            "organizer": "GCS Connect",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Good Morning Serverless - Rob Sutter",
             "eventlocation": "Online",
             "starttime": 1591101000,
@@ -142,6 +102,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Nordic Serverless - Serverless Developer Experience",
+            "eventlocation": "Online",
+            "starttime": 1591804800,
+            "endtime": 1591812000,
+            "link": "https://www.meetup.com/Stockholm-Serverless/events/270963666/",
+            "description": "Welcome to a Nordic Serverless meetup on serverless developer experience with Chase Douglas of Stackery, Austen Collins of Serverless Inc and host Gunnar Grosch.",
+            "organizer": "Nordic Serverless",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Build a Serverless Web App for a Theme Park - On-Ride Serverless Photo Processing",
             "eventlocation": "Online",
             "starttime": 1591804800,
@@ -149,6 +119,16 @@
             "link": "https://pages.awscloud.com/AWS-Virtual-Workshop_2020_VW_s05-SRV.html",
             "description": "Learn how to build a complete serverless web application for a popular theme park called Innovator Island. In this series, you'll get hands-on experience building a scalable serverless application.",
             "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless Surprise with Gunnar Grosch",
+            "eventlocation": "Online",
+            "starttime": 1591880400,
+            "endtime": 1591887600,
+            "link": "https://www.meetup.com/puneawsug/events/270970976/",
+            "description": "Gunnar has some *Serverless* surprise for us.",
+            "organizer": "Pune AWS and Cloud User Group",
             "eventlanguage": "English"
         },
         {
