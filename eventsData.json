@@ -2,6 +2,26 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
+            "event": "Reading Slack Messages with Serverless Functions",
+            "eventlocation": "Online",
+            "starttime": 1591009200,
+            "endtime": 1591016400,
+            "link": "https://www.meetup.com/ZA-IBMCloud/events/270860016/",
+            "description": "For many reasons, your development team may want to investigate messages from Slack, alter them in a proper way, or take some actions according to some specific input.",
+            "organizer": "IBM Cloud - South Africa",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless at the End of the Universe",
+            "eventlocation": "Online",
+            "starttime": 1591023600,
+            "endtime": 1591027200,
+            "link": "https://www.meetup.com/Microsoft-Reactor-Redmond/events/270390367/",
+            "description": "Serverless functions are extremely good at what they do and provide planet-scale computing power. The one thing where serverless functions fall short is when it comes to state management.",
+            "organizer": "Microsoft Reactor Redmond",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Good Morning Serverless - Rob Sutter",
             "eventlocation": "Online",
             "starttime": 1591101000,
@@ -9,6 +29,76 @@
             "link": "https://www.periscope.tv/ServerlessOpsIO/",
             "description": "Tom McLaughlin interviews AWS Developer Advocate Rob Sutter",
             "organizer": "ServerlessOps",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "A Universal Hostless Substrate: Full Stack Web Apps Without a Backend, and More!",
+            "eventlocation": "Online",
+            "starttime": 1591117200,
+            "endtime": 1591124400,
+            "link": "https://www.meetup.com/Berlin-Functional-Programming-Group/events/270447558/",
+            "description": "Come learn about what is being built today for the next wave of computing, how we evolve past the serverless paradigm, and how it can make life simpler for developers and end users!",
+            "organizer": "Berlin Functional Programming Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Using Containers in Serverless Architectures",
+            "eventlocation": "Online",
+            "starttime": 1591137000,
+            "endtime": 1591144200,
+            "link": "https://www.meetup.com/stl-serverless/events/270891551/",
+            "description": "Our June 2nd meeting will be all about Containers for Serverless.",
+            "organizer": "St. Louis Serverless",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Workshop: Serverless Web Applications and Introduction to Amplify",
+            "eventlocation": "Online",
+            "starttime": 1591174800,
+            "endtime": 1591185600,
+            "link": "https://www.meetup.com/AWS-Startup-Garage/events/270788221/",
+            "description": "In this workshop you’ll deploy a simple web application. The application will present users with an HTML-based user interface and will interface on the back-end with a RESTful web service.",
+            "organizer": "AWS Startup Garage - UK & Ireland",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Workshop: Serverless Web Applications and Introduction to Amplify",
+            "eventlocation": "Online",
+            "starttime": 1591174800,
+            "endtime": 1591185600,
+            "link": "https://www.meetup.com/AWS-Startup-Garage/events/270788221/",
+            "description": "In this workshop you’ll deploy a simple web application. The application will present users with an HTML-based user interface and will interface on the back-end with a RESTful web service.",
+            "organizer": "AWS Startup Garage - UK & Ireland",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "ServerlessDays Paris - Remote Session #2",
+            "eventlocation": "Online",
+            "starttime": 1591200000,
+            "endtime": 1591205400,
+            "link": "https://www.meetup.com/Paris-Serverless-Architecture-Meetup/events/270899988/",
+            "description": "Bonjour à tous, on se retrouve pour une nouvelle session remote co-animée avec Serverless Days Paris !",
+            "organizer": "Paris Serverless Architecture Meetup",
+            "eventlanguage": "French"
+        },
+        {
+            "event": "ServerlessDays Amsterdam ONLINE meetup",
+            "eventlocation": "Online",
+            "starttime": 1591200900,
+            "endtime": 1591211700,
+            "link": "https://www.meetup.com/ServerlessDays-Amsterdam/events/270740745/",
+            "description": "Join us for our ONLINE edition for the ServerlessDays Amsterdam meetup! We'll do a live stream which consists of sessions and a live Q&A session with the speakers.",
+            "organizer": "ServerlessDays Amsterdam",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Building loosely coupled serverless solutions with Azure Event Grid",
+            "eventlocation": "Online",
+            "starttime": 1591236000,
+            "endtime": 1591239600,
+            "link": "https://www.meetup.com/Microsoft-Reactor-Bangalore/events/270857730/",
+            "description": "Even in the new world of Serverless we continue to see traditional software design challenges such as tight coupling between components. We will look at how we can build loosely coupled applications.",
+            "organizer": "Microsoft Reactor Bangalore",
             "eventlanguage": "English"
         },
         {
@@ -32,6 +122,16 @@
             "eventlanguage": "Italian"
         },
         {
+            "event": "Azure's Cloud Platform: Building Serverless Applications",
+            "eventlocation": "Online",
+            "starttime": 1591257600,
+            "endtime": 1591261200,
+            "link": "https://www.meetup.com/Microsoft-Reactor-London/events/270879758/",
+            "description": "Azure provides us with the perfect toolkit of serverless components to build powerful cloud solutions. We have Azure Functions, Logic Apps, API Management and Service Bus.",
+            "organizer": "Microsoft Reactor London",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Serverless Office Hours on Twitch",
             "eventlocation": "Online",
             "starttime": 1591272000,
@@ -40,6 +140,26 @@
             "description": "AWS is hosting a Tech Office hours about serverless. In this edition, Sohan Maheshwar and Marek Kuczynski from AWS will answer your questions about serverless.",
             "organizer": "Amazon Web Services (AWS)",
             "eventlanguage": "English"
+        },
+        {
+            "event": "AWS hands-on: serverless API development with AWS Chalice (online workshop)",
+            "eventlocation": "Online",
+            "starttime": 1591272000,
+            "endtime": 1591277400,
+            "link": "https://www.meetup.com/AWS-User-Group-Latvia/events/270924324/",
+            "description": "Online hands-on workshop about building an API in an AWS environment and using AWS Chalice framework to do that in a serverless manner.",
+            "organizer": "AWS User Group Latvia",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Bulut Üzerinde Serverless ve Yapay Zeka ile Resimleri Sınıflandırın!",
+            "eventlocation": "Online",
+            "starttime": 1591272000,
+            "endtime": 1591279200,
+            "link": "https://www.meetup.com/IBMDeveloperTR/events/270785147/",
+            "description": "Bulut teknolojisinden önce, olay-güdümlü (event-driven) görüntü tanıma altyapısı kurmak, yapılandırmak ve gözlemlemek, oldukça zorlayıcı ve zaman alıcıydı.",
+            "organizer": "IBM Developer Turkey",
+            "eventlanguage": "Turkish"
         },
         {
             "event": "Good Morning Serverless - Danielle Heberling",
@@ -59,6 +179,36 @@
             "link": "https://twitch.tv/aws",
             "description": "Eric Johnson talk about SAM support for StepFunctions. Rob Sutter will be joining!",
             "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "How to Build a Massive Scale Serverless Machine Learning Pipeline for < $7 a day",
+            "eventlocation": "Online",
+            "starttime": 1591306200,
+            "endtime": 1591313400,
+            "link": "https://www.meetup.com/The-Boston-Amazon-Web-Services-Meetup-Group/events/270336693/",
+            "description": "CloudZero will be giving a talk two talks about Serverless and Cost.",
+            "organizer": "The Boston Amazon Web Services Meetup Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Getting Started with Microservices and Serverless",
+            "eventlocation": "Online",
+            "starttime": 1591309800,
+            "endtime": 1591315200,
+            "link": "https://www.meetup.com/meetup-group-YbHEIIJe/events/270890489/",
+            "description": "Do you wonder how computers can be “serverless”? Does “microservices” seem like just another buzzword? These two technologies are actually changing software design and operations.",
+            "organizer": "NOVA Cloud And Software Engineering Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Build a serverless Slack application",
+            "eventlocation": "Online",
+            "starttime": 1591318800,
+            "endtime": 1591322400,
+            "link": "https://www.meetup.com/awsgurus/events/270833993/",
+            "description": "This presentation will show you how to build serverless Slack apps using Nimbella Commander. We’ll build an app to manage resources in your AWS account.",
+            "organizer": "Amazon Web Services - Bay Area",
             "eventlanguage": "English"
         },
         {
