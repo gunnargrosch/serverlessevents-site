@@ -330,6 +330,16 @@
             "description": "ServerlessDays Hamburg is a 2-day conference about Serverless technologies with one day of workshops and one day with talks.",
             "organizer": "Superluminar",
             "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless Architecture Conference",
+            "eventlocation": "Berlin, Germany",
+            "starttime": 1602482400,
+            "endtime": 1602687600,
+            "link": "https://serverless-architecture.io/berlin/",
+            "description": "We bring together the world’s leading software architects and cloud experts to share their ideas and knowledge.",
+            "organizer": "S&S Media",
+            "eventlanguage": "English"
         }
     ]
 }
