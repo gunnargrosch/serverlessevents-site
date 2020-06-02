@@ -2,46 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Reading Slack Messages with Serverless Functions",
-            "eventlocation": "Online",
-            "starttime": 1591009200,
-            "endtime": 1591016400,
-            "link": "https://www.meetup.com/ZA-IBMCloud/events/270860016/",
-            "description": "For many reasons, your development team may want to investigate messages from Slack, alter them in a proper way, or take some actions according to some specific input.",
-            "organizer": "IBM Cloud - South Africa",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless at the End of the Universe",
-            "eventlocation": "Online",
-            "starttime": 1591023600,
-            "endtime": 1591027200,
-            "link": "https://www.meetup.com/Microsoft-Reactor-Redmond/events/270390367/",
-            "description": "Serverless functions are extremely good at what they do and provide planet-scale computing power. The one thing where serverless functions fall short is when it comes to state management.",
-            "organizer": "Microsoft Reactor Redmond",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Good Morning Serverless - Rob Sutter",
-            "eventlocation": "Online",
-            "starttime": 1591101000,
-            "endtime": 1591102800,
-            "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Tom McLaughlin interviews AWS Developer Advocate Rob Sutter",
-            "organizer": "ServerlessOps",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "A Universal Hostless Substrate: Full Stack Web Apps Without a Backend, and More!",
-            "eventlocation": "Online",
-            "starttime": 1591117200,
-            "endtime": 1591124400,
-            "link": "https://www.meetup.com/Berlin-Functional-Programming-Group/events/270447558/",
-            "description": "Come learn about what is being built today for the next wave of computing, how we evolve past the serverless paradigm, and how it can make life simpler for developers and end users!",
-            "organizer": "Berlin Functional Programming Group",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Using Containers in Serverless Architectures",
             "eventlocation": "Online",
             "starttime": 1591137000,
@@ -129,16 +89,6 @@
             "link": "https://www.meetup.com/Microsoft-Reactor-London/events/270879758/",
             "description": "Azure provides us with the perfect toolkit of serverless components to build powerful cloud solutions. We have Azure Functions, Logic Apps, API Management and Service Bus.",
             "organizer": "Microsoft Reactor London",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless Office Hours on Twitch",
-            "eventlocation": "Online",
-            "starttime": 1591272000,
-            "endtime": 1591275600,
-            "link": "https://aws-benelux-tech-office-hours.splashthat.com/",
-            "description": "AWS is hosting a Tech Office hours about serverless. In this edition, Sohan Maheshwar and Marek Kuczynski from AWS will answer your questions about serverless.",
-            "organizer": "Amazon Web Services (AWS)",
             "eventlanguage": "English"
         },
         {
