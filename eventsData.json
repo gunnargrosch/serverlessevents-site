@@ -2,166 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Using Containers in Serverless Architectures",
-            "eventlocation": "Online",
-            "starttime": 1591137000,
-            "endtime": 1591144200,
-            "link": "https://www.meetup.com/stl-serverless/events/270891551/",
-            "description": "Our June 2nd meeting will be all about Containers for Serverless.",
-            "organizer": "St. Louis Serverless",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Workshop: Serverless Web Applications and Introduction to Amplify",
-            "eventlocation": "Online",
-            "starttime": 1591174800,
-            "endtime": 1591185600,
-            "link": "https://www.meetup.com/AWS-Startup-Garage/events/270788221/",
-            "description": "In this workshop you’ll deploy a simple web application. The application will present users with an HTML-based user interface and will interface on the back-end with a RESTful web service.",
-            "organizer": "AWS Startup Garage - UK & Ireland",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Workshop: Serverless Web Applications and Introduction to Amplify",
-            "eventlocation": "Online",
-            "starttime": 1591174800,
-            "endtime": 1591185600,
-            "link": "https://www.meetup.com/AWS-Startup-Garage/events/270788221/",
-            "description": "In this workshop you’ll deploy a simple web application. The application will present users with an HTML-based user interface and will interface on the back-end with a RESTful web service.",
-            "organizer": "AWS Startup Garage - UK & Ireland",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "ServerlessDays Paris - Remote Session #2",
-            "eventlocation": "Online",
-            "starttime": 1591200000,
-            "endtime": 1591205400,
-            "link": "https://www.meetup.com/Paris-Serverless-Architecture-Meetup/events/270899988/",
-            "description": "Bonjour à tous, on se retrouve pour une nouvelle session remote co-animée avec Serverless Days Paris !",
-            "organizer": "Paris Serverless Architecture Meetup",
-            "eventlanguage": "French"
-        },
-        {
-            "event": "ServerlessDays Amsterdam ONLINE meetup",
-            "eventlocation": "Online",
-            "starttime": 1591200900,
-            "endtime": 1591211700,
-            "link": "https://www.meetup.com/ServerlessDays-Amsterdam/events/270740745/",
-            "description": "Join us for our ONLINE edition for the ServerlessDays Amsterdam meetup! We'll do a live stream which consists of sessions and a live Q&A session with the speakers.",
-            "organizer": "ServerlessDays Amsterdam",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Building loosely coupled serverless solutions with Azure Event Grid",
-            "eventlocation": "Online",
-            "starttime": 1591236000,
-            "endtime": 1591239600,
-            "link": "https://www.meetup.com/Microsoft-Reactor-Bangalore/events/270857730/",
-            "description": "Even in the new world of Serverless we continue to see traditional software design challenges such as tight coupling between components. We will look at how we can build loosely coupled applications.",
-            "organizer": "Microsoft Reactor Bangalore",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Building serverless analytics pipelines",
-            "eventlocation": "Online",
-            "starttime": 1591254000,
-            "endtime": 1591257600,
-            "link": "https://pages.awscloud.com/EMEA-event-OE-serverless-analytics-nordics-2020-reg-event.html",
-            "description": "Join Marcia Villalba in this webinar, when she shows how to build a serverless analytics pipeline from scratch, without any need to know about complex data science tools.",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "ServerlessDays Italy",
-            "eventlocation": "Online",
-            "starttime": 1591256700,
-            "endtime": 1591282800,
-            "link": "https://italy.serverlessdays.io/",
-            "description": "ServerlessDays Italy è una conferenza sulle tecnologie serverless dedicata agli sviluppatori.",
-            "organizer": "ServerlessDays Italy",
-            "eventlanguage": "Italian"
-        },
-        {
-            "event": "Azure's Cloud Platform: Building Serverless Applications",
-            "eventlocation": "Online",
-            "starttime": 1591257600,
-            "endtime": 1591261200,
-            "link": "https://www.meetup.com/Microsoft-Reactor-London/events/270879758/",
-            "description": "Azure provides us with the perfect toolkit of serverless components to build powerful cloud solutions. We have Azure Functions, Logic Apps, API Management and Service Bus.",
-            "organizer": "Microsoft Reactor London",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS hands-on: serverless API development with AWS Chalice (online workshop)",
-            "eventlocation": "Online",
-            "starttime": 1591272000,
-            "endtime": 1591277400,
-            "link": "https://www.meetup.com/AWS-User-Group-Latvia/events/270924324/",
-            "description": "Online hands-on workshop about building an API in an AWS environment and using AWS Chalice framework to do that in a serverless manner.",
-            "organizer": "AWS User Group Latvia",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Bulut Üzerinde Serverless ve Yapay Zeka ile Resimleri Sınıflandırın!",
-            "eventlocation": "Online",
-            "starttime": 1591272000,
-            "endtime": 1591279200,
-            "link": "https://www.meetup.com/IBMDeveloperTR/events/270785147/",
-            "description": "Bulut teknolojisinden önce, olay-güdümlü (event-driven) görüntü tanıma altyapısı kurmak, yapılandırmak ve gözlemlemek, oldukça zorlayıcı ve zaman alıcıydı.",
-            "organizer": "IBM Developer Turkey",
-            "eventlanguage": "Turkish"
-        },
-        {
-            "event": "Good Morning Serverless - Danielle Heberling",
-            "eventlocation": "Online",
-            "starttime": 1591273800,
-            "endtime": 1591275600,
-            "link": "https://www.periscope.tv/ServerlessOpsIO/",
-            "description": "Tom McLaughlin interviews Stackery developer Danielle Heberling",
-            "organizer": "ServerlessOps",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Sessions with SAM",
-            "eventlocation": "Online",
-            "starttime": 1591290000,
-            "endtime": 1591293600,
-            "link": "https://twitch.tv/aws",
-            "description": "Eric Johnson talk about SAM support for StepFunctions. Rob Sutter will be joining!",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "How to Build a Massive Scale Serverless Machine Learning Pipeline for < $7 a day",
-            "eventlocation": "Online",
-            "starttime": 1591306200,
-            "endtime": 1591313400,
-            "link": "https://www.meetup.com/The-Boston-Amazon-Web-Services-Meetup-Group/events/270336693/",
-            "description": "CloudZero will be giving a talk two talks about Serverless and Cost.",
-            "organizer": "The Boston Amazon Web Services Meetup Group",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Getting Started with Microservices and Serverless",
-            "eventlocation": "Online",
-            "starttime": 1591309800,
-            "endtime": 1591315200,
-            "link": "https://www.meetup.com/meetup-group-YbHEIIJe/events/270890489/",
-            "description": "Do you wonder how computers can be “serverless”? Does “microservices” seem like just another buzzword? These two technologies are actually changing software design and operations.",
-            "organizer": "NOVA Cloud And Software Engineering Group",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Build a serverless Slack application",
-            "eventlocation": "Online",
-            "starttime": 1591318800,
-            "endtime": 1591322400,
-            "link": "https://www.meetup.com/awsgurus/events/270833993/",
-            "description": "This presentation will show you how to build serverless Slack apps using Nimbella Commander. We’ll build an app to manage resources in your AWS account.",
-            "organizer": "Amazon Web Services - Bay Area",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Build a Serverless Web App for a Theme Park - Launching the Serverless Web Application",
             "eventlocation": "Online",
             "starttime": 1591632000,
@@ -189,6 +29,16 @@
             "link": "https://www.thundra.io/webinars/the-state-of-serverless-in-2020",
             "description": "It has been more than five years since serverless became part of our application development life cycle, following the announcement of AWS Lambda.  Let's talk about how it looks like now. ",
             "organizer": "Thundra",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "How to fail with Serverless",
+            "eventlocation": "Online",
+            "starttime": 1591741800,
+            "endtime": 1591749000,
+            "link": "https://www.meetup.com/awspug/events/rnwrmrybcjbmb/",
+            "description": "Everything fails all the time. Knowing how to deal with these failures in serverless applications becomes essential to building resilient, highly-available systems.",
+            "organizer": "AWS Portsmouth User Group",
             "eventlanguage": "English"
         },
         {
@@ -259,6 +109,16 @@
             "link": "https://pages.awscloud.com/AWS-Virtual-Workshop_2020_VW_s05-SRV.html",
             "description": "Learn how to build a complete serverless web application for a popular theme park called Innovator Island. In this series, you'll get hands-on experience building a scalable serverless application.",
             "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "What can you do with Lambda in 2020 - Yan Cui AWS Serverless Hero",
+            "eventlocation": "Online",
+            "starttime": 1592078400,
+            "endtime": 1592083800,
+            "link": "https://www.meetup.com/awsperu/events/271119647/",
+            "description": "International Speaker: Yan Cui, AWS Serverless Hero, London, UK",
+            "organizer": "AWS User Group Peru",
             "eventlanguage": "English"
         },
         {
