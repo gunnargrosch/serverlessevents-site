@@ -192,6 +192,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Serverless Security Strategies: Under the Hood",
+            "eventlocation": "Online",
+            "starttime": 1593014400,
+            "endtime": 1593018000,
+            "link": "https://pages.awscloud.com/AWS-Fireside-Chat_2020_FC_e06-SRV.html",
+            "description": "AWS Senior Principal Engineers Becky Weiss and Marc Brooker discuss how security strategies have changed to support modern application and how serverless security is applied under the hood.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
             "event": "AWS Serverless Community Day Australia & New Zealand",
             "eventlocation": "Online",
             "starttime": 1593129600,
