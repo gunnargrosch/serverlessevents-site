@@ -202,6 +202,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "AWS Amplify Days",
+            "eventlocation": "Online",
+            "starttime": 1594828800,
+            "endtime": 1594938600,
+            "link": "https://awsamplifydays.splashthat.com/",
+            "description": "Register for a two day exploration of full stack cloud development with AWS Amplify, a set of tools and services to build secure, scalable cloud-powered mobile and web applications.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
             "event": "ServerlessDays Hamburg",
             "eventlocation": "Hamburg, Germany",
             "starttime": 1601535600,
