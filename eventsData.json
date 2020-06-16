@@ -2,66 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Serverless azure API functions. Connecting with a SPA page. Part 2",
-            "eventlocation": "Online",
-            "starttime": 1592060400,
-            "endtime": 1592065800,
-            "link": "https://www.meetup.com/Serverless-Microsoft-Azure/events/271184370/",
-            "description": "Building a serverless azure function with .net core.",
-            "organizer": "Serverless Microsoft Azure",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "What can you do with Lambda in 2020 - Yan Cui AWS Serverless Hero",
-            "eventlocation": "Online",
-            "starttime": 1592078400,
-            "endtime": 1592083800,
-            "link": "https://www.meetup.com/awsperu/events/271119647/",
-            "description": "International Speaker: Yan Cui, AWS Serverless Hero, London, UK",
-            "organizer": "AWS User Group Peru",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Secure Azure Functions apps",
-            "eventlocation": "Online",
-            "starttime": 1592128800,
-            "endtime": 1592132400,
-            "link": "https://www.meetup.com/Microsoft-Reactor-London/events/270667320/",
-            "description": "Azure Function is a tool to create small snippets of code that can execute tasks. In this session we will explore how to secure Azure Function with Azure AD, IP Restrictions, and Azure Key Vault.",
-            "organizer": "Microsoft Reactor London",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless and the Future of Computing",
-            "eventlocation": "Online",
-            "starttime": 1592244000,
-            "endtime": 1592249400,
-            "link": "https://www.meetup.com/ln-enterprise-tech/events/268569767/",
-            "description": "The next big trend in cloud computing looks to be Serverless, where much of the infrastructure is abstracted away to be managed by the cloud provider.",
-            "organizer": "London Enterprise Technology Meetup",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless and the Future of Computing",
-            "eventlocation": "Online",
-            "starttime": 1592244000,
-            "endtime": 1592249400,
-            "link": "https://www.meetup.com/ln-enterprise-tech/events/268569767/",
-            "description": "The next big trend in cloud computing looks to be Serverless, where much of the infrastructure is abstracted away to be managed by the cloud provider.",
-            "organizer": "London Enterprise Technology Meetup",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "REST x Serverless: onde podemos chegar?",
-            "eventlocation": "Online",
-            "starttime": 1592267400,
-            "endtime": 1592272800,
-            "link": "https://www.meetup.com/dotnet-Sao-Paulo/events/271063862/",
-            "description": "Confira nesta mesa redonda (edição #44) do canal Coding Night mais um bate-papo descontraído, desta vez sobre a implementação de soluções REST e Serverless em projetos de software.",
-            "organizer": ".NET São Paulo",
-            "eventlanguage": "Portuguese"
-        },
-        {
             "event": "Serverless 2.0 with Cloudstate.io & Building a social network Serverless GraphQL",
             "eventlocation": "Online",
             "starttime": 1592321400,
@@ -142,6 +82,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "AWS Serverless Immersion Day for Startups",
+            "eventlocation": "Online",
+            "starttime": 1592463600,
+            "endtime": 1592490600,
+            "link": "https://aws-serverless-id-startups.splashthat.com/",
+            "description": "In this workshop, you learn about the spectrum of serverless services in the AWS cloud. You will get hands-on and use these services to create a new unicorn from scratch.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
             "event": "How Cuelogic is helping realize rapid release velocity, leveraging cloud native & serverless technologies on AWS",
             "eventlocation": "Online",
             "starttime": 1592472600,
@@ -192,6 +142,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Using Fission for fast and simple functions on Kubernetes",
+            "eventlocation": "Online",
+            "starttime": 1592659800,
+            "endtime": 1592667000,
+            "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/271187224/",
+            "description": "Let's understand \"Fission\" from the person who has built it from the ground up. How to implement Serverless Functions in Kubernetes.",
+            "organizer": "Serverless Ahmedabad",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Serverless Security Strategies: Under the Hood",
             "eventlocation": "Online",
             "starttime": 1593014400,
@@ -209,6 +169,26 @@
             "link": "https://aws-serverless-community-day.splashthat.com/",
             "description": "AWS Serverless Community Day Australia & New Zealand is a community led event focused on sharing experiences, building applications and using serverless architectures. ",
             "organizer": "AWS Community Australia & New Zealand",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Developing serverless applications with SAM and SAM CLI",
+            "eventlocation": "Online",
+            "starttime": 1593264600,
+            "endtime": 1593271800,
+            "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/271187310/",
+            "description": "Developing serverless applications uses the same, solid programming principles – but with awesome power tools!\n\nIn this session, I initialize, develop, package, and deploy a serverless application usi",
+            "organizer": "Serverless Ahmedabad",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "How we build a social network in 4 weeks with Serverless and GraphQL",
+            "eventlocation": "Online",
+            "starttime": 1593869400,
+            "endtime": 1593876600,
+            "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/271187322/",
+            "description": "Serverless technologies drastically simplify the task of building modern, scalable APIs in the cloud, and GraphQL makes it easy for frontend teams to consume these APIs and to iterate quickly on your ",
+            "organizer": "Serverless Ahmedabad",
             "eventlanguage": "English"
         },
         {
