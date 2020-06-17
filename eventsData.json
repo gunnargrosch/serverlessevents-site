@@ -2,56 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Serverless 2.0 with Cloudstate.io & Building a social network Serverless GraphQL",
-            "eventlocation": "Online",
-            "starttime": 1592321400,
-            "endtime": 1592332200,
-            "link": "https://www.meetup.com/Krakow-Cloud-Native/events/270764482/",
-            "description": "Serverless 2.0 with Cloudstate.io by Sean Welsh, Field CTO and Cloud Evangelist at Lightbend. Building a social network in under 4 weeks with Serverless and GraphQL by Yan Cui AWS serverless hero.",
-            "organizer": "Krakow Cloud Native Group",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Creating a Serverless App Without Writing Any Code: Azure Logic Apps",
-            "eventlocation": "Online",
-            "starttime": 1592323200,
-            "endtime": 1592326800,
-            "link": "https://www.meetup.com/Microsoft-Reactor-Tel-Aviv/events/270619952/",
-            "description": "What if we could create a serverless app without needing to write any code? Join us in this session where we’ll explore Azure Logic Apps and learn how to create serverless workflows.",
-            "organizer": "Microsoft Reactor Tel Aviv",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Descomplicando o Azure - Dia 02 - Serverless, IA, SQLServer - Online Gratuito",
-            "eventlocation": "Online",
-            "starttime": 1592341200,
-            "endtime": 1592352000,
-            "link": "https://www.meetup.com/azureBrasilComunidade/events/271040283/",
-            "description": "Building Serverless Apps with Azure Storage, Azure Functions and Blazor, Alexandre Malavasi - Irlanda",
-            "organizer": "Azure Brasil - Comunidade Técnica",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Event-driven architectures with Amazon EventBridge",
-            "eventlocation": "Online",
-            "starttime": 1592348400,
-            "endtime": 1592353800,
-            "link": "https://www.meetup.com/AWSTulsa/events/271197936/",
-            "description": "Join us Tuesday June 16th at 6pm to hear from Nick Smit, Sr. Product Manager at Amazon.",
-            "organizer": "AWS Tulsa",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Developing Serverless applications with SAM and SAM CLI",
-            "eventlocation": "Online",
-            "starttime": 1592357400,
-            "endtime": 1592364600,
-            "link": "https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/270957429/",
-            "description": "In this session Eric Johnson initialize, develop, package, and deploy a serverless application using the AWS Serverless Application Model (SAM) and the AWS SAM CLI.",
-            "organizer": "PDX Serverless Architecture Meetup",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Cloud native app development on OCI with serverless function and API Gateway",
             "eventlocation": "Online",
             "starttime": 1592406000,
@@ -79,6 +29,16 @@
             "link": "https://www.meetup.com/lambdasharp/events/tkwksrybcjbwb/",
             "description": "The λ# Hackathon is part workshop, part challenge, part competition, and always a rush!",
             "organizer": "λ# - All Things Serverless and AWS Lambda",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Online HandsOn Workshop: Knative 101",
+            "eventlocation": "Online",
+            "starttime": 1592463600,
+            "endtime": 1592469000,
+            "link": "https://www.meetup.com/IBM-Startup-Developer-Tel-Aviv/events/271140214/",
+            "description": "Knative is a new open source project that’s generating a lot of excitement in the Kubernetes and Serverless communities. It’s a great fit for application developers.",
+            "organizer": "Startup & Developer - IBM Israel",
             "eventlanguage": "English"
         },
         {
@@ -142,6 +102,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Serverless computing on IBM Cloud",
+            "eventlocation": "Online",
+            "starttime": 1592650800,
+            "endtime": 1592658000,
+            "link": "https://www.meetup.com/ZA-IBMCloud/events/270859820/",
+            "description": "“Serverless” is such a buzzword that's highly misunderstood. Will serverless kill containers? Does serverless mean no servers? Is serverless cost effective? What is serverless good for?",
+            "organizer": "IBM Cloud - South Africa",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Using Fission for fast and simple functions on Kubernetes",
             "eventlocation": "Online",
             "starttime": 1592659800,
@@ -152,6 +122,66 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Don't use Lambda to move data, API Gateway can help!",
+            "eventlocation": "Online",
+            "starttime": 1592704800,
+            "endtime": 1592712000,
+            "link": "https://www.meetup.com/awsperu/events/271324551/",
+            "description": "Don't use Lambda to move data, API Gateway can help! International Speaker: Richard Fan, AWS DeepRacer Finalist, from Hong Kong.",
+            "organizer": "AWS User Group Peru",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Parallel Python and Server-less web applications",
+            "eventlocation": "Online",
+            "starttime": 1592841600,
+            "endtime": 1592847000,
+            "link": "https://www.meetup.com/KaunasPy/events/270923797/",
+            "description": "A first online meetup will be held for Lithuania's Python community! Of course, everyone is welcome to join since the presentations will be in the English language.",
+            "organizer": "KaunasPy",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Build an Alexa Skill using Serverless",
+            "eventlocation": "Online",
+            "starttime": 1592843400,
+            "endtime": 1592850600,
+            "link": "https://www.meetup.com/IBM-Code-London/events/271309926/",
+            "description": "Join us for this Hands on workshop and learn how to automate what senior management do by building skills for home assistants.",
+            "organizer": "IBM Code London",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Cost and performance optimization strategies for AWS Lambda",
+            "eventlocation": "Online",
+            "starttime": 1592928000,
+            "endtime": 1592931600,
+            "link": "https://www.meetup.com/aws-ams/events/270862402/",
+            "description": "This session will dive into the best practices for tuning memory, runtime, initialization, concurrency, and more, in a data-driven way, to squeeze every drop of performance out of Lambda functions.",
+            "organizer": "AWSug.nl",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Migration to Aurora Serverless",
+            "eventlocation": "Online",
+            "starttime": 1592931600,
+            "endtime": 1592938800,
+            "link": "https://www.meetup.com/Cape-Town-DevOps/events/271347390/",
+            "description": "Migration to Aurora Serverless 2 weeks after the GA release, and watching it scale from ~1000 IOPS to over 2 500 000 IOPS.",
+            "organizer": "Cape Town DevOps Meetup",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "AWS Lambda & Amazon API Gateway",
+            "eventlocation": "Online",
+            "starttime": 1593012600,
+            "endtime": 1593019800,
+            "link": "https://www.meetup.com/AWS-User-Group-Turkey/events/271307836/",
+            "description": "23 Haziran çarşamba akşamı bu sefer geleneksel API geliştirme yöntemlerinin dışına çıkarak, AWS'in sunucusuz servisleri Lambda ve API Gateway hakkında konuşuyor olacağız. ",
+            "organizer": "AWS User Group Turkey",
+            "eventlanguage": "Turkish"
+        },
+        {
             "event": "Serverless Security Strategies: Under the Hood",
             "eventlocation": "Online",
             "starttime": 1593014400,
@@ -159,6 +189,46 @@
             "link": "https://pages.awscloud.com/AWS-Fireside-Chat_2020_FC_e06-SRV.html",
             "description": "AWS Senior Principal Engineers Becky Weiss and Marc Brooker discuss how security strategies have changed to support modern application and how serverless security is applied under the hood.",
             "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Implementare Stateful pattern con le Azure Functions",
+            "eventlocation": "Online",
+            "starttime": 1593014400,
+            "endtime": 1593021600,
+            "link": "https://www.meetup.com/SharpCoding/events/271327175/",
+            "description": "Ed eccoci tornati in ambito programmazione dove parleremo di come Implementare lo Stateful pattern con le Azure Functions.",
+            "organizer": "SharpCoding",
+            "eventlanguage": "Italian"
+        },
+        {
+            "event": "Workshop MEAN & Serverless",
+            "eventlocation": "Online",
+            "starttime": 1593039600,
+            "endtime": 1593046800,
+            "link": "https://www.meetup.com/WoMakersCode/events/270639844/",
+            "description": "Durante a palestra, estarei falando sobre como podemos definir uma arquitetura altamente escalável usando Node.js com Azure Functions baseado numa arquitetura Serverless.",
+            "organizer": "WoMakersCode Brasil",
+            "eventlanguage": "Portuguese"
+        },
+        {
+            "event": "Serverless Series - PART 3",
+            "eventlocation": "Online",
+            "starttime": 1593043200,
+            "endtime": 1593050400,
+            "link": "https://www.meetup.com/AWSMeetupGroup/events/270882322/",
+            "description": "We're doing a 3 part series on building a serverless application. We're going to build a serverless mock of https://medium.com. Part 3 we will see how much this will cost at scale.",
+            "organizer": "AWS Meetup Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Deploy ML models in Azure Functions: Python & TensorFlow",
+            "eventlocation": "Online",
+            "starttime": 1593059400,
+            "endtime": 1593066600,
+            "link": "https://www.meetup.com/AI-ways/events/271055691/",
+            "description": "In this session,participant will learn how to use Python, TensorFlow, and Azure Functions with a machine learning model to classify an image based on its contents.",
+            "organizer": "AI-ways",
             "eventlanguage": "English"
         },
         {
@@ -179,6 +249,16 @@
             "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/271187310/",
             "description": "Developing serverless applications uses the same, solid programming principles – but with awesome power tools!\n\nIn this session, I initialize, develop, package, and deploy a serverless application usi",
             "organizer": "Serverless Ahmedabad",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "ServerlessDays Paris - Remote Session #3",
+            "eventlocation": "Online",
+            "starttime": 1593619200,
+            "endtime": 1593624600,
+            "link": "https://www.meetup.com/fr-FR/Paris-Serverless-Architecture-Meetup/events/271290160/",
+            "description": "Want to join the serverless hype train but you’re stuck with your legacy PHP application? During this session, we gathered top tier experts to ensure you’ll be flawlessly able to initiate a migration.",
+            "organizer": "Paris Serverless Architecture Meetup",
             "eventlanguage": "English"
         },
         {
