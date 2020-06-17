@@ -2,26 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Cloud native app development on OCI with serverless function and API Gateway",
-            "eventlocation": "Online",
-            "starttime": 1592406000,
-            "endtime": 1592409600,
-            "link": "https://www.meetup.com/Oracle-Developer-Meetup-London/events/270918870/",
-            "description": "Cloud native app development on OCI with serverless function and API Gateway. Presented by Oracle Ace Directors Rolando Carrasco & Lucas Jellema.",
-            "organizer": "Oracle Developer Meetup London",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless Application Development - Real Stories from the trenches",
-            "eventlocation": "Online",
-            "starttime": 1592413200,
-            "endtime": 1592418600,
-            "link": "https://www.meetup.com/AWS-PTA/events/270926041/",
-            "description": "You may have heard some things about Serverless and boy are there a lot of opinions about it. But what is it like building actual Serverless applications?",
-            "organizer": "Pretoria AWS Meetup",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Virtual Serverless Hackathon",
             "eventlocation": "Online",
             "starttime": 1592442000,
@@ -59,6 +39,16 @@
             "link": "https://www.cuelogic.com/webinar/realize-rapid-release-velocity",
             "description": "Join us as we talk about an actual use case to help a business bring agility and increase development throughput by seamlessly implementing Cloud Native & Serverless.",
             "organizer": "Cuelogic Technologies",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Sessions with SAM",
+            "eventlocation": "Online",
+            "starttime": 1592499600,
+            "endtime": 1592503200,
+            "link": "https://twitch.tv/aws",
+            "description": "Sessions with SAM returns \"The Step Functions episode\". Featuring Eric Johnson and Rob Sutter.",
+            "organizer": "Amazon Web Services (AWS)",
             "eventlanguage": "English"
         },
         {
