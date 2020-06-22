@@ -2,126 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Virtual Serverless Hackathon",
-            "eventlocation": "Online",
-            "starttime": 1592442000,
-            "endtime": 1592456400,
-            "link": "https://www.meetup.com/lambdasharp/events/tkwksrybcjbwb/",
-            "description": "The λ# Hackathon is part workshop, part challenge, part competition, and always a rush!",
-            "organizer": "λ# - All Things Serverless and AWS Lambda",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Online HandsOn Workshop: Knative 101",
-            "eventlocation": "Online",
-            "starttime": 1592463600,
-            "endtime": 1592469000,
-            "link": "https://www.meetup.com/IBM-Startup-Developer-Tel-Aviv/events/271140214/",
-            "description": "Knative is a new open source project that’s generating a lot of excitement in the Kubernetes and Serverless communities. It’s a great fit for application developers.",
-            "organizer": "Startup & Developer - IBM Israel",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS Serverless Immersion Day for Startups",
-            "eventlocation": "Online",
-            "starttime": 1592463600,
-            "endtime": 1592490600,
-            "link": "https://aws-serverless-id-startups.splashthat.com/",
-            "description": "In this workshop, you learn about the spectrum of serverless services in the AWS cloud. You will get hands-on and use these services to create a new unicorn from scratch.",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "How Cuelogic is helping realize rapid release velocity, leveraging cloud native & serverless technologies on AWS",
-            "eventlocation": "Online",
-            "starttime": 1592472600,
-            "endtime": 1592478000,
-            "link": "https://www.cuelogic.com/webinar/realize-rapid-release-velocity",
-            "description": "Join us as we talk about an actual use case to help a business bring agility and increase development throughput by seamlessly implementing Cloud Native & Serverless.",
-            "organizer": "Cuelogic Technologies",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Sessions with SAM",
-            "eventlocation": "Online",
-            "starttime": 1592499600,
-            "endtime": 1592503200,
-            "link": "https://twitch.tv/aws",
-            "description": "Sessions with SAM returns \"The Step Functions episode\". Featuring Eric Johnson and Rob Sutter.",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Deploy a Web App in Minutes using Serverless Technologies - Cloud Run",
-            "eventlocation": "Online",
-            "starttime": 1592517600,
-            "endtime": 1592524800,
-            "link": "https://www.meetup.com/GDG-Columbus/events/270396737/",
-            "description": "During this workshop, all attendees will have their own dedicated environment and they will learn how to deploy a web app using Serverless Technologies like Cloud Run and Pub/Sub.",
-            "organizer": "GDG Columbus",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Arquitecturas Serverless 101",
-            "eventlocation": "Online",
-            "starttime": 1592521200,
-            "endtime": 1592528400,
-            "link": "https://www.meetup.com/Software-Architecture-Bogota/events/271213258/",
-            "description": "Arquitecturas Serverless 101 es nuestra segunda edición y estamos orgullosos. Te queremos invitar a esta increíble charla donde desglosaremos este concepto y su aplicación en nubes públicas.",
-            "organizer": "Software Architecture - Bogotá",
-            "eventlanguage": "Spanish"
-        },
-        {
-            "event": "Construyendo una aplicación Serverless con AWS",
-            "eventlocation": "Online",
-            "starttime": 1592521200,
-            "endtime": 1592526600,
-            "link": "https://www.meetup.com/AWS-Guatemala/events/270884150/",
-            "description": "¡Debido al enorme interés en profundizar en AWS Serverless, tendremos una sesión enfocada en desarrollo!",
-            "organizer": "AWS Guatemala",
-            "eventlanguage": "Spanish"
-        },
-        {
-            "event": "Serverless computing on IBM Cloud",
-            "eventlocation": "Online",
-            "starttime": 1592650800,
-            "endtime": 1592658000,
-            "link": "https://www.meetup.com/ZA-IBMCloud/events/270859820/",
-            "description": "“Serverless” is such a buzzword that's highly misunderstood. Will serverless kill containers? Does serverless mean no servers? Is serverless cost effective? What is serverless good for?",
-            "organizer": "IBM Cloud - South Africa",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless computing on IBM Cloud",
-            "eventlocation": "Online",
-            "starttime": 1592650800,
-            "endtime": 1592658000,
-            "link": "https://www.meetup.com/ZA-IBMCloud/events/270859820/",
-            "description": "“Serverless” is such a buzzword that's highly misunderstood. Will serverless kill containers? Does serverless mean no servers? Is serverless cost effective? What is serverless good for?",
-            "organizer": "IBM Cloud - South Africa",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Using Fission for fast and simple functions on Kubernetes",
-            "eventlocation": "Online",
-            "starttime": 1592659800,
-            "endtime": 1592667000,
-            "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/271187224/",
-            "description": "Let's understand \"Fission\" from the person who has built it from the ground up. How to implement Serverless Functions in Kubernetes.",
-            "organizer": "Serverless Ahmedabad",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Don't use Lambda to move data, API Gateway can help!",
-            "eventlocation": "Online",
-            "starttime": 1592704800,
-            "endtime": 1592712000,
-            "link": "https://www.meetup.com/awsperu/events/271324551/",
-            "description": "Don't use Lambda to move data, API Gateway can help! International Speaker: Richard Fan, AWS DeepRacer Finalist, from Hong Kong.",
-            "organizer": "AWS User Group Peru",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Parallel Python and Server-less web applications",
             "eventlocation": "Online",
             "starttime": 1592841600,
@@ -259,6 +139,16 @@
             "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/271187322/",
             "description": "Serverless technologies drastically simplify the task of building modern, scalable APIs in the cloud, and GraphQL makes it easy for frontend teams to consume these APIs and to iterate quickly on your ",
             "organizer": "Serverless Ahmedabad",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Build battle-tested well-architected serverless apps",
+            "eventlocation": "Online",
+            "starttime": 1594137600,
+            "endtime": 1594141200,
+            "link": "https://www.meetup.com/aws-ee/events/271453148/",
+            "description": "Hear about real-life experiences straight from the brightest serverless minds in the region and learn how to build battle-tested Well-Architected apps. ",
+            "organizer": "AWS Estonia User Group",
             "eventlanguage": "English"
         },
         {
