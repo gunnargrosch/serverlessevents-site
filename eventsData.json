@@ -2,106 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Parallel Python and Server-less web applications",
-            "eventlocation": "Online",
-            "starttime": 1592841600,
-            "endtime": 1592847000,
-            "link": "https://www.meetup.com/KaunasPy/events/270923797/",
-            "description": "A first online meetup will be held for Lithuania's Python community! Of course, everyone is welcome to join since the presentations will be in the English language.",
-            "organizer": "KaunasPy",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Build an Alexa Skill using Serverless",
-            "eventlocation": "Online",
-            "starttime": 1592843400,
-            "endtime": 1592850600,
-            "link": "https://www.meetup.com/IBM-Code-London/events/271309926/",
-            "description": "Join us for this Hands on workshop and learn how to automate what senior management do by building skills for home assistants.",
-            "organizer": "IBM Code London",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Cost and performance optimization strategies for AWS Lambda",
-            "eventlocation": "Online",
-            "starttime": 1592928000,
-            "endtime": 1592931600,
-            "link": "https://www.meetup.com/aws-ams/events/270862402/",
-            "description": "This session will dive into the best practices for tuning memory, runtime, initialization, concurrency, and more, in a data-driven way, to squeeze every drop of performance out of Lambda functions.",
-            "organizer": "AWSug.nl",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Migration to Aurora Serverless",
-            "eventlocation": "Online",
-            "starttime": 1592931600,
-            "endtime": 1592938800,
-            "link": "https://www.meetup.com/Cape-Town-DevOps/events/271347390/",
-            "description": "Migration to Aurora Serverless 2 weeks after the GA release, and watching it scale from ~1000 IOPS to over 2 500 000 IOPS.",
-            "organizer": "Cape Town DevOps Meetup",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS Lambda & Amazon API Gateway",
-            "eventlocation": "Online",
-            "starttime": 1593012600,
-            "endtime": 1593019800,
-            "link": "https://www.meetup.com/AWS-User-Group-Turkey/events/271307836/",
-            "description": "23 Haziran çarşamba akşamı bu sefer geleneksel API geliştirme yöntemlerinin dışına çıkarak, AWS'in sunucusuz servisleri Lambda ve API Gateway hakkında konuşuyor olacağız. ",
-            "organizer": "AWS User Group Turkey",
-            "eventlanguage": "Turkish"
-        },
-        {
-            "event": "Serverless Security Strategies: Under the Hood",
-            "eventlocation": "Online",
-            "starttime": 1593014400,
-            "endtime": 1593018000,
-            "link": "https://pages.awscloud.com/AWS-Fireside-Chat_2020_FC_e06-SRV.html",
-            "description": "AWS Senior Principal Engineers Becky Weiss and Marc Brooker discuss how security strategies have changed to support modern application and how serverless security is applied under the hood.",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Implementare Stateful pattern con le Azure Functions",
-            "eventlocation": "Online",
-            "starttime": 1593014400,
-            "endtime": 1593021600,
-            "link": "https://www.meetup.com/SharpCoding/events/271327175/",
-            "description": "Ed eccoci tornati in ambito programmazione dove parleremo di come Implementare lo Stateful pattern con le Azure Functions.",
-            "organizer": "SharpCoding",
-            "eventlanguage": "Italian"
-        },
-        {
-            "event": "Workshop MEAN & Serverless",
-            "eventlocation": "Online",
-            "starttime": 1593039600,
-            "endtime": 1593046800,
-            "link": "https://www.meetup.com/WoMakersCode/events/270639844/",
-            "description": "Durante a palestra, estarei falando sobre como podemos definir uma arquitetura altamente escalável usando Node.js com Azure Functions baseado numa arquitetura Serverless.",
-            "organizer": "WoMakersCode Brasil",
-            "eventlanguage": "Portuguese"
-        },
-        {
-            "event": "Serverless Series - PART 3",
-            "eventlocation": "Online",
-            "starttime": 1593043200,
-            "endtime": 1593050400,
-            "link": "https://www.meetup.com/AWSMeetupGroup/events/270882322/",
-            "description": "We're doing a 3 part series on building a serverless application. We're going to build a serverless mock of https://medium.com. Part 3 we will see how much this will cost at scale.",
-            "organizer": "AWS Meetup Group",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Deploy ML models in Azure Functions: Python & TensorFlow",
-            "eventlocation": "Online",
-            "starttime": 1593059400,
-            "endtime": 1593066600,
-            "link": "https://www.meetup.com/AI-ways/events/271055691/",
-            "description": "In this session,participant will learn how to use Python, TensorFlow, and Azure Functions with a machine learning model to classify an image based on its contents.",
-            "organizer": "AI-ways",
-            "eventlanguage": "English"
-        },
-        {
             "event": "AWS Serverless Community Day Australia & New Zealand",
             "eventlocation": "Online",
             "starttime": 1593129600,
@@ -109,6 +9,16 @@
             "link": "https://aws-serverless-community-day.splashthat.com/",
             "description": "AWS Serverless Community Day Australia & New Zealand is a community led event focused on sharing experiences, building applications and using serverless architectures. ",
             "organizer": "AWS Community Australia & New Zealand",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "The Serverless Bash!",
+            "eventlocation": "Online",
+            "starttime": 1593169200,
+            "endtime": 1593176400,
+            "link": "https://www.meetup.com/devbash/events/271249794/",
+            "description": "The third virtual Bash! will run on Friday 26th June over lunchtime. Our theme on this occasion will be the ever popular area of Serverless Computing.",
+            "organizer": "Bash!",
             "eventlanguage": "English"
         },
         {
@@ -122,6 +32,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "AWS UG Beirut Meetup #13: Chaos Engineering For Resilient Serverless Apps",
+            "eventlocation": "Online",
+            "starttime": 1593615600,
+            "endtime": 1593622800,
+            "link": "https://www.meetup.com/AWS-Lebanon/events/271451584/",
+            "description": "The principles of chaos engineering have been battle-tested for years using traditional infrastructure and containerized microservices. But how do they work with serverless and managed services?",
+            "organizer": "AWS User Group Beirut",
+            "eventlanguage": "English"
+        },
+        {
             "event": "ServerlessDays Paris - Remote Session #3",
             "eventlocation": "Online",
             "starttime": 1593619200,
@@ -129,6 +49,36 @@
             "link": "https://www.meetup.com/fr-FR/Paris-Serverless-Architecture-Meetup/events/271290160/",
             "description": "Want to join the serverless hype train but you’re stuck with your legacy PHP application? During this session, we gathered top tier experts to ensure you’ll be flawlessly able to initiate a migration.",
             "organizer": "Paris Serverless Architecture Meetup",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "AWS Virtual Meetup #5 - Chaos engineering",
+            "eventlocation": "Online",
+            "starttime": 1593622800,
+            "endtime": 1593630000,
+            "link": "https://www.meetup.com/French-AWS-UG/events/271305985/",
+            "description": " This time we are going to play with the Cloud, talking about Chaos Engineering. What exactly is Chaos, how to create a reliable system out of inherently unreliable parts.",
+            "organizer": "Paris AWS User Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "AWS Serverless office hours on Twitch",
+            "eventlocation": "Online",
+            "starttime": 1593691200,
+            "endtime": 1593694800,
+            "link": "https://aws-benelux-tech-office-hours.splashthat.com/",
+            "description": "Sohan and Marek from AWS will host a serverless office hours on Twitch. During the session, you can ask all of your questions around how to build or innovate with serverless. ",
+            "organizer": "Amazon Web Services",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Building Full stack Serverless App with Gunnar Grosch",
+            "eventlocation": "Online",
+            "starttime": 1593862200,
+            "endtime": 1593869400,
+            "link": "https://www.meetup.com/puneawsug/events/271250245/",
+            "description": "This session is the second part of our Full Stack Serverless Series. This session will have more demo, code and less presentation.",
+            "organizer": "Pune AWS and Cloud User Group",
             "eventlanguage": "English"
         },
         {
@@ -149,6 +99,16 @@
             "link": "https://www.meetup.com/aws-ee/events/271453148/",
             "description": "Hear about real-life experiences straight from the brightest serverless minds in the region and learn how to build battle-tested Well-Architected apps. ",
             "organizer": "AWS Estonia User Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "AWS: Serverless for Frontend Developers",
+            "eventlocation": "Online",
+            "starttime": 1594339200,
+            "endtime": 1594346400,
+            "link": "https://www.meetup.com/qcwebandmobile/events/271417409/",
+            "description": "In this follow-along Meetup, we'll explore Amazon Web Services (AWS) and how its platform can be used to bring out a new type of full-stack-development in the cloud.",
+            "organizer": "Quad Cities Web and Mobile",
             "eventlanguage": "English"
         },
         {
