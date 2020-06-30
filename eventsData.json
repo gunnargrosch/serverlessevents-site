@@ -2,36 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "AWS Serverless Community Day Australia & New Zealand",
-            "eventlocation": "Online",
-            "starttime": 1593129600,
-            "endtime": 1593151200,
-            "link": "https://aws-serverless-community-day.splashthat.com/",
-            "description": "AWS Serverless Community Day Australia & New Zealand is a community led event focused on sharing experiences, building applications and using serverless architectures. ",
-            "organizer": "AWS Community Australia & New Zealand",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "The Serverless Bash!",
-            "eventlocation": "Online",
-            "starttime": 1593169200,
-            "endtime": 1593176400,
-            "link": "https://www.meetup.com/devbash/events/271249794/",
-            "description": "The third virtual Bash! will run on Friday 26th June over lunchtime. Our theme on this occasion will be the ever popular area of Serverless Computing.",
-            "organizer": "Bash!",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Developing serverless applications with SAM and SAM CLI",
-            "eventlocation": "Online",
-            "starttime": 1593264600,
-            "endtime": 1593271800,
-            "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/271187310/",
-            "description": "Developing serverless applications uses the same, solid programming principles – but with awesome power tools!\n\nIn this session, I initialize, develop, package, and deploy a serverless application usi",
-            "organizer": "Serverless Ahmedabad",
-            "eventlanguage": "English"
-        },
-        {
             "event": "AWS UG Beirut Meetup #13: Chaos Engineering For Resilient Serverless Apps",
             "eventlocation": "Online",
             "starttime": 1593615600,
@@ -42,6 +12,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Serverless Microservices mit >Reventless<",
+            "eventlocation": "Online",
+            "starttime": 1593617400,
+            "endtime": 1593621000,
+            "link": "https://www.meetup.com/Wien-Informationstechnologie-Meetup-Gruppe/events/271540507/",
+            "description": "Reventless löst Problemstellungen bei der Erstellung von innovativen Event-Sourced Systemen in einer Serverless-Cloud-Umgebung mit einem Domain-Driven-Design Ansatz.",
+            "organizer": "Atos presents: Meetup",
+            "eventlanguage": "German"
+        },
+        {
             "event": "ServerlessDays Paris - Remote Session #3",
             "eventlocation": "Online",
             "starttime": 1593619200,
@@ -49,6 +29,16 @@
             "link": "https://www.meetup.com/fr-FR/Paris-Serverless-Architecture-Meetup/events/271290160/",
             "description": "Want to join the serverless hype train but you’re stuck with your legacy PHP application? During this session, we gathered top tier experts to ensure you’ll be flawlessly able to initiate a migration.",
             "organizer": "Paris Serverless Architecture Meetup",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Leveraging Azure Serverless and Cognitive Services for COVID-19 Data Processing",
+            "eventlocation": "Online",
+            "starttime": 1593619200,
+            "endtime": 1593624600,
+            "link": "https://www.meetup.com/Charlotte-Microsoft-Azure1/events/qlmdrqybckbcb/",
+            "description": "In this session we'll explore with a simple, yet representative example how Azure functions built with Python along with AI (leveraging Azure Cognitive services) can be combined.",
+            "organizer": "Charlotte Microsoft Azure",
             "eventlanguage": "English"
         },
         {
@@ -62,6 +52,26 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Services, Serverlessly - or How I Learned to Stop Worrying and Love the Cloud",
+            "eventlocation": "Online",
+            "starttime": 1593640800,
+            "endtime": 1593646200,
+            "link": "https://www.meetup.com/Cincinnati-Software-Craftsmanship/events/qlhdqrybckbcb/",
+            "description": "Serverless compute leverages containers and autoscaling groups to deliver ephemeral cloud compute. In this talk I'll discuss why this technology is great for APIs, ETL and job workers.",
+            "organizer": "Cincinnati Software Craftsmanship",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless ML: SAM, API Gateway, Lambda, and DynamoDB",
+            "eventlocation": "Online",
+            "starttime": 1593646200,
+            "endtime": 1593651600,
+            "link": "https://www.meetup.com/sgfaws/events/270611134/",
+            "description": "Join us for a presentation on Serverless Machine Learning (ML) using AWS SAM (Serverless Application Model) to build a stack that uses API Gateway, Lambda, and DynamoDB.",
+            "organizer": "Springfield Amazon Web Services (SGF AWS) User Group",
+            "eventlanguage": "English"
+        },
+        {
             "event": "AWS Serverless office hours on Twitch",
             "eventlocation": "Online",
             "starttime": 1593691200,
@@ -69,6 +79,46 @@
             "link": "https://aws-benelux-tech-office-hours.splashthat.com/",
             "description": "Sohan and Marek from AWS will host a serverless office hours on Twitch. During the session, you can ask all of your questions around how to build or innovate with serverless. ",
             "organizer": "Amazon Web Services",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless July",
+            "eventlocation": "Online",
+            "starttime": 1593703800,
+            "endtime": 1593714600,
+            "link": "https://www.meetup.com/Serverless-London/events/271518140/",
+            "description": "We will be running this meetup remotely over the ServerlessDays YouTube via Live Stream with chat. Farrah Campbell, Quentin Rosso and Veliswa Boya.",
+            "organizer": "Serverless London",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "ServerlessDays Amsterdam ONLINE meetup",
+            "eventlocation": "Online",
+            "starttime": 1593706500,
+            "endtime": 1593713700,
+            "link": "https://www.meetup.com/ServerlessDays-Amsterdam/events/271200793/",
+            "description": "We'll do a live stream which consists of sessions and a live Q&A session with the speakers. The topic of this evening is serverless security with Steven Bryen and Dean Bryen.",
+            "organizer": "ServerlessDays Amsterdam",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Funciones Serverless en Kubernetes",
+            "eventlocation": "Online",
+            "starttime": 1593712800,
+            "endtime": 1593718200,
+            "link": "https://www.meetup.com/HackMadrid-27/events/271492843/",
+            "description": "La computación “Serverless” es uno de los mayores hitos del cloud computing. Descompone las aplicaciones en funciones.",
+            "organizer": "HackMadrid %27",
+            "eventlanguage": "Spanish"
+        },
+        {
+            "event": "Going serverless with Java & Quarkus - Part II",
+            "eventlocation": "Online",
+            "starttime": 1593766800,
+            "endtime": 1593770400,
+            "link": "https://www.meetup.com/IBM-Code-Amsterdam/events/271226528/",
+            "description": "Serverless computing is a modern build and execution cloud model that brings to the cloud a set of properties that are central to the serverless promise.",
+            "organizer": "IBM Developer Netherlands",
             "eventlanguage": "English"
         },
         {
@@ -89,6 +139,16 @@
             "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/271187322/",
             "description": "Serverless technologies drastically simplify the task of building modern, scalable APIs in the cloud, and GraphQL makes it easy for frontend teams to consume these APIs and to iterate quickly on your ",
             "organizer": "Serverless Ahmedabad",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Aws serverless lambda api gateway",
+            "eventlocation": "Online",
+            "starttime": 1593955800,
+            "endtime": 1593961200,
+            "link": "https://www.meetup.com/ChennaiCloudStar/events/271268666/",
+            "description": "Concepts and demo of lambda and api gateway.",
+            "organizer": "ChennaiCloudStar",
             "eventlanguage": "English"
         },
         {
