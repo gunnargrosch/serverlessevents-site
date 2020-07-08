@@ -37,7 +37,7 @@
             "starttime": 1594310400,
             "endtime": 1594314000,
             "link": "https://info.lumigo.io/webinar-debugging-aws-lambda-performance-issues?utm_source=sle",
-            "description": "Yan Cui, AWS Serverless Hero, and Avia Mor, Lumigo co-founder, will cover tackling Lambda performance issues, including collecting the right telemetry, identifying bottlenecks, and removing them.",
+            "description": "Yan Cui, AWS Serverless Hero, and Aviad Mor, Lumigo co-founder, will cover tackling Lambda performance issues, including collecting the right telemetry, identifying bottlenecks, and removing them.",
             "organizer": "Lumigo",
             "eventlanguage": "English"
         },
@@ -119,7 +119,7 @@
             "link": "https://www.meetup.com/awsusergroupsp/events/271680967/",
             "description": "Teremos a honra de receber o grande Heitor Lessa para falar sobre boas práticas em desenvolvimento de aplicações Serverless com AWS Lambda Powertools, a vida, o universo e tudo mais!",
             "organizer": "AWS User Group São Paulo",
-            "eventlanguage": "Spanish"
+            "eventlanguage": "Portuguese"
         },
         {
             "event": "Creating a Serverless REST API in AWS",
@@ -259,6 +259,46 @@
             "link": "https://virtual.serverlessdays.io",
             "description": "Second edition of ServerlessDays Virtual with a busload of great speakers and talks.",
             "organizer": "ServerlessDays Virtual",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Tales in Tech: Yan Cui",
+            "eventlocation": "Online",
+            "starttime": 1596128400,
+            "endtime": 1596133800,
+            "link": "https://us02web.zoom.us/webinar/register/WN_PW2h1abESICdT_wz-dprmg",
+            "description": "Yan Cui, AWS Serverless Hero, will talk about why Serverless is a super-power for FrontEnd focused teams.",
+            "organizer": "Burns Sheehan",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "/serverless/NIGHTS AKL #30: Firecracker and Webslice",
+            "eventlocation": "Auckland, New Zealand",
+            "starttime": 1596520800,
+            "endtime": 1596528000,
+            "link": "https://www.meetup.com/Serverless-Auckland/events/271665962/",
+            "description": "For our next and in-person meetup, we are having not only one but two exciting serverless talks - Firecracker and Webslice",
+            "organizer": "Serverless Auckland",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "ServerlessDays Warsaw",
+            "eventlocation": "Online",
+            "starttime": 1599116400,
+            "endtime": 1599145200,
+            "link": "https://warsaw.serverlessdays.io/",
+            "description": "ServerlessDays Warsaw is a 1-day conference about Serverless technologies with a full day of talks.",
+            "organizer": "Karol Junde",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "ServerlessDays ANZ",
+            "eventlocation": "Online",
+            "starttime": 1599170400,
+            "endtime": 1599192000,
+            "link": "https://anz.serverlessdays.io/",
+            "description": "We are combining the 2020 ANZ serverless community events under the ServerlessDays ANZ banner and host speakers from the Serverless community right around the world. ",
+            "organizer": "ServerlessDays Sydney, Melbourne, Perth and Auckland",
             "eventlanguage": "English"
         },
         {
