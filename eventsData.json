@@ -2,6 +2,16 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
+            "event": "AWS hands-on: running serverless Django with Zappa",
+            "eventlocation": "Online",
+            "starttime": 1594209600,
+            "endtime": 1594216800,
+            "link": "https://www.meetup.com/AWS-User-Group-Latvia/events/271662896/",
+            "description": "Online hands-on workshop for local AWS community in the Baltics about serverless and running a basic Django app on AWS Lambda with Zappa.",
+            "organizer": "AWS User Group Latvia",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Webinar: Debugging AWS Lambda Performance  Issues",
             "eventlocation": "Online",
             "starttime": 1594310400,
@@ -39,6 +49,16 @@
             "link": "https://awsamplifydays.splashthat.com/",
             "description": "Register for a two day exploration of full stack cloud development with AWS Amplify, a set of tools and services to build secure, scalable cloud-powered mobile and web applications.",
             "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "ServerlessDays Virtual",
+            "eventlocation": "Online",
+            "starttime": 1595890800,
+            "endtime": 1595912400,
+            "link": "https://virtual.serverlessdays.io",
+            "description": "Second edition of ServerlessDays Virtual with a busload of great speakers and talks.",
+            "organizer": "ServerlessDays Virtual",
             "eventlanguage": "English"
         },
         {
