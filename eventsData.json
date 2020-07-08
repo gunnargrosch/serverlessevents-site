@@ -2,26 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "AWS hands-on: running serverless Django with Zappa",
-            "eventlocation": "Online",
-            "starttime": 1594209600,
-            "endtime": 1594216800,
-            "link": "https://www.meetup.com/AWS-User-Group-Latvia/events/271662896/",
-            "description": "Online hands-on workshop for local AWS community in the Baltics about serverless and running a basic Django app on AWS Lambda with Zappa.",
-            "organizer": "AWS User Group Latvia",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Introduction to AWS SQS for Web Application Task Queue",
-            "eventlocation": "Online",
-            "starttime": 1594211400,
-            "endtime": 1594216800,
-            "link": "https://www.meetup.com/AWS-User-Group-Indonesia/events/271726337/",
-            "description": "Di Community Online Talk Kali ini 8 Juli 2020, Ridwan Fadjar Septian akan meberikan pengenalan mengenai AWS SQS, untuk antrian tugas di sebuah aplikasi web (Web Application Task Queue).",
-            "organizer": "AWS User Group Indonesia",
-            "eventlanguage": "Indonesian"
-        },
-        {
             "event": "AWS Roadshow Virtual 2020 - 10 Serverless con AWS Lambda",
             "eventlocation": "Online",
             "starttime": 1594245600,
@@ -283,7 +263,7 @@
         },
         {
             "event": "ServerlessDays Hamburg",
-            "eventlocation": "Hamburg, Germany",
+            "eventlocation": "Online",
             "starttime": 1601535600,
             "endtime": 1601652600,
             "link": "https://hamburg.serverlessdays.io",
@@ -296,6 +276,7 @@
             "eventlocation": "Berlin, Germany",
             "starttime": 1602482400,
             "endtime": 1602687600,
+            "paidevent": true,
             "link": "https://serverless-architecture.io/berlin/",
             "description": "We bring together the world’s leading software architects and cloud experts to share their ideas and knowledge.",
             "organizer": "S&S Media",
