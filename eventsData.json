@@ -32,6 +32,26 @@
             "eventlanguage": "Spanish"
         },
         {
+            "event": "In a Gist: Lambda and Serverless Functions - Part 2",
+            "eventlocation": "Online",
+            "starttime": 1594285200,
+            "endtime": 1594290600,
+            "link": "https://www.meetup.com/AWS-SG/events/271449442/",
+            "description": "How do you optimize your Lambda functions? How does monitoring work? How do I use it to talk to other AWS services to build more complex logic? How can I easily perform testing?",
+            "organizer": "AWS User Group Singapore",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Save Time And Money With Serverless Applications Using Cloud Run",
+            "eventlocation": "Online",
+            "starttime": 1594297800,
+            "endtime": 1594303200,
+            "link": "https://www.meetup.com/GCDCLK/events/271752962/",
+            "description": "Dear Developers! Here’s your chance to save money and go for a cloud run with GDG!",
+            "organizer": "GDG Cloud Sri Lanka",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Webinar: Debugging AWS Lambda Performance  Issues",
             "eventlocation": "Online",
             "starttime": 1594310400,
@@ -52,6 +72,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Best Practices for Running Serverless Code in AWS Lambda",
+            "eventlocation": "Online",
+            "starttime": 1594332000,
+            "endtime": 1594339200,
+            "link": "https://www.meetup.com/South-Florida-AWS-User-Group/events/271338920/",
+            "description": "Running serverless code in AWS Lambda is incredibly easy, you can deploy your code and have it live in just a couple minutes. But doing this in an effective and efficient way can be very challenging.",
+            "organizer": "South Florida AWS User Group",
+            "eventlanguage": "English"
+        },
+        {
             "event": "AWS: Serverless for Frontend Developers",
             "eventlocation": "Online",
             "starttime": 1594339200,
@@ -59,6 +89,16 @@
             "link": "https://www.meetup.com/qcwebandmobile/events/271417409/",
             "description": "In this follow-along Meetup, we'll explore Amazon Web Services (AWS) and how its platform can be used to bring out a new type of full-stack-development in the cloud.",
             "organizer": "Quad Cities Web and Mobile",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Best practices for using DynamoDB in Serverless Applications",
+            "eventlocation": "Online",
+            "starttime": 1594474200,
+            "endtime": 1594479600,
+            "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/271729741/",
+            "description": "In this talk, you'll learn why DynamoDB is such a great fit in serverless applications. Then, you'll learn how to get started with DynamoDB as well as some best practices for data modeling with Dynamo",
+            "organizer": "Serverless Ahmedabad",
             "eventlanguage": "English"
         },
         {
@@ -72,6 +112,56 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Networking for Azure Functions – it’s for Serverless devs too!",
+            "eventlocation": "Online",
+            "starttime": 1594677600,
+            "endtime": 1594684800,
+            "link": "https://www.meetup.com/Central-Ohio-Azure/events/blcjqrybckbrb/",
+            "description": "In this session, we will discuss approaches to integrate Functions with virtual network restricted Azure resources. We will discuss approaches for private site access and virtual network integration.",
+            "organizer": "Central Ohio Azure",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Building Event Streaming Applications with Serverless Kafka",
+            "eventlocation": "Online",
+            "starttime": 1594713600,
+            "endtime": 1594717200,
+            "link": "https://www.meetup.com/Bangkok-Kafka/events/271633672/",
+            "description": "Apache Kafka is a well-known technology from the on-premises world, that is gradually being adopted in the cloud.",
+            "organizer": "Bangkok Apache Kafka® Meetup by Confluent",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Heitor Lessa - Lambda Powertools, a vida, o universo e tudo mais",
+            "eventlocation": "Online",
+            "starttime": 1594760400,
+            "endtime": 1594767600,
+            "link": "https://www.meetup.com/awsusergroupsp/events/271680967/",
+            "description": "Teremos a honra de receber o grande Heitor Lessa para falar sobre boas práticas em desenvolvimento de aplicações Serverless com AWS Lambda Powertools, a vida, o universo e tudo mais!",
+            "organizer": "AWS User Group São Paulo",
+            "eventlanguage": "Spanish"
+        },
+        {
+            "event": "Creating a Serverless REST API in AWS",
+            "eventlocation": "Online",
+            "starttime": 1594767600,
+            "endtime": 1594771200,
+            "link": "https://www.meetup.com/San-Antonio-Java-User-Group/events/271338233/",
+            "description": "Are you interested in learning more about creating a Serverless REST API in Amazon Web Services (AWS)? If so, David Garcia will be presenting at our July meetup.",
+            "organizer": "San Antonio Java User Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Establishing a CI/CD pipeline using AWS and the Serverless Framework",
+            "eventlocation": "Online",
+            "starttime": 1594828800,
+            "endtime": 1594832400,
+            "link": "https://www.meetup.com/Google-Cloud-Platform-Developers/events/271625954/",
+            "description": "Establishing a CI/CD pipeline using AWS and the Serverless framework can drastically accelerate your deployments, and help eliminate human error during deployments. ",
+            "organizer": "Cloud Computing Community",
+            "eventlanguage": "English"
+        },
+        {
             "event": "AWS Amplify Days",
             "eventlocation": "Online",
             "starttime": 1594828800,
@@ -79,6 +169,106 @@
             "link": "https://awsamplifydays.splashthat.com/",
             "description": "Register for a two day exploration of full stack cloud development with AWS Amplify, a set of tools and services to build secure, scalable cloud-powered mobile and web applications.",
             "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Virtual Serverless Hackathon",
+            "eventlocation": "Online",
+            "starttime": 1594861200,
+            "endtime": 1594875600,
+            "link": "https://www.meetup.com/lambdasharp/events/tkwksrybckbtb/",
+            "description": "This is a hands-on event suitable for advanced developers, passionate beginners, and curious minds! Each meeting is focused on exploring a serverless technology by building a service with it.",
+            "organizer": "λ# - All Things Serverless and AWS Lambda",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Online Serverless Meetup, July Edition",
+            "eventlocation": "Online",
+            "starttime": 1594884600,
+            "endtime": 1594891800,
+            "link": "https://www.meetup.com/Sydney-Serverless-Meetup-Group/events/271595565/",
+            "description": "To keep you going with your monthly fill of Serverless, we will be bringing you an online edition this month.",
+            "organizer": "Sydney Serverless Meetup Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless Singapore - July 2020 Online Meetup",
+            "eventlocation": "Online",
+            "starttime": 1594897200,
+            "endtime": 1594900800,
+            "link": "https://www.meetup.com/Serverless-Singapore/events/271473508/",
+            "description": "Less is more with Serverless. Running a serverless app on Google App Engine, Firestore, and Cloud Storage.",
+            "organizer": "Serverless Singapore",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Cloud Native Serverless Meetup",
+            "eventlocation": "Online",
+            "starttime": 1594902600,
+            "endtime": 1594906200,
+            "link": "https://www.meetup.com/cnatblr/events/271517612/",
+            "description": "Kubernetes is the preferred orchestration engine to manage these micro-services and deploy stateless & stateful applications. But Developers love to get to prod fast and often turn to Serverless.",
+            "organizer": "Cloud Native - Bangalore",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "DynamoDB Special with Alex DeBrie",
+            "eventlocation": "",
+            "starttime": 1594911600,
+            "endtime": 1594920600,
+            "link": "https://www.meetup.com/AWS-Lebanon/events/271760606/",
+            "description": "In this talk, you'll learn about DynamoDB and secondary indexes. Then, we'll walk through some strategies for using secondary indexes effectively in DynamoDB.",
+            "organizer": "AWS User Group Beirut",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Creating a Serverless App Without Writing Any Code: Azure Logic Apps",
+            "eventlocation": "Online",
+            "starttime": 1594915200,
+            "endtime": 1594918800,
+            "link": "https://www.meetup.com/Microsoft-Reactor-Redmond/events/270515710/",
+            "description": "What if we could create a serverless app without needing to write any code? In this session we’ll explore Azure Logic Apps and learn how to create serverless workflows without needing to write code!",
+            "organizer": "Microsoft Reactor Redmond",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Cloud Run: Overcoming the challenges of building & deploying Serverless apps",
+            "eventlocation": "Online",
+            "starttime": 1594926000,
+            "endtime": 1594931400,
+            "link": "https://www.meetup.com/gdgcloud/events/271677336/",
+            "description": "What would an application built on top of Cloud Run look like? Two demos will guide us through the building and deploying of an application to Cloud Run.",
+            "organizer": "GDG Cloud London",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Event Bridge Deep Dive",
+            "eventlocation": "Online",
+            "starttime": 1594935000,
+            "endtime": 1594942200,
+            "link": "https://www.meetup.com/The-Boston-Amazon-Web-Services-Meetup-Group/events/271591495/",
+            "description": "In this session, you will learn more about EventBridge, a serverless event bus service that makes it easy to connect your applications with data from a variety of event sources. ",
+            "organizer": "The Boston Amazon Web Services Meetup Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "AWS Serverless Workshop",
+            "eventlocation": "Online",
+            "starttime": 1595061000,
+            "endtime": 1595075400,
+            "link": "https://www.meetup.com/Serverless-Bangalore/events/271513897/",
+            "description": "Get hands-on experience with AWS and serverless applications in this workshop. You'll deploy a simple web application that enables users to vote for their favorite options for a set of questions.",
+            "organizer": "Serverless Architecture Bangalore Meetup Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless Authentication with Amazon Cognito",
+            "eventlocation": "Online",
+            "starttime": 1595079000,
+            "endtime": 1595084400,
+            "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/271729757/",
+            "description": "In this session, we will see what all things Amazon Cognito can do and how to integrate the service into your existing or serverless application.",
+            "organizer": "Serverless Ahmedabad",
             "eventlanguage": "English"
         },
         {
