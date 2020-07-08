@@ -12,6 +12,26 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Introduction to AWS SQS for Web Application Task Queue",
+            "eventlocation": "Online",
+            "starttime": 1594211400,
+            "endtime": 1594216800,
+            "link": "https://www.meetup.com/AWS-User-Group-Indonesia/events/271726337/",
+            "description": "Di Community Online Talk Kali ini 8 Juli 2020, Ridwan Fadjar Septian akan meberikan pengenalan mengenai AWS SQS, untuk antrian tugas di sebuah aplikasi web (Web Application Task Queue).",
+            "organizer": "AWS User Group Indonesia",
+            "eventlanguage": "Indonesian"
+        },
+        {
+            "event": "AWS Roadshow Virtual 2020 - 10 Serverless con AWS Lambda",
+            "eventlocation": "Online",
+            "starttime": 1594245600,
+            "endtime": 1594251000,
+            "link": "https://www.meetup.com/Amazon-Web-Services-Mexico/events/270449606/",
+            "description": "Conocerás los aspectos principales del servicio AWS Lambda. Hablaremos sobre los principales beneficios del cómputo serverless en AWS. xCrearemos una función de cómputo basada en Node.JS. Explicar",
+            "organizer": "AWS User Group Ciudad de México",
+            "eventlanguage": "Spanish"
+        },
+        {
             "event": "Webinar: Debugging AWS Lambda Performance  Issues",
             "eventlocation": "Online",
             "starttime": 1594310400,
@@ -19,6 +39,16 @@
             "link": "https://info.lumigo.io/webinar-debugging-aws-lambda-performance-issues?utm_source=sle",
             "description": "Yan Cui, AWS Serverless Hero, and Avia Mor, Lumigo co-founder, will cover tackling Lambda performance issues, including collecting the right telemetry, identifying bottlenecks, and removing them.",
             "organizer": "Lumigo",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Lightweight Serverless Cloud Functions with Java and Quarkus",
+            "eventlocation": "Online",
+            "starttime": 1594312200,
+            "endtime": 1594315800,
+            "link": "https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/271651631/",
+            "description": "In this low-slides, high-code, session, we’ll dive into how Java, with the Cloud Native optimized framework Quarkus, is an excellent platform for building Cloud Functions.",
+            "organizer": "IBM Developer SF Bay Area",
             "eventlanguage": "English"
         },
         {
