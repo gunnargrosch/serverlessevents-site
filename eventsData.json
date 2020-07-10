@@ -2,76 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "AWS Roadshow Virtual 2020 - 10 Serverless con AWS Lambda",
-            "eventlocation": "Online",
-            "starttime": 1594245600,
-            "endtime": 1594251000,
-            "link": "https://www.meetup.com/Amazon-Web-Services-Mexico/events/270449606/",
-            "description": "Conocerás los aspectos principales del servicio AWS Lambda. Hablaremos sobre los principales beneficios del cómputo serverless en AWS. xCrearemos una función de cómputo basada en Node.JS. Explicar",
-            "organizer": "AWS User Group Ciudad de México",
-            "eventlanguage": "Spanish"
-        },
-        {
-            "event": "In a Gist: Lambda and Serverless Functions - Part 2",
-            "eventlocation": "Online",
-            "starttime": 1594285200,
-            "endtime": 1594290600,
-            "link": "https://www.meetup.com/AWS-SG/events/271449442/",
-            "description": "How do you optimize your Lambda functions? How does monitoring work? How do I use it to talk to other AWS services to build more complex logic? How can I easily perform testing?",
-            "organizer": "AWS User Group Singapore",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Save Time And Money With Serverless Applications Using Cloud Run",
-            "eventlocation": "Online",
-            "starttime": 1594297800,
-            "endtime": 1594303200,
-            "link": "https://www.meetup.com/GCDCLK/events/271752962/",
-            "description": "Dear Developers! Here’s your chance to save money and go for a cloud run with GDG!",
-            "organizer": "GDG Cloud Sri Lanka",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Webinar: Debugging AWS Lambda Performance  Issues",
-            "eventlocation": "Online",
-            "starttime": 1594310400,
-            "endtime": 1594314000,
-            "link": "https://info.lumigo.io/webinar-debugging-aws-lambda-performance-issues?utm_source=sle",
-            "description": "Yan Cui, AWS Serverless Hero, and Avia Mor, Lumigo co-founder, will cover tackling Lambda performance issues, including collecting the right telemetry, identifying bottlenecks, and removing them.",
-            "organizer": "Lumigo",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Lightweight Serverless Cloud Functions with Java and Quarkus",
-            "eventlocation": "Online",
-            "starttime": 1594312200,
-            "endtime": 1594315800,
-            "link": "https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/271651631/",
-            "description": "In this low-slides, high-code, session, we’ll dive into how Java, with the Cloud Native optimized framework Quarkus, is an excellent platform for building Cloud Functions.",
-            "organizer": "IBM Developer SF Bay Area",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Best Practices for Running Serverless Code in AWS Lambda",
-            "eventlocation": "Online",
-            "starttime": 1594332000,
-            "endtime": 1594339200,
-            "link": "https://www.meetup.com/South-Florida-AWS-User-Group/events/271338920/",
-            "description": "Running serverless code in AWS Lambda is incredibly easy, you can deploy your code and have it live in just a couple minutes. But doing this in an effective and efficient way can be very challenging.",
-            "organizer": "South Florida AWS User Group",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS: Serverless for Frontend Developers",
-            "eventlocation": "Online",
-            "starttime": 1594339200,
-            "endtime": 1594346400,
-            "link": "https://www.meetup.com/qcwebandmobile/events/271417409/",
-            "description": "In this follow-along Meetup, we'll explore Amazon Web Services (AWS) and how its platform can be used to bring out a new type of full-stack-development in the cloud.",
-            "organizer": "Quad Cities Web and Mobile",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Best practices for using DynamoDB in Serverless Applications",
             "eventlocation": "Online",
             "starttime": 1594474200,
@@ -119,7 +49,7 @@
             "link": "https://www.meetup.com/awsusergroupsp/events/271680967/",
             "description": "Teremos a honra de receber o grande Heitor Lessa para falar sobre boas práticas em desenvolvimento de aplicações Serverless com AWS Lambda Powertools, a vida, o universo e tudo mais!",
             "organizer": "AWS User Group São Paulo",
-            "eventlanguage": "Spanish"
+            "eventlanguage": "Portuguese"
         },
         {
             "event": "Creating a Serverless REST API in AWS",
@@ -259,6 +189,46 @@
             "link": "https://virtual.serverlessdays.io",
             "description": "Second edition of ServerlessDays Virtual with a busload of great speakers and talks.",
             "organizer": "ServerlessDays Virtual",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Tales in Tech: Yan Cui",
+            "eventlocation": "Online",
+            "starttime": 1596128400,
+            "endtime": 1596133800,
+            "link": "https://us02web.zoom.us/webinar/register/WN_PW2h1abESICdT_wz-dprmg",
+            "description": "Yan Cui, AWS Serverless Hero, will talk about why Serverless is a super-power for FrontEnd focused teams.",
+            "organizer": "Burns Sheehan",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "/serverless/NIGHTS AKL #30: Firecracker and Webslice",
+            "eventlocation": "Auckland, New Zealand",
+            "starttime": 1596520800,
+            "endtime": 1596528000,
+            "link": "https://www.meetup.com/Serverless-Auckland/events/271665962/",
+            "description": "For our next and in-person meetup, we are having not only one but two exciting serverless talks - Firecracker and Webslice",
+            "organizer": "Serverless Auckland",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "ServerlessDays Warsaw",
+            "eventlocation": "Online",
+            "starttime": 1599116400,
+            "endtime": 1599145200,
+            "link": "https://warsaw.serverlessdays.io/",
+            "description": "ServerlessDays Warsaw is a 1-day conference about Serverless technologies with a full day of talks.",
+            "organizer": "ServerlessDays Warsaw",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "ServerlessDays ANZ",
+            "eventlocation": "Online",
+            "starttime": 1599170400,
+            "endtime": 1599192000,
+            "link": "https://anz.serverlessdays.io/",
+            "description": "We are combining the 2020 ANZ serverless community events under the ServerlessDays ANZ banner and host speakers from the Serverless community right around the world. ",
+            "organizer": "ServerlessDays Sydney, Melbourne, Perth and Auckland",
             "eventlanguage": "English"
         },
         {
