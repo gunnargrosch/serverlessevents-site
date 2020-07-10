@@ -112,6 +112,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "AWS PartnerCast - Transforming your business through AWS Serverless - Business",
+            "eventlocation": "Online",
+            "starttime": 1594900800,
+            "endtime": 1594904400,
+            "link": "https://register.gotowebinar.com/register/4228902448182199309",
+            "description": "Serverless is ushering in a new era of cloud computing. It's no wonder why it was the #1 trending topic on Twitter at re:Invent and accounted for 6 out of 12 most significant sessions for attendance. ",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Cloud Native Serverless Meetup",
             "eventlocation": "Online",
             "starttime": 1594902600,
@@ -182,6 +192,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Predicting and Managing Costs in Serverless Applications",
+            "eventlocation": "Online",
+            "starttime": 1595440800,
+            "endtime": 1595444400,
+            "link": "https://pages.awscloud.com/AWS-Online-Tech-Talks_July-2020.html?webinar=2020_0708-SRV&category=SRV",
+            "description": "In this tech talk, we provide insight into how serverless application costs are calculated, and how you can optimize application design to minimize that cost. ",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
             "event": "ServerlessDays Virtual",
             "eventlocation": "Online",
             "starttime": 1595890800,
@@ -189,6 +209,16 @@
             "link": "https://virtual.serverlessdays.io",
             "description": "Second edition of ServerlessDays Virtual with a busload of great speakers and talks.",
             "organizer": "ServerlessDays Virtual",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Orchestrating Distributed Business Workflows with AWS Step Functions",
+            "eventlocation": "Online",
+            "starttime": 1596038400,
+            "endtime": 1596042000,
+            "link": "https://pages.awscloud.com/AWS-Online-Tech-Talks_July-2020.html?webinar=2020_0722-SRV&category=SRV",
+            "description": "In this session, Rob Sutter will cover what’s new with Step Functions in 2020 and highlight the key patterns for building distributed business workflows to handle scale and workflow sophistication. ",
+            "organizer": "Amazon Web Services (AWS)",
             "eventlanguage": "English"
         },
         {
