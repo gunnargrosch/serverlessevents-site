@@ -2,56 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "AWS Amplify Days",
-            "eventlocation": "Online",
-            "starttime": 1594828800,
-            "endtime": 1594938600,
-            "link": "https://awsamplifydays.splashthat.com/",
-            "description": "Register for a two day exploration of full stack cloud development with AWS Amplify, a set of tools and services to build secure, scalable cloud-powered mobile and web applications.",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "DynamoDB Special with Alex DeBrie",
-            "eventlocation": "Online",
-            "starttime": 1594911600,
-            "endtime": 1594920600,
-            "link": "https://www.meetup.com/AWS-Lebanon/events/271760606/",
-            "description": "In this talk, you'll learn about DynamoDB and secondary indexes. Then, we'll walk through some strategies for using secondary indexes effectively in DynamoDB.",
-            "organizer": "AWS User Group Beirut",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Creating a Serverless App Without Writing Any Code: Azure Logic Apps",
-            "eventlocation": "Online",
-            "starttime": 1594915200,
-            "endtime": 1594918800,
-            "link": "https://www.meetup.com/Microsoft-Reactor-Redmond/events/270515710/",
-            "description": "What if we could create a serverless app without needing to write any code? In this session we’ll explore Azure Logic Apps and learn how to create serverless workflows without needing to write code!",
-            "organizer": "Microsoft Reactor Redmond",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Cloud Run: Overcoming the challenges of building & deploying Serverless apps",
-            "eventlocation": "Online",
-            "starttime": 1594926000,
-            "endtime": 1594931400,
-            "link": "https://www.meetup.com/gdgcloud/events/271677336/",
-            "description": "What would an application built on top of Cloud Run look like? Two demos will guide us through the building and deploying of an application to Cloud Run.",
-            "organizer": "GDG Cloud London",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Event Bridge Deep Dive",
-            "eventlocation": "Online",
-            "starttime": 1594935000,
-            "endtime": 1594942200,
-            "link": "https://www.meetup.com/The-Boston-Amazon-Web-Services-Meetup-Group/events/271591495/",
-            "description": "In this session, you will learn more about EventBridge, a serverless event bus service that makes it easy to connect your applications with data from a variety of event sources. ",
-            "organizer": "The Boston Amazon Web Services Meetup Group",
-            "eventlanguage": "English"
-        },
-        {
             "event": "AWS Serverless Workshop",
             "eventlocation": "Online",
             "starttime": 1595061000,
@@ -129,6 +79,16 @@
             "link": "https://www.meetup.com/ibmcodenyc/events/270023749/",
             "description": "Join IBM Developer for a hands-on workshop where you will create REST APIs for CRUD operations using IBM API Connect.",
             "organizer": "IBM Developer New York",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Swift on lambda",
+            "eventlocation": "Online",
+            "starttime": 1595458800,
+            "endtime": 1595462400,
+            "link": "https://www.meetup.com/AWSUserGroupDominicana/events/271978114/",
+            "description": "Nicki Stone will walk us thru how to leverage Swift's advantages on AWS Lambda",
+            "organizer": "AWS Dominicana",
             "eventlanguage": "English"
         },
         {
