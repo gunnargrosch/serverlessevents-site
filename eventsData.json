@@ -142,6 +142,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Chaos engineering for serverless in Azure",
+            "eventlocation": "Online",
+            "starttime": 1597330800,
+            "endtime": 1597334400,
+            "link": "https://www.meetup.com/Stockholm-Azure-Meetup/events/271969758/",
+            "description": "Gunnar Grosch will cover the motivations behind chaos engineering, how we perform chaos experiments, common weaknesses we can test for in our serverless applications and run some demos in Azure!",
+            "organizer": "Stockholm Azure Meetup",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Building Reliable Serverless Applications",
             "eventlocation": "Online",
             "starttime": 1597521600,
