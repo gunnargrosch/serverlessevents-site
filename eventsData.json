@@ -2,144 +2,14 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "AWS Serverless Workshop",
+            "event": "Stateful Serverless for the Enterprise",
             "eventlocation": "Online",
-            "starttime": 1595061000,
-            "endtime": 1595075400,
-            "link": "https://www.meetup.com/Serverless-Bangalore/events/271513897/",
-            "description": "Get hands-on experience with AWS and serverless applications in this workshop. You'll deploy a simple web application that enables users to vote for their favorite options for a set of questions.",
-            "organizer": "Serverless Architecture Bangalore Meetup Group",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless Authentication with Amazon Cognito",
-            "eventlocation": "Online",
-            "starttime": 1595079000,
-            "endtime": 1595084400,
-            "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/271729757/",
-            "description": "In this session, we will see what all things Amazon Cognito can do and how to integrate the service into your existing or serverless application.",
-            "organizer": "Serverless Ahmedabad",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Java and AWS Lambda in 2020 - Cold Starts and More",
-            "eventlocation": "Online",
-            "starttime": 1595284200,
-            "endtime": 1595291400,
-            "link": "https://www.meetup.com/JavaSIG/events/271911241/",
-            "description": "AWS Lambda + Java is ready for the enterprise - Mike Roberts will tell you why!",
-            "organizer": "NYJavaSIG",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Introducing the serverless LAMP stack",
-            "eventlocation": "Online",
-            "starttime": 1595350800,
-            "endtime": 1595358000,
-            "link": "https://www.meetup.com/phpnortheast/events/271775018/",
-            "description": "AWS Lambda, Amazon API Gateway, MySQL, PHP - it’s LAMP but not as you know it. In this session, Ben Smith will show why there has never been a better time to build serverless applications with PHP.",
-            "organizer": "PHP North East",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "The Challenges of Serverless Observability",
-            "eventlocation": "Online",
-            "starttime": 1595379600,
-            "endtime": 1595386800,
-            "link": "https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/271478166/",
-            "description": "Once we have a running serverless application, even if it's running well, it can feel like a black box. Nica will discuss strategies to get useful, actionable information out of your serverless stack.",
-            "organizer": "PDX Serverless Architecture Meetup",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "FaaS by Microsoft: Azure Functions and Azure Durable Functions",
-            "eventlocation": "Online",
-            "starttime": 1595433600,
-            "endtime": 1595437200,
-            "link": "https://www.meetup.com/league-of-geeks/events/271813579/",
-            "description": "In this talk, Christian Lechner will show you what Microsoft brings to the table offering Azure Functions. In addition, we will take a look at an extension of these functions, namely Durable Functions",
-            "organizer": "League of Geeks Passau",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Predicting and Managing Costs in Serverless Applications",
-            "eventlocation": "Online",
-            "starttime": 1595440800,
-            "endtime": 1595444400,
-            "link": "https://pages.awscloud.com/AWS-Online-Tech-Talks_July-2020.html?webinar=2020_0708-SRV&category=SRV",
-            "description": "In this tech talk, we provide insight into how serverless application costs are calculated, and how you can optimize application design to minimize that cost. ",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Hello, World! Create REST APIs For CRUD Operations Using API Connect",
-            "eventlocation": "Online",
-            "starttime": 1595451600,
-            "endtime": 1595455200,
-            "link": "https://www.meetup.com/ibmcodenyc/events/270023749/",
-            "description": "Join IBM Developer for a hands-on workshop where you will create REST APIs for CRUD operations using IBM API Connect.",
-            "organizer": "IBM Developer New York",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Swift on lambda",
-            "eventlocation": "Online",
-            "starttime": 1595458800,
-            "endtime": 1595462400,
-            "link": "https://www.meetup.com/AWSUserGroupDominicana/events/271978114/",
-            "description": "Nicki Stone will walk us thru how to leverage Swift's advantages on AWS Lambda",
-            "organizer": "AWS Dominicana",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Quarkus dan Serverless Untuk Developer Java",
-            "eventlocation": "Online",
-            "starttime": 1595473200,
-            "endtime": 1595476800,
-            "link": "https://www.meetup.com/Red-Hat-Indonesia/events/271662740/",
-            "description": "Aplikasi monolitik selama ini telah menjadi standar de facto sampai munculnya arsitektur modern terbaru seperti microservices (termasuk microservices reaktif dan arsitektur event-driven) dan serverles",
-            "organizer": "Red Hat Indonesia Meetup Group",
-            "eventlanguage": "Indonesian"
-        },
-        {
-            "event": "ServerlessDays Virtual",
-            "eventlocation": "Online",
-            "starttime": 1595890800,
-            "endtime": 1595912400,
-            "link": "https://virtual.serverlessdays.io",
-            "description": "Second edition of ServerlessDays Virtual with a busload of great speakers and talks.",
-            "organizer": "ServerlessDays Virtual",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Orchestrating Distributed Business Workflows with AWS Step Functions",
-            "eventlocation": "Online",
-            "starttime": 1596038400,
-            "endtime": 1596042000,
-            "link": "https://pages.awscloud.com/AWS-Online-Tech-Talks_July-2020.html?webinar=2020_0722-SRV&category=SRV",
-            "description": "In this session, Rob Sutter will cover what’s new with Step Functions in 2020 and highlight the key patterns for building distributed business workflows to handle scale and workflow sophistication. ",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Tales in Tech: Yan Cui",
-            "eventlocation": "Online",
-            "starttime": 1596128400,
-            "endtime": 1596133800,
-            "link": "https://us02web.zoom.us/webinar/register/WN_PW2h1abESICdT_wz-dprmg",
-            "description": "Yan Cui, AWS Serverless Hero, will talk about why Serverless is a super-power for FrontEnd focused teams.",
-            "organizer": "Burns Sheehan",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "/serverless/NIGHTS AKL #30: Firecracker and Webslice",
-            "eventlocation": "Auckland, New Zealand",
-            "starttime": 1596520800,
-            "endtime": 1596528000,
-            "link": "https://www.meetup.com/Serverless-Auckland/events/271665962/",
-            "description": "For our next and in-person meetup, we are having not only one but two exciting serverless talks - Firecracker and Webslice",
-            "organizer": "Serverless Auckland",
-            "eventlanguage": "English"
+            "starttime": 1597161600,
+            "endtime": 1597163400,
+            "link": "https://nimbella.com/webinars/stateful-serverless-for-the-enterprise/",
+            "description": "Join Andy Thurai (Emerging Tech Strategist) and Anshu Agarwal (CEO of Nimbella) on August 11th, 9 am PDT as they provide their insights on Stateful Serverless for the Enterprise.",
+            "organizer": "Nimbella",
+            "eventlanguage": "English "
         },
         {
             "event": "Chaos engineering for serverless in Azure",
@@ -162,6 +32,27 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Webinar: Debugging AWS Lambda Timeouts",
+            "eventlocation": "Online",
+            "starttime": 1597856400,
+            "endtime": 1597860000,
+            "link": "https://info.lumigo.io/webinar-debugging-aws-lambda-timeouts",
+            "description": "In this webinar, we will show you how to identity and debug timeout errors, and strategies for mitigating timeouts and degraded performance more gracefully when there are underlying issues.",
+            "organizer": "Lumigo",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "COURSE: Production Ready Serverless taught by Yan Cui, €880",
+            "eventlocation": "Online",
+            "starttime": 1598914800,
+            "endtime": 1601335800,
+            "paidevent": true,
+            "link": "https://homeschool.dev/class/production-ready-serverless/",
+            "description": "Start with an intro to Lambda, moving onto API security, testing strategies, CI/CD, secret management, and operational best practices for monitoring & troubleshooting.",
+            "organizer": "Homeschool from Senzo",
+            "eventlanguage": "English"
+        },
+        {
             "event": "ServerlessDays Warsaw",
             "eventlocation": "Online",
             "starttime": 1599116400,
@@ -179,6 +70,27 @@
             "link": "https://anz.serverlessdays.io/",
             "description": "We are combining the 2020 ANZ serverless community events under the ServerlessDays ANZ banner and host speakers from the Serverless community right around the world. ",
             "organizer": "ServerlessDays Sydney, Melbourne, Perth and Auckland",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "COURSE: Advanced React taught by Simona Cotin & Artur Daschevici, €440",
+            "eventlocation": "Online",
+            "starttime": 1599346800,
+            "endtime": 1601767800,
+            "paidevent": true,
+            "link": "https://homeschool.dev/class/advanced-react/",
+            "description": "This course gives a good basis for building a React Application with an associated design system. At the end you will have a highly reusable boilerplate for building a scalable component ecosystem.",
+            "organizer": "Homeschool from Senzo",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Webinar: Debugging Slow Lambda Response Times",
+            "eventlocation": "Online",
+            "starttime": 1599584400,
+            "endtime": 1599588000,
+            "link": "https://info.lumigo.io/webinar-debugging-slow-lambda-response-times",
+            "description": "In this webinar, we will show you how to quickly identify and debug latency problems due to 3rd-party services, and some best practices for dealing with poor performing 3rd party services.",
+            "organizer": "Lumigo",
             "eventlanguage": "English"
         },
         {
