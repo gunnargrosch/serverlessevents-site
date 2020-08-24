@@ -151,7 +151,7 @@ class AddEventForm extends Component {
                 </div>
                 <div className="field">
                     <label htmlFor="description">Description</label>
-                    <textarea name="description" id="description" rows="2" maxlength="200" required onChange={this.handleFields} value={this.state.description} ></textarea>
+                    <textarea name="description" id="description" rows="2" maxlength="400" required onChange={this.handleFields} value={this.state.description} ></textarea>
                 </div>
                 <div className="field half first">
                     <label htmlFor="eventlanguage">Language</label>
