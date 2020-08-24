@@ -2,43 +2,163 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Stateful Serverless for the Enterprise",
+            "event": "Serverless Workers: Building a Runtime Abstraction for AWS Lambda",
             "eventlocation": "Online",
-            "starttime": 1597161600,
-            "endtime": 1597163400,
-            "link": "https://nimbella.com/webinars/stateful-serverless-for-the-enterprise/",
-            "description": "Join Andy Thurai (Emerging Tech Strategist) and Anshu Agarwal (CEO of Nimbella) on August 11th, 9 am PDT as they provide their insights on Stateful Serverless for the Enterprise.",
+            "starttime": 1598310000,
+            "endtime": 1598317200,
+            "link": "https://www.meetup.com/ServerlessPHL/events/272355091/",
+            "description": "Jacob Griswold-Moran (Tech Lead @ HealthVerity), speaks about his experience writing a runtime abstraction for Lambda functions that enables worry-free compatibility with multiple AWS event sources, as well as some of the successes and pain points in developing and maintaining the resulting library.",
+            "organizer": "Serverless PHL",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Prototipado rápido con AWS Amplify",
+            "eventlocation": "Online",
+            "starttime": 1598313600,
+            "endtime": 1598320800,
+            "link": "https://www.meetup.com/Amazon-Web-Services-Mexico/events/272344548/",
+            "description": "En este meetup, Nader Dabit hablará sobre algunas de las herramientas disponibles en la actualidad que ha construido y desarrollado con su equipo en AWS, y nos demostrará en una sesión de codificación en vivo, cómo construir una aplicación de streaming de pila completa.",
+            "organizer": "AWS User Group Ciudad de México",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "3 hours of Serverless",
+            "eventlocation": "Online",
+            "starttime": 1598364000,
+            "endtime": 1598376600,
+            "link": "https://bit.ly/325aN29",
+            "description": "Come watch 5 of the top cloud experts talk about the future of Serverless. Featuring Jeremy Daly, Rodric Rabbah, Rob Allen, Srushith Repakula, and Arjun Guha.",
             "organizer": "Nimbella",
             "eventlanguage": "English "
         },
         {
-            "event": "Chaos engineering for serverless in Azure",
+            "event": "Real-Time Serverless Apps with .NET, Azure Functions and Azure SignalR",
             "eventlocation": "Online",
-            "starttime": 1597330800,
-            "endtime": 1597334400,
-            "link": "https://www.meetup.com/Stockholm-Azure-Meetup/events/271969758/",
-            "description": "Gunnar Grosch will cover the motivations behind chaos engineering, how we perform chaos experiments, common weaknesses we can test for in our serverless applications and run some demos in Azure!",
-            "organizer": "Stockholm Azure Meetup",
+            "starttime": 1598371200,
+            "endtime": 1598378400,
+            "link": "https://www.meetup.com/dotnet-austria/events/272098453/",
+            "description": "In this talk, long-time MVP and MS Regional Director Rainer Stropek demonstrates the combination of Azure SignalR with Azure Functions based on an end-to-end sample. Be prepared for a session with no slides, just coding.",
+            "organizer": ".NET Community Austria",
             "eventlanguage": "English"
         },
         {
-            "event": "Building Reliable Serverless Applications",
+            "event": "AWS Lambda and Serverless framework",
             "eventlocation": "Online",
-            "starttime": 1597521600,
-            "endtime": 1597527000,
-            "link": "https://www.meetup.com/awsperu/events/271920667/",
-            "description": "In this session Gunnar Grosch will dive head first into the world of robustness, reliability and resilience to examine some of the patterns and practices we use to build serverless applications.",
-            "organizer": "AWS User Group Peru",
+            "starttime": 1598392800,
+            "endtime": 1598403600,
+            "link": "https://www.meetup.com/boston-java/events/272553764/",
+            "description": "In this talk, we will explore the AWS Serverless framework. Serverless architecture is a way to build and run applications and services without having to manage infrastructure. You’ll learn Serverless Computing from beginning to end. We will take a deep dive into best practices, core features, and advanced features including step functions.",
+            "organizer": "The Boston Java Meetup Group",
             "eventlanguage": "English"
         },
         {
-            "event": "Webinar: Debugging AWS Lambda Timeouts",
+            "event": "Apps Serverless y alternativas en Azure",
             "eventlocation": "Online",
-            "starttime": 1597856400,
-            "endtime": 1597860000,
-            "link": "https://info.lumigo.io/webinar-debugging-aws-lambda-timeouts",
-            "description": "In this webinar, we will show you how to identity and debug timeout errors, and strategies for mitigating timeouts and degraded performance more gracefully when there are underlying issues.",
-            "organizer": "Lumigo",
+            "starttime": 1598396400,
+            "endtime": 1598401800,
+            "link": "https://www.meetup.com/NET-Chile/events/272309504/",
+            "description": "En esta serie de Meetups estaremos enfocados en el diseño y desarrollo de soluciones Serverless utilizando el ecositema de .NET y Azure para crear aplicaciones basadas en eventos, altamente performantes, autoescalables y distribuidas.",
+            "organizer": ".NET Chile",
+            "eventlanguage": "Spanish"
+        },
+        {
+            "event": "Taking Serverless to the next level",
+            "eventlocation": "Online",
+            "starttime": 1598450400,
+            "endtime": 1598457600,
+            "link": "https://www.meetup.com/AWS-Global/events/272169120/",
+            "description": "Moving to serverless brings more benefits if you can optimize the way you work. In this session, I share best practices on different areas, from infrastructure management to deployments, distributed architectures and the role of teams, focusing on people and processes that are at the core of software development.",
+            "organizer": "AWS Global Virtual User Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Going Serverless with Java - Real life learnings",
+            "eventlocation": "Online",
+            "starttime": 1598457600,
+            "endtime": 1598461200,
+            "link": "https://www.meetup.com/Cape-Town-Java-Meetup/events/272504403/",
+            "description": "In this talk I want to take you through what we learned. We will see how to get going, how to think about designing your services (hint: DDD), which AWS services to consider, how to deploy, test, monitor & debug it. And then of course all the interesting tips and tricks you don’t find in the documentation, like how to define your API using Swagger, how to keep secrets safe, ...",
+            "organizer": "Cape Town Java Community (CTJC)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Developing scalable enterprise serverless applications on Azure with .NET",
+            "eventlocation": "Online",
+            "starttime": 1598457600,
+            "endtime": 1598464800,
+            "link": "https://www.meetup.com/metrotorontoug/events/271973440/",
+            "description": "In this session, Callon will talk about developing scalable enterprise serverless applications on Azure with .NET and use a real world example of a solution he developed and running in production.",
+            "organizer": "Metro Toronto .NET User Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless Hotdog Detection - JavaScript Meetup",
+            "eventlocation": "Online",
+            "starttime": 1598486400,
+            "endtime": 1598493600,
+            "link": "https://www.meetup.com/coloradospringsjs/events/jbpblpybclbjc/",
+            "description": "A scrumptious crash-course through Amazon Web Services and the Serverless Framework!",
+            "organizer": "coloradoSprings.js (JavaScript User Group)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless GraphQL Authentication + Authorization using Dgraph & Auth0",
+            "eventlocation": "Online",
+            "starttime": 1598518800,
+            "endtime": 1598521500,
+            "link": "https://www.meetup.com/Hacking-GraphQL/events/272716705/",
+            "description": "If you are interested in learning more about Dgraph's GraphQL authorization, integration with Auth0, or want to implement a completely serverless authentication + authorizaton combo, then this talk is for you.",
+            "organizer": "Hacking GraphQL",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Stateful Function-as-a-Service",
+            "eventlocation": "Online",
+            "starttime": 1598547600,
+            "endtime": 1598554800,
+            "link": "https://www.meetup.com/Data-Engineering-NL/events/272424099/",
+            "description": "Asterios will start the evening with an introduction to the topic explaining the rise, current state (...) and challenges of the Function-as-a-Service (FaaS) programming paradigm. Following that, Viktor and Stephan will introduce their respective approaches to solving these challenges. ",
+            "organizer": "Data Engineering NL",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless Applications on AWS",
+            "eventlocation": "Online",
+            "starttime": 1598567400,
+            "endtime": 1598574600,
+            "link": "https://www.meetup.com/Edison-Amazon-Web-Services-Meetup-Group/events/271632818/",
+            "description": "Come learn about building serverless applications on AWS. AWS Lambda, Amazon API Gateway and other AWS Serverless Services will be covered. End to end - App Demo (Using C#).",
+            "organizer": "All things AWS - Meetup Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Webinar: Going Serverless",
+            "eventlocation": "Online",
+            "starttime": 1598675400,
+            "endtime": 1598684400,
+            "link": "https://www.meetup.com/TechnoWise/events/272270518/",
+            "description": "Over the last couple of years, with the rapid rise of microservices, serverless architecture has started gaining immense popularity.\nThe Serverless framework helps software systems achieve high scalability and high availability; which are *must have* qualities for any software system these days.",
+            "organizer": "TechnoWise",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "25% de desconto: Serverless + Azure Functions na Prática #3",
+            "eventlocation": "Online",
+            "starttime": 1598698800,
+            "endtime": 1598734800,
+            "link": "https://www.meetup.com/dotnet-Sao-Paulo/events/272532050/",
+            "description": "A adoção de arquiteturas serverless vem ganhando cada vez mais força em projetos de software nos mais variados cenários, com o baixo custo de alternativas como Azure Functions favorecendo em muito esta prática. A possibilidade de se preocupar menos com questões de infraestrutura e mais na entrega de soluções também constitui um fator importante e que merece ser destacado em tais casos.",
+            "organizer": ".NET São Paulo",
+            "eventlanguage": "Portuguese"
+        },
+        {
+            "event": "Serverless War Stories: Running a ticketing platform for less than $2 a month",
+            "eventlocation": "Online",
+            "starttime": 1598707800,
+            "endtime": 1598713200,
+            "link": "https://www.meetup.com/Ahmedabad-Serverless-Computing-Meetup/events/272486924/",
+            "description": "Running a ticketing platform comes with its own challenges, going serverless sometimes increases it. All the way from choosing the programming language to considering the cold starts, things become a little complicated. This talk will cover a wide range of topics covering the various architectural design decisions, trade offs, pros, and cons.",
+            "organizer": "Serverless Ahmedabad",
             "eventlanguage": "English"
         },
         {
@@ -91,6 +211,16 @@
             "link": "https://info.lumigo.io/webinar-debugging-slow-lambda-response-times",
             "description": "In this webinar, we will show you how to quickly identify and debug latency problems due to 3rd-party services, and some best practices for dealing with poor performing 3rd party services.",
             "organizer": "Lumigo",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "CDK Day",
+            "eventlocation": "Online",
+            "starttime": 1601470800,
+            "endtime": 1601488800,
+            "link": "https://cdkday.com",
+            "description": "More than a year has passed since AWS CDK went GA and it has grown into a family of products (AWS CDK, CDKTF, CDK8s). Let’s take one day and talk Serverless and multi cloud all in CDK",
+            "organizer": "Community Group",
             "eventlanguage": "English"
         },
         {
