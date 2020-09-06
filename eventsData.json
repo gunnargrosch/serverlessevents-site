@@ -2,26 +2,6 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Azure Durable Functions",
-            "eventlocation": "Online",
-            "starttime": 1598884200,
-            "endtime": 1598887800,
-            "link": "https://www.meetup.com/XMonkeys360/events/272774612/",
-            "description": "Durable Functions helps to write stateful functions in a serverless environment. It defines stateful workflows by writing orchestrator functions and stateful entities by writing entity functions. It manages state and thus allowing the programmers to focus on the business logic. In this session, we will see the patterns of Azure Durable Functions and an implementation of it.",
-            "organizer": "XMonkeys360",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless powered web forms with Slack",
-            "eventlocation": "Online",
-            "starttime": 1598891400,
-            "endtime": 1598893200,
-            "link": "https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/272662561/",
-            "description": "Join us for the event on Serverless with Slack. The new aspects of the technology with introduction and advanced topics. Try serverless from your browser during this workshop. Build your first Serverless Backend as a Service with Slack.",
-            "organizer": "IBM Developer SF Bay Area",
-            "eventlanguage": "English"
-        },
-        {
             "event": "COURSE: Production Ready Serverless taught by Yan Cui, €880",
             "eventlocation": "Online",
             "starttime": 1598914800,
@@ -30,126 +10,6 @@
             "link": "https://homeschool.dev/class/production-ready-serverless/",
             "description": "Start with an intro to Lambda, moving onto API security, testing strategies, CI/CD, secret management, and operational best practices for monitoring & troubleshooting.",
             "organizer": "Homeschool from Senzo",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Build your 1st Twitter Bot with Azure Serverless & Github actions",
-            "eventlocation": "Online",
-            "starttime": 1598950800,
-            "endtime": 1598954400,
-            "link": "https://www.meetup.com/Microsoft-Reactor-London/events/271982610/",
-            "description": "In this session you will learn how to use Logic Apps and Github actions to automate the boring bits of writing a Twitter bot. (No, not DevOps). It's a session on how to build a quick, lightweight, low cost solution.",
-            "organizer": "Microsoft Reactor London",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "ServerlessDays Hamburg Online Meetup",
-            "eventlocation": "Online",
-            "starttime": 1598976000,
-            "endtime": 1598983200,
-            "link": "https://www.meetup.com/Serverless-Hamburg/events/272807188/",
-            "description": "In this session, we will look at some of the most popular deployment frameworks to AWS and focus especially on CDK. We will explain the theory of how CDK works and show in a few demo's how container, serverless solutions but also many other solutions can be deployed easily.",
-            "organizer": "Serverless Hamburg",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Meetup talk about CDK for Serverless",
-            "eventlocation": "Online",
-            "starttime": 1598976000,
-            "endtime": 1598983200,
-            "link": "https://www.meetup.com/Serverless-Hamburg/events/272807188/",
-            "description": "Join us at the ServerlessDays Hamburg Meetup! For this edition, Marek Kuczynski from AWS will talk about the CDK and how it can be used to build serverless apps. ",
-            "organizer": "ServerlessDays Hamburg",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless Framework: Deploying Step Functions, Lambdas, and more on AWS",
-            "eventlocation": "Online",
-            "starttime": 1599001200,
-            "endtime": 1599008400,
-            "link": "https://www.meetup.com/Lansing-DevOps-Meetup/events/272176938/",
-            "description": "Serverless computing is all the rage right now, but it can be hard to find practical use cases to help you take advantage of the potential cost savings and/or mass scaling capabilities it can enable. Russ VanderMey will walk us through some of the ins and outs of the Serverless Framework to show how to leverage it to our advantage in AWS.",
-            "organizer": "Lansing DevOps Meetup",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless: Past, Present and Future",
-            "eventlocation": "Online",
-            "starttime": 1599033600,
-            "endtime": 1599037200,
-            "link": "https://www.meetup.com/WeAreDevelopers-Community/events/272796234/",
-            "description": "In this session, you will be introduced to the history and future of serverless. We will talk about the types of serverless technologies that are available and implement a simple example application. From there we will see what types of problems you might encounter while developing serverless applications. Lastly, we will discuss the future of serverless.",
-            "organizer": "WeAreDevelopers Community",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless First",
-            "eventlocation": "Online",
-            "starttime": 1599069600,
-            "endtime": 1599076800,
-            "link": "https://www.meetup.com/newry-digital/events/272140985/",
-            "description": "Newry Digital are delighted to have Dave Anderson join us to chat about a Serverless first approach. Dave Anderson, director of technology from Liberty IT, will describe a Serverless First approach for writing software. What are the building blocks you and your team need, how to get started and some gotchas to watch out for.",
-            "organizer": "Newry Digital",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS Lambda and Serverless framework Part Two",
-            "eventlocation": "Online",
-            "starttime": 1599084000,
-            "endtime": 1599094800,
-            "link": "https://www.meetup.com/boston-java/events/272811015/",
-            "description": "Modern applications are all built using Serverless Computing. Serverless is one of the top-paying cloud skills. In this talk, we will explore the AWS Serverless framework. Serverless architecture is a way to build and run applications and services without having to manage infrastructure.\nYou’ll learn Serverless Computing from beginning to end.",
-            "organizer": "The Boston Java Meetup Group",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "ServerlessDays Warsaw",
-            "eventlocation": "Online",
-            "starttime": 1599116400,
-            "endtime": 1599145200,
-            "link": "https://warsaw.serverlessdays.io/",
-            "description": "ServerlessDays Warsaw is a 1-day conference about Serverless technologies with a full day of talks.",
-            "organizer": "ServerlessDays Warsaw",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless NYC @ Microsoft",
-            "eventlocation": "Online",
-            "starttime": 1599152400,
-            "endtime": 1599157800,
-            "link": "https://www.meetup.com/Serverless-NYC/events/268966360/",
-            "description": "You want to build great cloud-native applications. You don’t want to bother with cumbersome server infrastructure. Microsoft Azure offers a host of serverless choices, but where to start? In this session, we will explore the “bread and butter” serverless offerings that form the building blocks of most applications. ",
-            "organizer": "Serverless NYC",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "ServerlessDays ANZ",
-            "eventlocation": "Online",
-            "starttime": 1599170400,
-            "endtime": 1599192000,
-            "link": "https://anz.serverlessdays.io/",
-            "description": "We are combining the 2020 ANZ serverless community events under the ServerlessDays ANZ banner and host speakers from the Serverless community right around the world. ",
-            "organizer": "ServerlessDays Sydney, Melbourne, Perth and Auckland",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS Serverless Workshop",
-            "eventlocation": "Online",
-            "starttime": 1599294600,
-            "endtime": 1599309000,
-            "link": "https://www.meetup.com/Serverless-Bangalore/events/272100876/",
-            "description": "Get hands-on experience with AWS and serverless applications in this workshop. You'll deploy a simple web application that enables users to vote for their favorite options for a set of questions. It also provides the capability to create their own custom polls. With the knowledge from the workshop, you can build and deploy your own serverless applications.",
-            "organizer": "Serverless Group",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Build HTTP-based API endpoints using Azure Functions",
-            "eventlocation": "Online",
-            "starttime": 1599328800,
-            "endtime": 1599336000,
-            "link": "https://www.meetup.com/Azure-Data-Platform/events/272361282/",
-            "description": "Topics that will be covered during this session: A robust developer experience, A wide range of triggering options, An innovative way of accessing and processing data, “Serverless” execution model, Open source runtime that runs anywhere, Other benefits, Demo",
-            "organizer": "Azure Data Platform",
             "eventlanguage": "English"
         },
         {
@@ -164,16 +24,6 @@
             "eventlanguage": "English"
         },
         {
-            "event": "Webinar: Serverless Python Apps with AWS Chalice",
-            "eventlocation": "Online",
-            "starttime": 1599346800,
-            "endtime": 1599350400,
-            "link": "https://www.meetup.com/AWSUserGroupDominicana/events/272153196/",
-            "description": "Acompañanos este sábado 22 de agosto a las 07:00 pm en nuestro webinar de Serverless Python Apps with AWS Chalice, el mismo será impartido por nuestro amigo y Founder CEO de Marcos Organizador de Negocios, Eneldo Serrata.",
-            "organizer": "AWS User Group Dominicana",
-            "eventlanguage": "Spanish"
-        },
-        {
             "event": "Webinar: Debugging Slow Lambda Response Times",
             "eventlocation": "Online",
             "starttime": 1599584400,
@@ -182,6 +32,36 @@
             "description": "In this webinar, we will show you how to quickly identify and debug latency problems due to 3rd-party services, and some best practices for dealing with poor performing 3rd party services.",
             "organizer": "Lumigo",
             "eventlanguage": "English"
+        },
+        {
+            "event": "OpenWhisk with Nimbella and Serverless Swift  ",
+            "eventlocation": "Online",
+            "starttime": 1599669000,
+            "endtime": 1599672600,
+            "link": "https://nimbella.com/webinars/openwhisk-with-nimbella-and-serverless-swift",
+            "description": "So you’ve been hearing a lot of buzz about Serverless tech, but what exactly is the serverless or cloud functions? Come to our meetup and find out about solutions from IBM and Nimbella realized with Apache OpenWhisk.",
+            "organizer": "IBM",
+            "eventlanguage": "English "
+        },
+        {
+            "event": "Refactoring a distributed monolith to AWS micro services",
+            "eventlocation": "Online",
+            "starttime": 1600097400,
+            "endtime": 1600102800,
+            "link": "https://www.meetup.com/NW-Atlanta-Amazon-Web-Services-Meetup/events/csxrmrybcmbnb",
+            "description": "Presented by Rehan van der Merwe -- AWS junkie, AWS SA, and AWS HERO.\nThis presentation shows the thought process and steps involved in refactoring a distributed monolith to microservices. We are going to remove API Gateway, use Amazon Event Bridge, and implement BASE consistency in the system to truly decouple the microservices.",
+            "organizer": "Carel Bekker",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Nimbella and Postman: From APIs to Serverless Cloud Applications in Minutes",
+            "eventlocation": "Online",
+            "starttime": 1600876800,
+            "endtime": 1600880400,
+            "link": "https://nimbella.com/webinars/nimbella-and-postman-from-apis-to-serverless-cloud-applications-in-minutes",
+            "description": "APIs are at the heart of all modern-day applications. With Postman, developers can design and test their APIs, and generate mock servers to facilitate the development of cloud and mobile applications. Today, we're taking the Postman developer journey to the next level, with Nimbella.",
+            "organizer": "Postman ",
+            "eventlanguage": "English "
         },
         {
             "event": "CDK Day",
@@ -201,6 +81,26 @@
             "link": "https://hamburg.serverlessdays.io",
             "description": "ServerlessDays Hamburg is a 2-day conference about Serverless technologies with one day of workshops and one day with talks.",
             "organizer": "Superluminar",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "ServerlessDays Amsterdam ONLINE meetup - October 2020",
+            "eventlocation": "Online",
+            "starttime": 1602086400,
+            "endtime": 1602097200,
+            "link": "https://www.meetup.com/ServerlessDays-Amsterdam/events/272523665",
+            "description": "Join us for our online edition of the ServerlessDays Amsterdam meetup, planned for October. We'll do a live stream with 2 public talks + QA session, featuring 2 amazing guest speakers: Natalia Pipas (Data Engineer at VONQ) & Zamira Jaupaj (Solution Architect at Mobiquity).",
+            "organizer": "ServerlessDays Amsterdam",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "ServerlessDays Amsterdam ONLINE meetup - October 2020",
+            "eventlocation": "Online",
+            "starttime": 1602087300,
+            "endtime": 1602095400,
+            "link": "https://www.meetup.com/ServerlessDays-Amsterdam/events/272523665/",
+            "description": "Join us for our online edition for the ServerlessDays Amsterdam meetup, planned for October! We'll do a live stream which consists of sessions and a live Q&A session with the speakers.",
+            "organizer": "ServerlessDays Amsterdam",
             "eventlanguage": "English"
         },
         {
