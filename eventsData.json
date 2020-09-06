@@ -98,7 +98,7 @@
             "starttime": 1599705000,
             "endtime": 1599710400,
             "link": "https://www.meetup.com/Google-Cloud-Group-Vietnam/events/272948670/",
-            "description": "Mở đầu cho Webinar tháng 09 lần này của Cloud Ace thì bộ đôi: 𝐂𝐈 (𝐂𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧) và 𝐂𝐃 (𝐂𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲) sẽ được \"trình làng\". Bạn sẽ cập nhật được xu hướng áp dũng hệ thống Severless cùng việc làm thế nào để triển khai CI/CD với Cloud Build.",
+            "description": "Mở đầu cho Webinar tháng 09 lần này của Cloud Ace thì bộ đôi: CI (Continuous Integration) và CD (Continuous Delivery) sẽ được \"trình làng\". Bạn sẽ cập nhật được xu hướng áp dũng hệ thống Severless cùng việc làm thế nào để triển khai CI/CD với Cloud Build.",
             "organizer": "Google Cloud Group Việt Nam",
             "eventlanguage": "Vietnamese"
         },
@@ -143,6 +143,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Mastering the AWS Serverless Application Model (AWS SAM)",
+            "eventlocation": "Online",
+            "starttime": 1600718400,
+            "endtime": 1600722000,
+            "link": "https://pages.awscloud.com/AWS-Online-Tech-Talks_September-2020.html?webinar=2020_0903-SRV",
+            "description": "The AWS Serverless Application Model (AWS SAM) is an open-source framework for building serverless applications, and in this tech talk you’ll learn how to use SAM templates to manage serverless infrastructure as code. From serverless specific resources to pseudo parameters, you’ll learn how to construct highly flexible and re-usable SAM templates to manage your serverless application.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Nimbella and Postman: From APIs to Serverless Cloud Applications in Minutes",
             "eventlocation": "Online",
             "starttime": 1600876800,
@@ -151,6 +161,26 @@
             "description": "APIs are at the heart of all modern-day applications. With Postman, developers can design and test their APIs, and generate mock servers to facilitate the development of cloud and mobile applications. Today, we're taking the Postman developer journey to the next level, with Nimbella.",
             "organizer": "Postman ",
             "eventlanguage": "English "
+        },
+        {
+            "event": "Build Modern Serverless Applications with GraphQL APIs and AWS AppSync",
+            "eventlocation": "Online",
+            "starttime": 1601323200,
+            "endtime": 1601326800,
+            "link": "https://pages.awscloud.com/AWS-Online-Tech-Talks_September-2020.html?webinar=2020_0918-MBL",
+            "description": "In this tech talk, join AppSync’s Product Manager Ed Lima to learn use cases and how customers are using AppSync as well as how AppSync powers AWS Amplify features. Features highlighted will be Amplify DataStore offline capabilities with built-in versioning, conflict detection and resolution as well as Amplify Predictions where you can interact with multiple AI/ML services.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Networking Best Practices for Your Serverless Applications",
+            "eventlocation": "Online",
+            "starttime": 1601402400,
+            "endtime": 1601406000,
+            "link": "https://pages.awscloud.com/AWS-Online-Tech-Talks_September-2020.html?webinar=2020_0920-SRV",
+            "description": "How should you configure your subnets, route tables, and other networking aspects to best support your application’s needs? In this tech talk we'll cover best practices for security, high availability, and cost. We'll also review service endpoints, cross account access, and provide insight on how to minimize the configuration overhead of a large virtual private network.",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
         },
         {
             "event": "CDK Day",
