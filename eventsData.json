@@ -13,17 +13,6 @@
             "eventlanguage": "English"
         },
         {
-            "event": "COURSE: Advanced React taught by Simona Cotin & Artur Daschevici, €440",
-            "eventlocation": "Online",
-            "starttime": 1599346800,
-            "endtime": 1601767800,
-            "paidevent": true,
-            "link": "https://homeschool.dev/class/advanced-react/",
-            "description": "This course gives a good basis for building a React Application with an associated design system. At the end you will have a highly reusable boilerplate for building a scalable component ecosystem.",
-            "organizer": "Homeschool from Senzo",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Webinar: Debugging Slow Lambda Response Times",
             "eventlocation": "Online",
             "starttime": 1599584400,
@@ -90,16 +79,6 @@
             "endtime": 1602097200,
             "link": "https://www.meetup.com/ServerlessDays-Amsterdam/events/272523665",
             "description": "Join us for our online edition of the ServerlessDays Amsterdam meetup, planned for October. We'll do a live stream with 2 public talks + QA session, featuring 2 amazing guest speakers: Natalia Pipas (Data Engineer at VONQ) & Zamira Jaupaj (Solution Architect at Mobiquity).",
-            "organizer": "ServerlessDays Amsterdam",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "ServerlessDays Amsterdam ONLINE meetup - October 2020",
-            "eventlocation": "Online",
-            "starttime": 1602087300,
-            "endtime": 1602095400,
-            "link": "https://www.meetup.com/ServerlessDays-Amsterdam/events/272523665/",
-            "description": "Join us for our online edition for the ServerlessDays Amsterdam meetup, planned for October! We'll do a live stream which consists of sessions and a live Q&A session with the speakers.",
             "organizer": "ServerlessDays Amsterdam",
             "eventlanguage": "English"
         },
