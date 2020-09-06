@@ -13,6 +13,26 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Introducción a Azure Static Web Apps",
+            "eventlocation": "Online",
+            "starttime": 1599523200,
+            "endtime": 1599530400,
+            "link": "https://www.meetup.com/JAMstack-Medellin/events/272448419/",
+            "description": "Microsoft se suma a la ola del Jamstack y los sitios de contenido estático y presenta Azure Static Web Apps: Un servicio para web apps modernas que nos ofrece alojamiento web, compilación y despliegue automático desde GitHub y serverless applications utilizando Azure Functions.",
+            "organizer": "Jamstack Medellín",
+            "eventlanguage": "Spanish"
+        },
+        {
+            "event": "UK GCS Connect: Serverless Webinar",
+            "eventlocation": "Online",
+            "starttime": 1599562800,
+            "endtime": 1599568200,
+            "link": "https://www.meetup.com/UK-GCS-Connect-Serverless/events/272353384/",
+            "description": "Serverless infrastructure is changing the way how applications are architected and coded. However this comes with many hidden pitfall. In this talk you will learn more about those challenges and about Webiny, an open-source framework for building full-stack serverless applications.",
+            "organizer": "UK GCS Connect: Serverless",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Webinar: Debugging Slow Lambda Response Times",
             "eventlocation": "Online",
             "starttime": 1599584400,
@@ -20,6 +40,36 @@
             "link": "https://info.lumigo.io/webinar-debugging-slow-lambda-response-times",
             "description": "In this webinar, we will show you how to quickly identify and debug latency problems due to 3rd-party services, and some best practices for dealing with poor performing 3rd party services.",
             "organizer": "Lumigo",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Makeover your old web sites with Azure Static Web Apps with Linda Nichols",
+            "eventlocation": "Online",
+            "starttime": 1599602400,
+            "endtime": 1599609600,
+            "link": "https://www.meetup.com/Hampton-Roads-NET-Users-Group/events/272759218/",
+            "description": "Makeover your old web sites with Azure Static Web Apps With Linda Nichols: Do you have some older web sites just sitting in your Github account and deployed to various PaaS providers? Have you delayed modernizing these applications because it's just too much hassle?",
+            "organizer": "Hampton Roads .NET Users Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Azure Functions, GitHub Actions and Serverless CI/CD",
+            "eventlocation": "Online",
+            "starttime": 1599615000,
+            "endtime": 1599620400,
+            "link": "https://www.meetup.com/LADOTNET/events/fgcncqybcqbkb/",
+            "description": "In this presentation, we'll take a look at Azure Functions and serverless technologies. We'll see how you can easily build a scalable solution in variety of languages and set up a build pipeline using GitHub Actions.We'll also examine best practices for building distributed applications using Azure Functions and associated technologies.",
+            "organizer": "Los Angeles .NET Developers Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Lunch n Learn - What is Serverless?",
+            "eventlocation": "Online",
+            "starttime": 1599645600,
+            "endtime": 1599649200,
+            "link": "https://www.meetup.com/ovik-dev/events/272841586/",
+            "description": "Welcome to this online lunch and learn where we dive into what Serverless is and how you can use it to build scalable and cost effective infrastructure.",
+            "organizer": "Örnsköldsvik Developer Meetup",
             "eventlanguage": "English"
         },
         {
@@ -31,6 +81,56 @@
             "description": "So you’ve been hearing a lot of buzz about Serverless tech, but what exactly is the serverless or cloud functions? Come to our meetup and find out about solutions from IBM and Nimbella realized with Apache OpenWhisk.",
             "organizer": "IBM",
             "eventlanguage": "English "
+        },
+        {
+            "event": "Serverless Cloud Integrations",
+            "eventlocation": "Online",
+            "starttime": 1599692400,
+            "endtime": 1599696000,
+            "link": "https://www.meetup.com/All-Things-Integration-Seattle/events/272729263/",
+            "description": "In this webinar hosted by Big Compass, you will find out if the benefits and use cases of serverless integrations are right for your use cases. We will also explore a typical integration system set up using serverless AWS services such as Lambda, S3, and API Gateway, and dissect how each part of the system is set up under integration best practices and “gotcha” mitigation techniques.",
+            "organizer": "All Things Integration - Seattle",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless CI/CD pipeline with Google Cloud Build",
+            "eventlocation": "Online",
+            "starttime": 1599705000,
+            "endtime": 1599710400,
+            "link": "https://www.meetup.com/Google-Cloud-Group-Vietnam/events/272948670/",
+            "description": "Mở đầu cho Webinar tháng 09 lần này của Cloud Ace thì bộ đôi: 𝐂𝐈 (𝐂𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧) và 𝐂𝐃 (𝐂𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲) sẽ được \"trình làng\". Bạn sẽ cập nhật được xu hướng áp dũng hệ thống Severless cùng việc làm thế nào để triển khai CI/CD với Cloud Build.",
+            "organizer": "Google Cloud Group Việt Nam",
+            "eventlanguage": "Vietnamese"
+        },
+        {
+            "event": "Autenticação Serverless com Amazon Cognito",
+            "eventlocation": "Online",
+            "starttime": 1599775200,
+            "endtime": 1599782400,
+            "link": "https://www.meetup.com/AWS-GO/events/272801730/",
+            "description": "Implementar e provisionar serviços de autenticação, autorização e gerenciamento de usuários para os seus aplicativos móveis e web pode ser desafiador. Nessa apresentação vamos ver como o Amazon Cognito pode agilizar esse processo, através da arquitetura Serverless e provisionamento de infraestrutura como código utilizando o Serverless Framework.",
+            "organizer": "AWS User Group Goiânia",
+            "eventlanguage": "Portuguese"
+        },
+        {
+            "event": "Fundamentals of Azure Serverless Computing",
+            "eventlocation": "Online",
+            "starttime": 1599888600,
+            "endtime": 1599892200,
+            "link": "https://www.meetup.com/The-Tech-Compute/events/273039060/",
+            "description": "The Cloud Compute brings you free Webinar on Fundamentals of Azure Serverless Computing.",
+            "organizer": "The Cloud Compute",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Build HTTP-based API endpoints using Azure Functions",
+            "eventlocation": "Online",
+            "starttime": 1599933600,
+            "endtime": 1599940800,
+            "link": "https://www.meetup.com/Azure-Data-Platform/events/272361282/",
+            "description": "Topics that will be covered during this session: A robust developer experience, A wide range of triggering options, An innovative way of accessing and processing data, “Serverless” execution model, Open source runtime that runs anywhere, Other benefits, Demo",
+            "organizer": "Azure Data Platform",
+            "eventlanguage": "English"
         },
         {
             "event": "Refactoring a distributed monolith to AWS micro services",
