@@ -13,26 +13,6 @@
             "eventlanguage": "English"
         },
         {
-            "event": "Introducción a Azure Static Web Apps",
-            "eventlocation": "Online",
-            "starttime": 1599523200,
-            "endtime": 1599530400,
-            "link": "https://www.meetup.com/JAMstack-Medellin/events/272448419/",
-            "description": "Microsoft se suma a la ola del Jamstack y los sitios de contenido estático y presenta Azure Static Web Apps: Un servicio para web apps modernas que nos ofrece alojamiento web, compilación y despliegue automático desde GitHub y serverless applications utilizando Azure Functions.",
-            "organizer": "Jamstack Medellín",
-            "eventlanguage": "Spanish"
-        },
-        {
-            "event": "UK GCS Connect: Serverless Webinar",
-            "eventlocation": "Online",
-            "starttime": 1599562800,
-            "endtime": 1599568200,
-            "link": "https://www.meetup.com/UK-GCS-Connect-Serverless/events/272353384/",
-            "description": "Serverless infrastructure is changing the way how applications are architected and coded. However this comes with many hidden pitfall. In this talk you will learn more about those challenges and about Webiny, an open-source framework for building full-stack serverless applications.",
-            "organizer": "UK GCS Connect: Serverless",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Webinar: Debugging Slow Lambda Response Times",
             "eventlocation": "Online",
             "starttime": 1599584400,
@@ -103,6 +83,16 @@
             "eventlanguage": "Vietnamese"
         },
         {
+            "event": "Serverless Office Hours on Twitch",
+            "eventlocation": "Online",
+            "starttime": 1599739200,
+            "endtime": 1599742800,
+            "link": "https://aws-benelux-tech-office-hours.splashthat.com/",
+            "description": "Join us for the Serverless Tech Office Hours on Twitch to ask all of your serverless questions. In this edition, we will have Sara Gerion, Sohan Maheshwar and Marek Kuczynski share their experiences and answer questions from the audience. ",
+            "organizer": "AWS",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Autenticação Serverless com Amazon Cognito",
             "eventlocation": "Online",
             "starttime": 1599775200,
@@ -140,6 +130,26 @@
             "link": "https://www.meetup.com/NW-Atlanta-Amazon-Web-Services-Meetup/events/csxrmrybcmbnb",
             "description": "Presented by Rehan van der Merwe -- AWS junkie, AWS SA, and AWS HERO.\nThis presentation shows the thought process and steps involved in refactoring a distributed monolith to microservices. We are going to remove API Gateway, use Amazon Event Bridge, and implement BASE consistency in the system to truly decouple the microservices.",
             "organizer": "Carel Bekker",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless Minimalism: How to architect your apps to save 98% on your Azure bill",
+            "eventlocation": "Online",
+            "starttime": 1600108200,
+            "endtime": 1600110000,
+            "link": "http://www.integrationusergroup.com/events/how-to-architect-your-apps-to-minimize-azure-bill-serverless-minimalism/",
+            "description": "Dan Bass will join us on Integration Monday to talk about a Realworld Serverless solution. \n\nHear how we saved 98% on our Azure bill by using a Serverless architecture instead of a PaaS architecture and learn how you can do the same. Also, get to know how we surfaced resource costs to developers that enabled them to make informed decisions on what architecture to choose!",
+            "organizer": "Integration Usergroup",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Open Discussion and Support (Serverless)",
+            "eventlocation": "Online",
+            "starttime": 1600200000,
+            "endtime": 1600203600,
+            "link": "https://www.meetup.com/IndyAWS/events/272082785/",
+            "description": "This month, we will be coming together to talk about all things Serverless with some AWS Serverless Heroes. The format is open discussion, so come join Six Feet Up and your fellow Amazonians to chat about Serverless, any AWS issues you might need help on, and the latest in AWS!",
+            "organizer": "IndyAWS",
             "eventlanguage": "English"
         },
         {
@@ -190,6 +200,16 @@
             "link": "https://cdkday.com",
             "description": "More than a year has passed since AWS CDK went GA and it has grown into a family of products (AWS CDK, CDKTF, CDK8s). Let’s take one day and talk Serverless and multi cloud all in CDK",
             "organizer": "Community Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Microsoft Create:Serverless",
+            "eventlocation": "Online",
+            "starttime": 1601478000,
+            "endtime": 1601492400,
+            "link": "https://createserverless2020.splashthat.com/",
+            "description": "A one of a kind live event about all things serverless. Join us for a half day of conversations at Microsoft Create: Serverless and connect with the experts and community members to discuss how you can run code for any application without having to manage servers.",
+            "organizer": "Microsoft",
             "eventlanguage": "English"
         },
         {
