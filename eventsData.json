@@ -19,7 +19,7 @@
             "endtime": 1599742800,
             "link": "https://aws-benelux-tech-office-hours.splashthat.com/",
             "description": "Join us for the Serverless Tech Office Hours on Twitch to ask all of your serverless questions. In this edition, we will have Sara Gerion, Sohan Maheshwar and Marek Kuczynski share their experiences and answer questions from the audience. ",
-            "organizer": "AWS",
+            "organizer": "Amazon Web Services (AWS)",
             "eventlanguage": "English"
         },
         {
@@ -59,7 +59,7 @@
             "endtime": 1600102800,
             "link": "https://www.meetup.com/NW-Atlanta-Amazon-Web-Services-Meetup/events/csxrmrybcmbnb",
             "description": "Presented by Rehan van der Merwe -- AWS junkie, AWS SA, and AWS HERO.\nThis presentation shows the thought process and steps involved in refactoring a distributed monolith to microservices. We are going to remove API Gateway, use Amazon Event Bridge, and implement BASE consistency in the system to truly decouple the microservices.",
-            "organizer": "Carel Bekker",
+            "organizer": "NW Atlanta Amazon Web Services Meetup",
             "eventlanguage": "English"
         },
         {
