@@ -13,76 +13,6 @@
             "eventlanguage": "English"
         },
         {
-            "event": "Webinar: Debugging Slow Lambda Response Times",
-            "eventlocation": "Online",
-            "starttime": 1599584400,
-            "endtime": 1599588000,
-            "link": "https://info.lumigo.io/webinar-debugging-slow-lambda-response-times",
-            "description": "In this webinar, we will show you how to quickly identify and debug latency problems due to 3rd-party services, and some best practices for dealing with poor performing 3rd party services.",
-            "organizer": "Lumigo",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Makeover your old web sites with Azure Static Web Apps with Linda Nichols",
-            "eventlocation": "Online",
-            "starttime": 1599602400,
-            "endtime": 1599609600,
-            "link": "https://www.meetup.com/Hampton-Roads-NET-Users-Group/events/272759218/",
-            "description": "Makeover your old web sites with Azure Static Web Apps With Linda Nichols: Do you have some older web sites just sitting in your Github account and deployed to various PaaS providers? Have you delayed modernizing these applications because it's just too much hassle?",
-            "organizer": "Hampton Roads .NET Users Group",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Azure Functions, GitHub Actions and Serverless CI/CD",
-            "eventlocation": "Online",
-            "starttime": 1599615000,
-            "endtime": 1599620400,
-            "link": "https://www.meetup.com/LADOTNET/events/fgcncqybcqbkb/",
-            "description": "In this presentation, we'll take a look at Azure Functions and serverless technologies. We'll see how you can easily build a scalable solution in variety of languages and set up a build pipeline using GitHub Actions.We'll also examine best practices for building distributed applications using Azure Functions and associated technologies.",
-            "organizer": "Los Angeles .NET Developers Group",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Lunch n Learn - What is Serverless?",
-            "eventlocation": "Online",
-            "starttime": 1599645600,
-            "endtime": 1599649200,
-            "link": "https://www.meetup.com/ovik-dev/events/272841586/",
-            "description": "Welcome to this online lunch and learn where we dive into what Serverless is and how you can use it to build scalable and cost effective infrastructure.",
-            "organizer": "Örnsköldsvik Developer Meetup",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "OpenWhisk with Nimbella and Serverless Swift  ",
-            "eventlocation": "Online",
-            "starttime": 1599669000,
-            "endtime": 1599672600,
-            "link": "https://nimbella.com/webinars/openwhisk-with-nimbella-and-serverless-swift",
-            "description": "So you’ve been hearing a lot of buzz about Serverless tech, but what exactly is the serverless or cloud functions? Come to our meetup and find out about solutions from IBM and Nimbella realized with Apache OpenWhisk.",
-            "organizer": "IBM",
-            "eventlanguage": "English "
-        },
-        {
-            "event": "Serverless Cloud Integrations",
-            "eventlocation": "Online",
-            "starttime": 1599692400,
-            "endtime": 1599696000,
-            "link": "https://www.meetup.com/All-Things-Integration-Seattle/events/272729263/",
-            "description": "In this webinar hosted by Big Compass, you will find out if the benefits and use cases of serverless integrations are right for your use cases. We will also explore a typical integration system set up using serverless AWS services such as Lambda, S3, and API Gateway, and dissect how each part of the system is set up under integration best practices and “gotcha” mitigation techniques.",
-            "organizer": "All Things Integration - Seattle",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless CI/CD pipeline with Google Cloud Build",
-            "eventlocation": "Online",
-            "starttime": 1599705000,
-            "endtime": 1599710400,
-            "link": "https://www.meetup.com/Google-Cloud-Group-Vietnam/events/272948670/",
-            "description": "Mở đầu cho Webinar tháng 09 lần này của Cloud Ace thì bộ đôi: CI (Continuous Integration) và CD (Continuous Delivery) sẽ được \"trình làng\". Bạn sẽ cập nhật được xu hướng áp dũng hệ thống Severless cùng việc làm thế nào để triển khai CI/CD với Cloud Build.",
-            "organizer": "Google Cloud Group Việt Nam",
-            "eventlanguage": "Vietnamese"
-        },
-        {
             "event": "Serverless Office Hours on Twitch",
             "eventlocation": "Online",
             "starttime": 1599739200,
@@ -163,6 +93,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Chaos Engineering (not only) for Serverless",
+            "eventlocation": "Online",
+            "starttime": 1600794000,
+            "endtime": 1600801200,
+            "link": "https://www.meetup.com/Cape-Town-DevOps/events/273090619",
+            "description": "Chaos engineering has moved from being a buzzword to something companies are adopting to help verify the output of their systems. In this session Gunnar Grosch will cover the motivations behind chaos engineering, how we perform chaos experiments, and run some actual experiments in an environment to see how it can help us build reliable applications.",
+            "organizer": "Cape Town DevOps Meetup",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Nimbella and Postman: From APIs to Serverless Cloud Applications in Minutes",
             "eventlocation": "Online",
             "starttime": 1600876800,
@@ -171,6 +111,16 @@
             "description": "APIs are at the heart of all modern-day applications. With Postman, developers can design and test their APIs, and generate mock servers to facilitate the development of cloud and mobile applications. Today, we're taking the Postman developer journey to the next level, with Nimbella.",
             "organizer": "Postman ",
             "eventlanguage": "English "
+        },
+        {
+            "event": "WEBINAR: Advanced Serverless Debugging through Observability",
+            "eventlocation": "Online",
+            "starttime": 1600963200,
+            "endtime": 1600966800,
+            "link": "https://sls.dashbird.io/webinar-sign-up",
+            "description": "We will be covering the advanced techniques of observability, debugging and operations with large-scale serverless environments. We'll be looking at the best practices for ingesting and navigating logs, metrics and traces to easily understand the state of your application and develop confidence in your operational practices, as well as effectively navigating data, managing processes and data viz.",
+            "organizer": "Dashbird",
+            "eventlanguage": "English"
         },
         {
             "event": "Build Modern Serverless Applications with GraphQL APIs and AWS AppSync",
@@ -191,6 +141,16 @@
             "description": "How should you configure your subnets, route tables, and other networking aspects to best support your application’s needs? In this tech talk we'll cover best practices for security, high availability, and cost. We'll also review service endpoints, cross account access, and provide insight on how to minimize the configuration overhead of a large virtual private network.",
             "organizer": "Amazon Web Services (AWS)",
             "eventlanguage": "English"
+        },
+        {
+            "event": "AWS Discovery Day Serverless Edition",
+            "eventlocation": "Online",
+            "starttime": 1601452800,
+            "endtime": 1601478000,
+            "link": "https://awsdiscoveryday.xpeppers.com/",
+            "description": "Gli AWS Discovery Day sono eventi online completamente gratuiti, pensati per introdurre i concetti del cloud computing di AWS e le opportunità di utilizzo più interessanti. Ogni giornata è dedicata ai clienti che sono appena entrati nel mondo AWS e vogliono comprenderne a pieno le reali potenzialità.",
+            "organizer": "XPeppers",
+            "eventlanguage": "Italiano"
         },
         {
             "event": "CDK Day",
