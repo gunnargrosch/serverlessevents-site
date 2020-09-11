@@ -13,26 +13,6 @@
             "eventlanguage": "English"
         },
         {
-            "event": "Serverless Office Hours on Twitch",
-            "eventlocation": "Online",
-            "starttime": 1599739200,
-            "endtime": 1599742800,
-            "link": "https://aws-benelux-tech-office-hours.splashthat.com/",
-            "description": "Join us for the Serverless Tech Office Hours on Twitch to ask all of your serverless questions. In this edition, we will have Sara Gerion, Sohan Maheshwar and Marek Kuczynski share their experiences and answer questions from the audience. ",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Autenticação Serverless com Amazon Cognito",
-            "eventlocation": "Online",
-            "starttime": 1599775200,
-            "endtime": 1599782400,
-            "link": "https://www.meetup.com/AWS-GO/events/272801730/",
-            "description": "Implementar e provisionar serviços de autenticação, autorização e gerenciamento de usuários para os seus aplicativos móveis e web pode ser desafiador. Nessa apresentação vamos ver como o Amazon Cognito pode agilizar esse processo, através da arquitetura Serverless e provisionamento de infraestrutura como código utilizando o Serverless Framework.",
-            "organizer": "AWS User Group Goiânia",
-            "eventlanguage": "Portuguese"
-        },
-        {
             "event": "Fundamentals of Azure Serverless Computing",
             "eventlocation": "Online",
             "starttime": 1599888600,
@@ -63,6 +43,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "Serverless Java #slideless",
+            "eventlocation": "Online",
+            "starttime": 1600099200,
+            "endtime": 1600106400,
+            "link": "https://www.meetup.com/airhacks/events/273168749/",
+            "description": "What is serverless? Can we use Java for serverless? Can a Java application ship as a function? What are the killer use cases for serverless applications? How to develop Java functions locally? Are functions “cheap”? I'm going to deploy some functions to different platforms and clouds. Prepare good questions!",
+            "organizer": "airhacks",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Serverless Minimalism: How to architect your apps to save 98% on your Azure bill",
             "eventlocation": "Online",
             "starttime": 1600108200,
@@ -80,6 +70,56 @@
             "link": "https://www.meetup.com/IndyAWS/events/272082785/",
             "description": "This month, we will be coming together to talk about all things Serverless with some AWS Serverless Heroes. The format is open discussion, so come join Six Feet Up and your fellow Amazonians to chat about Serverless, any AWS issues you might need help on, and the latest in AWS!",
             "organizer": "IndyAWS",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Getting start with Java 11 Serverless functions",
+            "eventlocation": "Online",
+            "starttime": 1600257600,
+            "endtime": 1600264800,
+            "link": "https://www.meetup.com/Microsoft-Reactor-Toronto/events/272497381",
+            "description": "Java 11 for Azure Functions is now available for Windows and Linux enabling development of Java 11 Serverless apps using the tools of your choice, specifically the Azure portal, Azure CLI, Gradle, and Maven tools. Join me as we show you its new powerful new features and how to get started.",
+            "organizer": "Microsoft Reactor Toronto",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Azure Functions",
+            "eventlocation": "Online",
+            "starttime": 1600275600,
+            "endtime": 1600279200,
+            "link": "https://www.meetup.com/Cloud-Serverless-Turkey/events/273139242/",
+            "description": "Pamir Erdem, uzun yıllardır birçok firmaya cloud alanında danışmanlık hizmeti verdikten sonra Microsoft bünyesinde Azure Specialist olarak kariyer hayatına devam etmektedir. Pamir bu etkinlikte bizlere Azure Functions hakkında sunumlar yaparak, Azure Functions'ı konteynerler üzerinde çalıştırma mantığını demo ile aktarıyor olacak.",
+            "organizer": "Cloud and Serverless Turkey",
+            "eventlanguage": "Turkish"
+        },
+        {
+            "event": "AWS serverless concept with lambda, load JSON file from S3 and put in DynamoDB",
+            "eventlocation": "",
+            "starttime": 1600299000,
+            "endtime": 1600302600,
+            "link": "https://www.meetup.com/Reston-Amazon-Web-Services-Meetup-Group/events/273118380/",
+            "description": "In this one hour session we will get hands on creating JSON file and uploading it to DynamoDB for persistence with Lambda, Python, S3, CloudWatch and IAM.",
+            "organizer": "Development, Cloud and DevOps Common ground",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Virtual Serverless Hackathon",
+            "eventlocation": "Online",
+            "starttime": 1600304400,
+            "endtime": 1600318800,
+            "link": "https://www.meetup.com/lambdasharp/events/tkwksrybcmbvb/",
+            "description": "This is a hands-on event suitable for advanced developers, passionate beginners, and curious minds! Each meeting is focused on exploring a serverless technology by building a service with it. Participants are split into random teams of 3 to 4 to collaborate on a solution. We believe that team collaboration is the most fun way to make new discoveries, master new technologies and make new friends!",
+            "organizer": "λ# - All Things Serverless and AWS Lambda",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Going Serverless with GraphQL",
+            "eventlocation": "Online",
+            "starttime": 1600340400,
+            "endtime": 1600344000,
+            "link": "https://www.meetup.com/Serverless-Singapore/events/272842253/",
+            "description": "GraphQL 101, followed by demo of the same using Hasura stack leveraging the best of serverless tech.",
+            "organizer": "Serverless Singapore",
             "eventlanguage": "English"
         },
         {
