@@ -4,7 +4,7 @@ import eventsData from "../../eventsData.json"
 import moment from 'moment-timezone';
 
 const timestampNow = Date.now()/1000
-const eventsDataFiltered = eventsData.content.filter(data =>  data.endtime > timestampNow);
+const eventsDataFiltered = eventsData.content.filter(data =>  data.endtime > timestampNow && timestampNow < data.starttime+259200);
 
 const Events = props => (
   <nav id="events">
