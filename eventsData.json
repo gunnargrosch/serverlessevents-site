@@ -13,136 +13,6 @@
             "eventlanguage": "English"
         },
         {
-            "event": "Fundamentals of Azure Serverless Computing",
-            "eventlocation": "Online",
-            "starttime": 1599888600,
-            "endtime": 1599892200,
-            "link": "https://www.meetup.com/The-Tech-Compute/events/273039060/",
-            "description": "The Cloud Compute brings you free Webinar on Fundamentals of Azure Serverless Computing.",
-            "organizer": "The Cloud Compute",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Build HTTP-based API endpoints using Azure Functions",
-            "eventlocation": "Online",
-            "starttime": 1599933600,
-            "endtime": 1599940800,
-            "link": "https://www.meetup.com/Azure-Data-Platform/events/272361282/",
-            "description": "Topics that will be covered during this session: A robust developer experience, A wide range of triggering options, An innovative way of accessing and processing data, “Serverless” execution model, Open source runtime that runs anywhere, Other benefits, Demo",
-            "organizer": "Azure Data Platform",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Refactoring a distributed monolith to AWS micro services",
-            "eventlocation": "Online",
-            "starttime": 1600097400,
-            "endtime": 1600102800,
-            "link": "https://www.meetup.com/NW-Atlanta-Amazon-Web-Services-Meetup/events/csxrmrybcmbnb",
-            "description": "Presented by Rehan van der Merwe -- AWS junkie, AWS SA, and AWS HERO.\nThis presentation shows the thought process and steps involved in refactoring a distributed monolith to microservices. We are going to remove API Gateway, use Amazon Event Bridge, and implement BASE consistency in the system to truly decouple the microservices.",
-            "organizer": "NW Atlanta Amazon Web Services Meetup",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless Java #slideless",
-            "eventlocation": "Online",
-            "starttime": 1600099200,
-            "endtime": 1600106400,
-            "link": "https://www.meetup.com/airhacks/events/273168749/",
-            "description": "What is serverless? Can we use Java for serverless? Can a Java application ship as a function? What are the killer use cases for serverless applications? How to develop Java functions locally? Are functions “cheap”? I'm going to deploy some functions to different platforms and clouds. Prepare good questions!",
-            "organizer": "airhacks",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Serverless Minimalism: How to architect your apps to save 98% on your Azure bill",
-            "eventlocation": "Online",
-            "starttime": 1600108200,
-            "endtime": 1600110000,
-            "link": "http://www.integrationusergroup.com/events/how-to-architect-your-apps-to-minimize-azure-bill-serverless-minimalism/",
-            "description": "Dan Bass will join us on Integration Monday to talk about a Realworld Serverless solution. \n\nHear how we saved 98% on our Azure bill by using a Serverless architecture instead of a PaaS architecture and learn how you can do the same. Also, get to know how we surfaced resource costs to developers that enabled them to make informed decisions on what architecture to choose!",
-            "organizer": "Integration Usergroup",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Open Discussion and Support (Serverless)",
-            "eventlocation": "Online",
-            "starttime": 1600200000,
-            "endtime": 1600203600,
-            "link": "https://www.meetup.com/IndyAWS/events/272082785/",
-            "description": "This month, we will be coming together to talk about all things Serverless with some AWS Serverless Heroes. The format is open discussion, so come join Six Feet Up and your fellow Amazonians to chat about Serverless, any AWS issues you might need help on, and the latest in AWS!",
-            "organizer": "IndyAWS",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Getting start with Java 11 Serverless functions",
-            "eventlocation": "Online",
-            "starttime": 1600257600,
-            "endtime": 1600264800,
-            "link": "https://www.meetup.com/Microsoft-Reactor-Toronto/events/272497381",
-            "description": "Java 11 for Azure Functions is now available for Windows and Linux enabling development of Java 11 Serverless apps using the tools of your choice, specifically the Azure portal, Azure CLI, Gradle, and Maven tools. Join me as we show you its new powerful new features and how to get started.",
-            "organizer": "Microsoft Reactor Toronto",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Azure Functions",
-            "eventlocation": "Online",
-            "starttime": 1600275600,
-            "endtime": 1600279200,
-            "link": "https://www.meetup.com/Cloud-Serverless-Turkey/events/273139242/",
-            "description": "Pamir Erdem, uzun yıllardır birçok firmaya cloud alanında danışmanlık hizmeti verdikten sonra Microsoft bünyesinde Azure Specialist olarak kariyer hayatına devam etmektedir. Pamir bu etkinlikte bizlere Azure Functions hakkında sunumlar yaparak, Azure Functions'ı konteynerler üzerinde çalıştırma mantığını demo ile aktarıyor olacak.",
-            "organizer": "Cloud and Serverless Turkey",
-            "eventlanguage": "Turkish"
-        },
-        {
-            "event": "AWS serverless concept with lambda, load JSON file from S3 and put in DynamoDB",
-            "eventlocation": "",
-            "starttime": 1600299000,
-            "endtime": 1600302600,
-            "link": "https://www.meetup.com/Reston-Amazon-Web-Services-Meetup-Group/events/273118380/",
-            "description": "In this one hour session we will get hands on creating JSON file and uploading it to DynamoDB for persistence with Lambda, Python, S3, CloudWatch and IAM.",
-            "organizer": "Development, Cloud and DevOps Common ground",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Virtual Serverless Hackathon",
-            "eventlocation": "Online",
-            "starttime": 1600304400,
-            "endtime": 1600318800,
-            "link": "https://www.meetup.com/lambdasharp/events/tkwksrybcmbvb/",
-            "description": "This is a hands-on event suitable for advanced developers, passionate beginners, and curious minds! Each meeting is focused on exploring a serverless technology by building a service with it. Participants are split into random teams of 3 to 4 to collaborate on a solution. We believe that team collaboration is the most fun way to make new discoveries, master new technologies and make new friends!",
-            "organizer": "λ# - All Things Serverless and AWS Lambda",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Going Serverless with GraphQL",
-            "eventlocation": "Online",
-            "starttime": 1600340400,
-            "endtime": 1600344000,
-            "link": "https://www.meetup.com/Serverless-Singapore/events/272842253/",
-            "description": "GraphQL 101, followed by demo of the same using Hasura stack leveraging the best of serverless tech.",
-            "organizer": "Serverless Singapore",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Mastering the AWS Serverless Application Model (AWS SAM)",
-            "eventlocation": "Online",
-            "starttime": 1600718400,
-            "endtime": 1600722000,
-            "link": "https://pages.awscloud.com/AWS-Online-Tech-Talks_September-2020.html?webinar=2020_0903-SRV",
-            "description": "The AWS Serverless Application Model (AWS SAM) is an open-source framework for building serverless applications, and in this tech talk you’ll learn how to use SAM templates to manage serverless infrastructure as code. From serverless specific resources to pseudo parameters, you’ll learn how to construct highly flexible and re-usable SAM templates to manage your serverless application.",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Chaos Engineering (not only) for Serverless",
-            "eventlocation": "Online",
-            "starttime": 1600794000,
-            "endtime": 1600801200,
-            "link": "https://www.meetup.com/Cape-Town-DevOps/events/273090619",
-            "description": "Chaos engineering has moved from being a buzzword to something companies are adopting to help verify the output of their systems. In this session Gunnar Grosch will cover the motivations behind chaos engineering, how we perform chaos experiments, and run some actual experiments in an environment to see how it can help us build reliable applications.",
-            "organizer": "Cape Town DevOps Meetup",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Nimbella and Postman: From APIs to Serverless Cloud Applications in Minutes",
             "eventlocation": "Online",
             "starttime": 1600876800,
@@ -151,6 +21,16 @@
             "description": "APIs are at the heart of all modern-day applications. With Postman, developers can design and test their APIs, and generate mock servers to facilitate the development of cloud and mobile applications. Today, we're taking the Postman developer journey to the next level, with Nimbella.",
             "organizer": "Postman ",
             "eventlanguage": "English "
+        },
+        {
+            "event": " Monorepo Deployments in Serverless & Connecting AI with Cloud Computing",
+            "eventlocation": "Online",
+            "starttime": 1600945200,
+            "endtime": 1600950600,
+            "link": "https://us02web.zoom.us/webinar/register/6316006981910/WN_6BX6zDcNRqKkUfehfwWN1g",
+            "description": "1st Speaker: Alvaro Martinez Llamojha - Senior Infrastructure Engineer - The LEGO Group 2nd Speaker: Amit Gautam - Machine Learning Engineer - Autodesk",
+            "organizer": "GCS Connect",
+            "eventlanguage": "English"
         },
         {
             "event": "WEBINAR: Advanced Serverless Debugging through Observability",
@@ -234,7 +114,7 @@
         },
         {
             "event": "Serverless Architecture Conference",
-            "eventlocation": "Berlin, Germany",
+            "eventlocation": "Online",
             "starttime": 1602482400,
             "endtime": 1602687600,
             "paidevent": true,
