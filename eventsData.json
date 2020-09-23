@@ -43,6 +43,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "AWS Community Voices Live on Twitch",
+            "eventlocation": "Online",
+            "starttime": 1600977600,
+            "endtime": 1600984800,
+            "link": "https://awscommunityvoices.splashthat.com/",
+            "description": "In this episode AWS Serverless Hero Gunnar Grosch will share his experience with continuous verification for serverless applications and AWS Commuinty Hero Calvin Hendryx-Parker will show us how to deploy a virtual event platform using Fargate and Terraform. ",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
             "event": "Build Modern Serverless Applications with GraphQL APIs and AWS AppSync",
             "eventlocation": "Online",
             "starttime": 1601323200,
