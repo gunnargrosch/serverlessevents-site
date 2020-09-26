@@ -13,46 +13,6 @@
             "eventlanguage": "English"
         },
         {
-            "event": "Nimbella and Postman: From APIs to Serverless Cloud Applications in Minutes",
-            "eventlocation": "Online",
-            "starttime": 1600876800,
-            "endtime": 1600880400,
-            "link": "https://nimbella.com/webinars/nimbella-and-postman-from-apis-to-serverless-cloud-applications-in-minutes",
-            "description": "APIs are at the heart of all modern-day applications. With Postman, developers can design and test their APIs, and generate mock servers to facilitate the development of cloud and mobile applications. Today, we're taking the Postman developer journey to the next level, with Nimbella.",
-            "organizer": "Postman ",
-            "eventlanguage": "English "
-        },
-        {
-            "event": " Monorepo Deployments in Serverless & Connecting AI with Cloud Computing",
-            "eventlocation": "Online",
-            "starttime": 1600945200,
-            "endtime": 1600950600,
-            "link": "https://us02web.zoom.us/webinar/register/6316006981910/WN_6BX6zDcNRqKkUfehfwWN1g",
-            "description": "1st Speaker: Alvaro Martinez Llamojha - Senior Infrastructure Engineer - The LEGO Group 2nd Speaker: Amit Gautam - Machine Learning Engineer - Autodesk",
-            "organizer": "GCS Connect",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "WEBINAR: Advanced Serverless Debugging through Observability",
-            "eventlocation": "Online",
-            "starttime": 1600963200,
-            "endtime": 1600966800,
-            "link": "https://sls.dashbird.io/webinar-sign-up",
-            "description": "We will be covering the advanced techniques of observability, debugging and operations with large-scale serverless environments. We'll be looking at the best practices for ingesting and navigating logs, metrics and traces to easily understand the state of your application and develop confidence in your operational practices, as well as effectively navigating data, managing processes and data viz.",
-            "organizer": "Dashbird",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS Community Voices Live on Twitch",
-            "eventlocation": "Online",
-            "starttime": 1600977600,
-            "endtime": 1600984800,
-            "link": "https://awscommunityvoices.splashthat.com/",
-            "description": "In this episode AWS Serverless Hero Gunnar Grosch will share his experience with continuous verification for serverless applications and AWS Commuinty Hero Calvin Hendryx-Parker will show us how to deploy a virtual event platform using Fargate and Terraform. ",
-            "organizer": "Amazon Web Services (AWS)",
-            "eventlanguage": "English"
-        },
-        {
             "event": "Build Modern Serverless Applications with GraphQL APIs and AWS AppSync",
             "eventlocation": "Online",
             "starttime": 1601323200,
@@ -134,6 +94,16 @@
             "eventlanguage": "English"
         },
         {
+            "event": "AWS Serverless Day for Startups",
+            "eventlocation": "Online",
+            "starttime": 1602738000,
+            "endtime": 1602772200,
+            "link": "https://aws-serverless-day-for-startup.splashthat.com/",
+            "description": "This is an online deep dive workshop (Level 300-400) It is intended for developers and DevOps engineers who want to learn about the serverless spectrum on the AWS Cloud. In this workshop, you learn about the spectrum of serverless services on the AWS cloud. You will be hands-on and use these services to create a new unicorn from scratch. ",
+            "organizer": "Amazon Web Services (AWS)",
+            "eventlanguage": "English"
+        },
+        {
             "event": "ServerlessDays Virtual",
             "eventlocation": "Online",
             "starttime": 1603904400,
@@ -141,6 +111,16 @@
             "link": "https://virtual.serverlessdays.io",
             "description": "Third edition of ServerlessDays Virtual with a busload of great speakers and talks.",
             "organizer": "ServerlessDays Virtual",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "ServerlessDays Stockholm",
+            "eventlocation": "Online",
+            "starttime": 1606323600,
+            "endtime": 1606338000,
+            "link": "https://stockholm.serverlessdays.io/",
+            "description": "ServerlessDays Stockholm is a developer-oriented conference about serverless technologies. We believe in and encourage practical sessions, in which developers share their experience and lessons from real-world projects. This time with an all Nordics speaker line-up.",
+            "organizer": "ServerlessDays Stockholm",
             "eventlanguage": "English"
         }
     ]
