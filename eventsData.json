@@ -2,133 +2,33 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Adapting Java for the Serverless world (perspective of an AWS developer)",
+            "event": "Serverless Series: Serverless on Azure",
             "eventlocation": "Online",
-            "starttime": 1603735200,
-            "endtime": 1603740600,
-            "link": "https://www.meetup.com/jug-hamburg/events/273825494/",
-            "description": "Adapting Java for the Serverless world (from the perspective of the AWS developer) Beschreibung Java is for many years one of the most popular programming languages, but it used to have hard times in the Serverless Community. Java is known for its high cold start times and high memory footprint. For both you have to pay to the cloud providers of your choice. ",
-            "organizer": "Java User Group Hamburg",
+            "starttime": 1605549600,
+            "endtime": 1605553200,
+            "link": "https://www.meetup.com/AzureDublin/events/274406868/",
+            "description": "This session will give you an overview of the different serverless technologies available today on the Azure platform. Introducing when and how to use Azure Functions, Logic Apps and Container Instances.",
+            "organizer": "Azure Dublin Meetup",
             "eventlanguage": "English"
         },
         {
-            "event": "Serverless Week",
+            "event": "SRE Topics: Are majority of Engineering Teams doomed to mediocrity?",
             "eventlocation": "Online",
-            "starttime": 1603742400,
-            "endtime": 1604097000,
-            "link": "http://www.serverlessweek.com/",
-            "description": "Serão 5 dias de conteúdo com 13 palestras com especialistas em desenvolvimento Serverless do Brasil e do mundo, explorando as possibilidades para você mergulhar de vez neste tema!",
-            "organizer": "Dos grupos de usuários de AWS do Brasil",
-            "eventlanguage": "Portuguese and English"
-        },
-        {
-            "event": "Serverless - Dobre Praktyki",
-            "eventlocation": "Online",
-            "starttime": 1603789200,
-            "endtime": 1603792800,
-            "link": "https://www.meetup.com/aws-polska/events/274043379/",
-            "description": "Czy kiedykolwiek zastanawiałeś się nad budowaniem aplikacji nie myśląc o serwerze, na którym będzie ona działała, nie martwić się o zarządzanie i obsługę nimi lub środowisk wykonawczych? Wyobraź sobie, że możesz zbudować prawie każdy typ aplikacji w ten właśnie sposób – bez myślenia o infrastrukturze, w sposób zapewniający dużą dostępność, skalowalność, minimalizację kosztów.",
-            "organizer": "AWS Polska",
-            "eventlanguage": "Polish"
-        },
-        {
-            "event": "Deploying Your First Serverless Application on IBM Cloud",
-            "eventlocation": "Online",
-            "starttime": 1603803600,
-            "endtime": 1603810800,
-            "link": "https://www.meetup.com/IBM-Developer-Egypt/events/273587371/",
-            "description": "Building serverless applications is the new trend in developing easy and cheap cloud-native applications. Join us in this Arabic webinar to know more about serverless applications",
-            "organizer": "IBM Developer Egypt",
-            "eventlanguage": "Arabic"
-        },
-        {
-            "event": "Exploring Serverless Architectures on AWS",
-            "eventlocation": "Online",
-            "starttime": 1603834200,
-            "endtime": 1603841400,
-            "link": "https://www.meetup.com/Rochester-AWS-Users-Group/events/273960018/",
-            "description": "When we talk about Serverless on AWS, everyone always thinks about Lambda. But sometimes a serverless architecture is only possible because of other services that are often not thought of as “serverless”. In fact, the first two AWS services (SQS and S3) were serverless!",
-            "organizer": "Rochester AWS Users Group",
+            "starttime": 1605567600,
+            "endtime": 1605574800,
+            "link": "https://www.meetup.com/Serverless-Toronto/events/273336700/",
+            "description": "According to DevOps Research & Assessment (DORA) report, elite teams get code to users 100x faster than the bottom half of teams, deploy 46x more frequently, and restore service from incidents in 2666x less time! Is this a skill gap (spoiler: NO), a technical problem, or a business one? Most importantly, how can you help your team function at an elite level?",
+            "organizer": "Serverless Toronto",
             "eventlanguage": "English"
         },
         {
-            "event": "What's new with serverless on GCP?",
+            "event": "Managing dependencies for AWS Lambda functions with Eric Johnson",
             "eventlocation": "Online",
-            "starttime": 1603895400,
-            "endtime": 1603899000,
-            "link": "https://www.meetup.com/gdgcblr/events/274020928/",
-            "description": "With Google Cloud Next coming to an end, there have been several announcements and improvements to the GCP services. The serverless services like Cloud Functions and Cloud Run are no exception to this. In fact, the new features on these services might be the best ones out of all!",
-            "organizer": "GDG Cloud Bengaluru",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "AWS Fargate ile Serverless mikroservis yonetimi",
-            "eventlocation": "Online",
-            "starttime": 1603899000,
-            "endtime": 1603906200,
-            "link": "https://www.meetup.com/AWS-User-Group-Turkey/events/273881051/",
-            "description": "28 Ekim akşamı bu sefer geniş bir yelpazeyi konuşacağız. Gunumuz IT ekosisteminde konteynirlar ve konterynir orkestratorler sirketlerin urunlerini hizli bir sekilde gelistirip musteriyle bulusturmasinda, dolayisiyla ozellikle mikroservis mimarilerde onemli ve stratejik bir yere sahip.",
-            "organizer": "AWS User Group Turkey",
-            "eventlanguage": "Turkish"
-        },
-        {
-            "event": "ServerlessDays Virtual",
-            "eventlocation": "Online",
-            "starttime": 1603904400,
-            "endtime": 1603924200,
-            "link": "https://virtual.serverlessdays.io",
-            "description": "Third edition of ServerlessDays Virtual with a busload of great speakers and talks.",
-            "organizer": "ServerlessDays Virtual",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "What is Serverless?",
-            "eventlocation": "Online",
-            "starttime": 1603987200,
-            "endtime": 1603990800,
-            "link": "https://www.meetup.com/IBM-Developers/events/273899193/",
-            "description": "This talk focuses on explaining the different compute models available for Cloud and the differences between them. Functions-as-a-Service is the topmost layer providing maximum ease to develop with least concern about handling the infrastructure. FaaS approaches the developers with the idea of focussing on code and enhancements.",
-            "organizer": "IBM Developer",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Funktionales Domain Modeling von Serverless Microservices",
-            "eventlocation": "Online",
-            "starttime": 1603990200,
-            "endtime": 1603998000,
-            "link": "https://www.meetup.com/ddd-vienna/events/273843143/",
-            "description": "Martin Lorenz und Christoph Wanasek beschäftigen sich seit vielen Jahren als Software Architekten und Entwickler mit DDD und Event basierten Architekturen. Aufbauend auf den Ideen aus Scott Wlaschins Buch \"Domain Modeling Made Functional\" zeigen sie, wie funktionales Domain Modeling für eine Serverless [1] Umgebung in der Praxis umgesetzt werden kann.",
-            "organizer": "Domain-Driven Design Vienna",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Unified Serverless ETL Streaming Architecture",
-            "eventlocation": "Online",
-            "starttime": 1604016000,
-            "endtime": 1604021400,
-            "link": "https://www.meetup.com/AWS-Portland/events/273961794/",
-            "description": "The session will also walkthrough a specific implementation of the Serverless unified streaming architecture based on an on-premises simulation of a MySQL database as input channel and Amazon DynamoDB as the enriched data destination, that you can deploy into your own AWS account for experimenting and evolving this architecture to address your business challenges.",
-            "organizer": "Portland AWS User Group",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Wprowadzenie do Serverless Framework",
-            "eventlocation": "Online",
-            "starttime": 1604131200,
-            "endtime": 1604160000,
-            "link": "https://www.meetup.com/StacjaIT/events/273570404/",
-            "description": "Celem warsztatu jest wprowadzenie do Serverless Framework w chmurze AWS. Będziemy rozwijać backend w architekturze serverless dla prostej aplikacji do zarządzania notatkami i załącznikami. Zostaną omówione podstawowe usługi AWS wraz z ich najważniejszymi funkcjami oraz możliwymi integracjami.",
-            "organizer": "Stacja IT Warszawa",
-            "eventlanguage": "Polish"
-        },
-        {
-            "event": "AWS Lambda-Node.js - RestAPIs Development",
-            "eventlocation": "Online",
-            "starttime": 1604341800,
-            "endtime": 1604347200,
-            "link": "https://www.meetup.com/zero2hero-training/events/273820259/",
-            "description": "RestAPI development with AWS Lambda - Node.js. As you know, Serverless architecture is getting more to the table day by day. Let see how it work together ;)",
-            "organizer": "Zero to Hero",
+            "starttime": 1605573000,
+            "endtime": 1605578400,
+            "link": "https://www.meetup.com/Serverless-MN/events/274490188/",
+            "description": "In this session, I demonstrate how to structure an application to share dependencies across all Lambda functions in the same application. I also demonstrate using AWS Lambda layers to further abstract dependency management and share code across single applications or multiple applications shared across the globe.",
+            "organizer": "Serverless MN",
             "eventlanguage": "English"
         },
         {
@@ -139,6 +39,28 @@
             "link": "https://stockholm.serverlessdays.io/",
             "description": "ServerlessDays Stockholm is a developer-oriented conference about serverless technologies. We believe in and encourage practical sessions, in which developers share their experience and lessons from real-world projects. This time with an all Nordics speaker line-up.",
             "organizer": "ServerlessDays Stockholm",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Running containers on AWS",
+            "eventlocation": "Online",
+            "starttime": 1610355600,
+            "endtime": 1610357400,
+            "paidevent": true,
+            "link": "https://homeschool.dev/class/containers-on-aws",
+            "description": "A 4-week introduction to running containers on AWS taught by AWS Container Hero Vlad Ionescu. Running Containers on AWS will teach you everything you need to know to start running containers using Docker, Fargate and Kubernetes.\n11 January 2021 - 5 February 2021\n£400, €450, $520",
+            "organizer": "Homeschool from Senzo",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Production Ready Serverless",
+            "eventlocation": "Online",
+            "starttime": 1610960400,
+            "endtime": 1613430000,
+            "paidevent": true,
+            "link": "https://homeschool.dev/class/production-ready-serverless",
+            "description": "Start with an introduction into Lambda, introducing foundational concepts, moving onto API security, testing strategies, CI/CD, secret management, and finishing with operational best practices.\n18 January - 15 February 2021\n£1200, €1300, $1500",
+            "organizer": "Homeschool from Senzo",
             "eventlanguage": "English"
         }
     ]
