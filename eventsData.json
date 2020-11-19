@@ -2,33 +2,113 @@
     "title": "Serverless Events in JSON",
     "content": [
         {
-            "event": "Serverless Series: Serverless on Azure",
+            "event": "Writing testable serverless apps using hexagonal architecture",
             "eventlocation": "Online",
-            "starttime": 1605549600,
-            "endtime": 1605553200,
-            "link": "https://www.meetup.com/AzureDublin/events/274406868/",
-            "description": "This session will give you an overview of the different serverless technologies available today on the Azure platform. Introducing when and how to use Azure Functions, Logic Apps and Container Instances.",
+            "starttime": 1605805200,
+            "endtime": 1605810600,
+            "link": "https://www.meetup.com/Geneva-Serverless-Meetup/events/273489830/",
+            "description": "According to many polls, testing serverless applications and fear of the cloud vendor lock-in are among the top five challenges organizations face when adopting serverless. We often hear that using serverless effectively requires a mind shift. But what does that mean? ",
+            "organizer": "Geneva Serverless Meetup",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "An Intro to Serverless with AWS",
+            "eventlocation": "Online",
+            "starttime": 1605808800,
+            "endtime": 1605816000,
+            "link": "https://www.meetup.com/codu-community/events/274597945/",
+            "description": "Serverless is taking the world by storm and AWS is the #1 Cloud Provider in the market. In this workshop, you will learn how to put together all the major pieces in a Serverless application.",
+            "organizer": "Codú Community",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Moving to Microservices: Containers versus Serverless",
+            "eventlocation": "Online",
+            "starttime": 1605812400,
+            "endtime": 1605819600,
+            "link": "https://www.meetup.com/DeveloperSouthCoast/events/271028342/",
+            "description": "Many companies are looking for a path to migrate from legacy monolithic applications, towards a more modern, cloud-based microservice architecture. But there are many choices along the way. How do you pick between two of the hottest trends in cloud architecture at the moment: containers and serverless?",
+            "organizer": "Developer South Coast",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Testing en Arquitecturas Serverless",
+            "eventlocation": "Online",
+            "starttime": 1605812400,
+            "endtime": 1605819600,
+            "link": "https://www.meetup.com/quality-assurance-colombia/events/274551542/",
+            "description": "La Arquitectura Serverless es un concepto que se está expandiendo con fuerza debido a sus ventajas de reducción de costos y mayor disponibilidad que ofrece en el diseño de aplicaciones, también genera nuevos desafíos en nuestras pruebas de control de calidad.",
+            "organizer": "Quality Assurance Colombia",
+            "eventlanguage": "Spanish"
+        },
+        {
+            "event": "Straight to serverless - how NewDay bypassed containers & uses Azure serverless",
+            "eventlocation": "Online",
+            "starttime": 1605816000,
+            "endtime": 1605823200,
+            "link": "https://www.meetup.com/UK-Cloud-Infrastructure-User-Group/events/274178662/",
+            "description": "Over the last 3 years, we have built a credit card platform covering all channels (mobile, web, chat and voice) serving both customers and internal users, entirely on Azure's Serverless architecture using technologies such as Azure Functions, App Services and CosmosDB. I'll talk about our technology choices and the reasons behind them and how we build, deploy, secure and operate our applications. ",
+            "organizer": "UK Cloud Infrastructure User Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless Java under 100ms",
+            "eventlocation": "Online",
+            "starttime": 1605825000,
+            "endtime": 1605832200,
+            "link": "https://www.meetup.com/The-Boston-Amazon-Web-Services-Meetup-Group/events/274388152/",
+            "description": "We are very excited to have another AWS Hero, Goran Opacic, as our next speaker. He will be speaking on: Supersonic Java Lambdas - how to run Java lambdas with cold start under 100 ms. Best practices for Java serverless devs in AWS world.",
+            "organizer": "The Boston Amazon Web Services Meetup Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Using DynamoDB in Serverless Applications By Alex DeBrie",
+            "eventlocation": "Online",
+            "starttime": 1605826800,
+            "endtime": 1605832200,
+            "link": "https://www.meetup.com/Tampa-Bay-AWS/events/274407243/",
+            "description": "For many reasons, DynamoDB has been the database of choice for serverless developers in the AWS ecosystem. In this talk, you'll learn why DynamoDB is such a great fit in serverless applications. Then, you'll learn how to get started with DynamoDB as well as some best practices for data modeling with DynamoDB.",
+            "organizer": "Tampa Bay AWS User Group",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "How the Serverless Framework was my gateway drug into DevOps",
+            "eventlocation": "Online",
+            "starttime": 1605828600,
+            "endtime": 1605835800,
+            "link": "https://www.meetup.com/Akron-Software-Craftsmanship/events/273952258/",
+            "description": "The Serverless Framework is a easy entry point into learning, building, and maintaining AWS and (of course) serverless infrastructure. It makes AWS DevOps much simpler to get into by taking away some of the overwhelming-ness of AWS. It takes care of a lot of the infrastructure you need.",
+            "organizer": "Akron Software Craftsmanship",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Setting up Azure Functions Using App Service Editor",
+            "eventlocation": "Online",
+            "starttime": 1605956400,
+            "endtime": 1605960000,
+            "link": "https://www.meetup.com/Microsoft-Student-Partners-Nigeria/events/274651274/",
+            "description": "With the continued ease of serverless computing, businesses need easier ways to prototype and build serverless functions. Learn how to set up Azure functions the easy way in this free event.",
+            "organizer": "Microsoft Learn Student Ambassadors Nigeria",
+            "eventlanguage": "English"
+        },
+        {
+            "event": "Serverless Series: Developing with Azure Functions",
+            "eventlocation": "Online",
+            "starttime": 1606147200,
+            "endtime": 1606150800,
+            "link": "https://www.meetup.com/AzureDublin/events/274406894/",
+            "description": "In this session, we take a deeper look at Azure Functions and how to develop, deploy, and maintain them. we will take a look at input and output bindings, work with configuration variables, and automate the deployment of our function.",
             "organizer": "Azure Dublin Meetup",
             "eventlanguage": "English"
         },
         {
-            "event": "SRE Topics: Are majority of Engineering Teams doomed to mediocrity?",
+            "event": "Serverless London November #2",
             "eventlocation": "Online",
-            "starttime": 1605567600,
-            "endtime": 1605574800,
-            "link": "https://www.meetup.com/Serverless-Toronto/events/273336700/",
-            "description": "According to DevOps Research & Assessment (DORA) report, elite teams get code to users 100x faster than the bottom half of teams, deploy 46x more frequently, and restore service from incidents in 2666x less time! Is this a skill gap (spoiler: NO), a technical problem, or a business one? Most importantly, how can you help your team function at an elite level?",
-            "organizer": "Serverless Toronto",
-            "eventlanguage": "English"
-        },
-        {
-            "event": "Managing dependencies for AWS Lambda functions with Eric Johnson",
-            "eventlocation": "Online",
-            "starttime": 1605573000,
-            "endtime": 1605578400,
-            "link": "https://www.meetup.com/Serverless-MN/events/274490188/",
-            "description": "In this session, I demonstrate how to structure an application to share dependencies across all Lambda functions in the same application. I also demonstrate using AWS Lambda layers to further abstract dependency management and share code across single applications or multiple applications shared across the globe.",
-            "organizer": "Serverless MN",
+            "starttime": 1606321800,
+            "endtime": 1606329000,
+            "link": "https://www.meetup.com/Serverless-London/events/274624695/",
+            "description": "Nicolas Jean - Migrating Monolithic Apps to Serverless",
+            "organizer": "Serverless London",
             "eventlanguage": "English"
         },
         {
